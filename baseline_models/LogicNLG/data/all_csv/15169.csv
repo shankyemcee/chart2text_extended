@@ -1,0 +1,5 @@
+body_mass_index_(BMI)#20-29_years#30-49_years#50-64_years#65_years_and_older
+Underweight_(BMI_under_18.5)#3.1#1.4#0.5#1.7
+Normal_weight_(BMI_between_18.5_and_24.9)#62.3#48.5#39.4#42.2
+Overweight_(BMI_between_25.0_and_29.9)#24.5#37#40.2#41.6
+Obese_(BMI_30.0_or_more)#10.2#13.1#19.9#14.5

@@ -1,0 +1,5 @@
+ship_type#Max._no._allowed#Number_surrendered_to_Allies#Size_of_replacement_ships_(in_thousand_tons)#Time_before_replacement_allowed_(in_years)
+Battleships#6#8#10.0#20
+Light_cruisers#6#8#6.0#20
+Destroyers#12#42#0.8#15
+Torpedo_boats#12#50#0.2#15

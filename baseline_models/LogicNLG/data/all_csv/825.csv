@@ -1,0 +1,13 @@
+Cash_income_level_in_U.S._dollars#Households_that_pay_income_tax#Households_that_don't_pay_income_tax
+Less_than_10000#0.2#99.8
+10000_to_20000#10.7#89.3
+20000_to_30000#28.1#71.9
+30000_to_40000#40.1#59.9
+40000_to_50000#53.4#46.6
+50000_to_75000#67.4#32.6
+75000_to_100000#83.1#16.9
+100000_to_200000#95.3#4.7
+200000_to_500000#99.2#0.8
+500000_to_1_million#99.4#0.6
+More_than_1_million#99.9#0.1
+All#56.7#43.3

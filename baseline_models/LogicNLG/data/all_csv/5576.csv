@@ -1,0 +1,5 @@
+type_of_stay_and_payer#Maternal/neonatal_stays#Surgical_stays#Medical_stays
+Medicare#0#45#55
+Medicaid#27#30#43
+Private#15#52#34
+Uninsured#4#42#54

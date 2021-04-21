@@ -1,0 +1,7 @@
+NAND_flash_products#Low_estimate#High_estimate
+eMMC/UFS_(consumer_electronics)#5#10
+eMMC/UFS_(mobile)#0#3
+Enterprise_SSD#10#15
+Client_SSD#5#10
+2D_NAND_Flash_(package)#5#10
+3D_NAND_Flash_(wafer)#0#5

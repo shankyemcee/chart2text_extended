@@ -1,0 +1,4 @@
+type_of_light_source#Energy_cost_in_U.S._dollars
+Standard_incandescent_lights_(125_lights_4_watts_each)#27.21
+Mini-incandescent_lights_(300_lights_0.4_watts_each)#6.53
+LED_lights_(280_lights_0.04_watts_each)#0.06
