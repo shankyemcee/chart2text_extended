@@ -1,7 +1,4 @@
-Response#Share_of_respondents
-Under_$1_million#37
-$1_to_$3_million#21
-$3_to_$10_million#14
-$10_to_$50_million#9
-$50_million_or_more#5
-Don't_know#14
+Response,Very_serious_problem,Somewhat_serious_problem
+Availability_of_housing,40,36
+Quality_of_housing,24,39
+Availability_of_hpusing_for_over_age_60,19,28

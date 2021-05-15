@@ -1,5 +1,11 @@
-Country#Warehouse_capacity_in_million_cubic_feet
-United_States#947.7
-Australia#47.6
-New_Zealand#20.4
-Argentina#9.7
+Country,Cumulative_capacity_in_gigawatts
+China,204.0
+U.S.,76.0
+Japan,63.0
+Germany,49.0
+India,42.8
+Italy,20.8
+Australia,14.7
+UK,13.4
+Republic_of_Korea,11.2
+Spain,9.9

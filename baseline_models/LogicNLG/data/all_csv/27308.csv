@@ -1,5 +1,5 @@
-Year#HMO#PPO#HDHP/SO
-200-999_workers#26#67#56
-1000-4999_workers#45#90#92
-5000_or_more_workers#62#97#98
-All_firms#43#72#75
+Response,Share_of_COVID-19_cases
+Overseas,20.5
+Local_-_known,63.8
+Local_-_unknown,15.8
+Under_investigation,0

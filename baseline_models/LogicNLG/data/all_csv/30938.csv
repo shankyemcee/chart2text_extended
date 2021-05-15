@@ -1,7 +1,9 @@
-State#Low_estimate#High_estimate
-Antwerp#50#55
-Dubai#40#45
-New_York#35#40
-Hong_Kong#30#35
-Mumbai#25#30
-Tel_Aviv#22#27
+Quarter,Market_value_in_million_GBP
+Q4_'15,5.53
+Q3_'15,4.16
+Q2_'15,1.52
+Q1_'15,0.92
+Q4_'14,0.6
+Q3_'14,0.5
+Q2_'14,0.5
+Q1_'14,0.4

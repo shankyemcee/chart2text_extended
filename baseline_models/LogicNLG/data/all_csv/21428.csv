@@ -1,5 +1,6 @@
-organ_type#2017#2018#2019
-Kidney#39.3#43.6#32.9
-Liver#28.3#31.7#30.0
-Heart#7.9#8.8#9.3
-Pancreas#1.2#0.0#1.2
+Response,Very_interested,Somewhat_interested,not_too_interested,not_interested_at_all
+18-29,13,22,19,47
+30-44,11,21,19,50
+45-54,9,16,26,49
+55-64,4,19,21,56
+65+,3,13,23,62

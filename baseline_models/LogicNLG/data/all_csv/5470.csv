@@ -1,6 +1,6 @@
-Country#Revenue_share
-Other_countries#6
-Japan#7
-North_America#24
-Asia_Pacific#28
-Western_Europe#35
+Response,Share_of_respondents
+Every_day,6
+Every_few_days,7
+Every_few_weeks,13
+Every_few_months_or_less,41
+Never,32

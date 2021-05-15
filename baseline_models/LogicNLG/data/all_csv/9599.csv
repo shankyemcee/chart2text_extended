@@ -1,8 +1,7 @@
-Employment_size_band#Number_of_enterprises
-0-4#1095
-5-9#170
-10-19#50
-20-49#25
-50-99#10
-100-249#0
-250+#0
+geographic_region,Year-on-year_growth
+Latin_America,19.7
+Middle_East_&_Africa,6.2
+North_America,4.5
+Global,4
+Asia_Pacific,1.7
+Europe,-0.8

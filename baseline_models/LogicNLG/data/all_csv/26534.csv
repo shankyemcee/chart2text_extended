@@ -1,11 +1,6 @@
-region#Number_of_hate_crimes
-London#17.6
-North_West#5.47
-South_East#10.53
-Yorkshire_and_the_Humber#9.47
-West_Midlands#8.11
-East_of_England#6.71
-South_West#4.86
-East_Midlands#4.81
-North_East#3.07
-Wales#2.63
+Response,Share_of_respondents
+Exclusively_from_ads,40.1
+Ads_and_subscriptions_(current_solution),29.9
+Directly_from_national_budget,13.3
+Exclusively_from_subscriptions,10.2
+No_opinion,6.5

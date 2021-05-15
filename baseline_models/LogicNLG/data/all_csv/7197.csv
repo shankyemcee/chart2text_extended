@@ -1,4 +1,11 @@
-Number_of_travelers#Distribution_of_bookings
-1_traveler#55
-2_travelers#33
-3+_travelers#12
+occupation_type,Number_of_employees_in_thousands
+Health_care_practitioner_and_technical,3251.2
+Office_and_administrative_support,743.4
+Health_care_support,735.3
+Other_occupations,300.4
+Management,209.3
+Building_and_grounds_cleaning_and_maintenance,188.5
+Food_preparation_and_serving,138.0
+Business_and_financial_operations,126.2
+Community_and_social_services,153.5
+Installation_maintenance_and_repair,55.4

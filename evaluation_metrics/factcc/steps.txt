@@ -1,0 +1,4 @@
+1. make sure data files are correct
+2. cd data; python data_to_jsonl.py
+3. update paths in modeling/scripts/factcc-eval-job.sh and download necessary model checkpoint files
+4. cd sh modeling/scripts;sh factcc-eval-job.sh

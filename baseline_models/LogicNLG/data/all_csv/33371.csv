@@ -1,10 +1,5 @@
-Country#Export_share
-China#30.8
-European_Union_(28)#27.6
-Bangladesh#6.8
-Vietnam#6.2
-India#3.5
-Turkey#3.2
-United_Kingdom#1.8
-Indonesia#1.7
-Cambodia#1.7
+Response,By_second_birthday_(first_dose),By_fifth_birthday_(first_dose),By_fifth_birthday_(first_and_second_dose)
+England,90.6,94.5,86.8
+Wales,94.5,96.6,92.1
+Scotland,94,96.7,91.5
+Northern_Ireland,92.2,96.2,90.3

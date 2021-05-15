@@ -1,11 +1,5 @@
-leading_national_and_international_beer_brands#Sales_volume_in_thousand_hectoliters
-Heineken_Italia#6474
-Peroni_-_SABMiller#3822
-AB_InBev_Italia#1964
-Castello_&_Pedavena#1068
-Carlsberg_Italia#1058
-Forst#881
-Swinkels_F.B._Italia#520
-Ceres#420
-Menabrea#250
-Other#4404
+Response,Very_interested,Somewhat_interested,Not_very_interested,Not_interested_at_all
+White,23,34,17,27
+Hispanic,26,24,15,35
+African_American,32,35,14,19
+Other,24,28,12,36

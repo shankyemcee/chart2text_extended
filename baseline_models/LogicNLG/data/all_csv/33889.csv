@@ -1,11 +1,6 @@
-Country#Number_of_children_with_type_1_diabetes_in_thousands
-India#95.6
-United_States#94.2
-Brazil#51.5
-China#28.7
-Russian_Federation#21.6
-United_Kingdom#21.2
-Algeria#20.1
-Germany#17.2
-Morocco#16.4
-Saudi_Arabia#14.8
+provider_type,Registered_nurse,Licensed_practical_or_vocational_nurse,Aide,Social_worker
+Adult_day_services_center_(19900_FTEs),20.6,11.3,56.8,11.3
+Home_health_agency_(145000_FTEs),53,19.5,25.1,2.5
+Hospice_(85600_FTEs),48,8.8,31.8,11.4
+Nursing_home_(945700_FTEs),11.9,22.4,63.9,1.8
+Residential_care_community_(298800_FTEs),6.1,9.9,83.3,0.8

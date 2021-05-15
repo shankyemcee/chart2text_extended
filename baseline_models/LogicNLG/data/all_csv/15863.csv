@@ -1,11 +1,5 @@
-Month#Month-on-month_percentage_change_in_retail_trade_volume
-Sep_'20#-6.3
-Aug_'20#13.7
-Jul_'20#-2.2
-Jun_'20#33.4
-May_'20#176.5
-April_'20#-50.5
-March_'20#-53.1
-February_'20#-0.5
-January_'20#-0.1
-December_'19#-2
+number_of_rooms,Number_of_hotels
+Fewer_than_25_rooms,12124
+From_25_to_99_rooms,5080
+From_100_to_249_rooms,1780
+250_rooms_or_more,699

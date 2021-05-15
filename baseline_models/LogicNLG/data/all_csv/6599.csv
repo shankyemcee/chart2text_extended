@@ -1,3 +1,6 @@
-region_of_origin#Male#Female
-Rural#14.5#15.8
-Urban#11.8#13.1
+Response,Percentage_of_respondents
+Very_concerned,13
+Fairly_concerned,34
+Not_very_concerned,37
+Not_at_all_concerned,13
+Don't_know,3

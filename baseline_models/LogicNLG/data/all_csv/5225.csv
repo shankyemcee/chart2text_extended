@@ -1,9 +1,8 @@
-Year#Liquids#Natural_gas#Coal#Nuclear#Renewables_(incl._hydroelectric)
-2050#0.17#9.25#9.6#3.58#21.66
-2045#0.17#8.8#8.9#3.41#19.56
-2040#0.19#8.11#8.6#3.28#16.92
-2035#0.24#7.43#8.57#3.14#14.66
-2030#0.32#6.65#8.57#3.04#12.52
-2025#0.44#6.25#8.57#2.78#10.19
-2020#0.63#5.91#8.5#2.71#8.13
-2018#0.74#5.75#8.65#2.64#6.99
+point_in_time_with_respect_to_recurrent_timeframe,Number_of_employees
+as_of_December_29_2019,2800
+as_of_December_30_2018,3500
+as_of_December_31_2017,4200
+as_of_December_25_2016,5400
+as_of_December_27_2015,5600
+as_of_December_28_2014,6200
+as_of_December_29_2013,7080

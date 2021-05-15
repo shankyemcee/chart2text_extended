@@ -1,8 +1,5 @@
-Country#Natural_rate_of_growth
-Africa#2.5
-Latin_America_and_the_Caribbean#1.2
-Worldwide#1.2
-Oceania#1.1
-Asia#1.1
-Northern_America#0.4
-Europe#0
+Year,Proportion_of_sales
+Less_than_1000_€,38
+1000_-_10000_€,41
+10000_-_100000_€,17
+Over_100000_€,4

@@ -1,7 +1,7 @@
-organ#Number_of_organs_recovered
-Kidneys#11108
-Livers#6432
-Hearts#2492
-Lungs#1723
-Pancreases#810
-Intestines#54
+Country,Reserves_in_metric_tons
+China,240000
+Vietnam,53000
+Bolivia,10000
+Mexico,10000
+Canada,5000
+Other_countries,50000

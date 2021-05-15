@@ -1,9 +1,7 @@
-Sex#Median_starting_salary_in_U.S._dollar
-Did_internship#30000$
-Male#30000$
-Pre-recession_(2006-2007)#30000$
-First_job_very/somewhat_related_to_degree#30000$
-Female#28000$
-Recession_(2009-2011)#27000$
-First_job_not_very/not_at_all_related_to_degree#26000$
-No_internship#26000$
+type,Number_of_households
+Total,7800
+Single-person_household,2750
+Couples_with_children,1700
+Couples_without_children,1500
+Other_multi-person_households,1050
+One-parent_household,850

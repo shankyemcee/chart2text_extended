@@ -1,6 +1,8 @@
-mountain#Height_in_meters
-Mount_Everest#8848
-Mount_Godwin#8610
-Kangchendzönga#8586
-Lhotse#8516
-Makalu_I#8463
+notifiable_disease,Minimum,Maximum
+Diphtheria,85,85
+Measles,83,94
+Mumps,75,86
+Pertussis,92,94
+Polio,80,86
+Rubella,80,85
+Smallpox,83,85

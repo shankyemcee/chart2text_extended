@@ -1,8 +1,7 @@
-Country#Average_cost_in_U.S._dollars
-United_States#15000
-Australia#8400
-Switzerland#7500
-United_Kingdom#7100
-Netherlands#5300
-United_Arab_Emirates#4400
-South_Africa#3200
+Year,Beer,Soft_drink,Hot_dog
+2015/16,6.75,4.5,4.75
+2014/15,6.75,4.5,4.75
+2013/14,6.75,4.5,4.75
+2012/13,6.25,4.25,4.5
+2011/12,4.75,4.25,4.5
+2010/11,6.25,4.0,4.5

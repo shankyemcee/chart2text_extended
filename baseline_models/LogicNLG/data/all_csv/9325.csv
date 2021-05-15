@@ -1,7 +1,10 @@
-Response#Share_of_total_cost
-2030#50
-2010#35
-2000#22
-1990#15
-1980#10
-1970#5
+Year,Number_of_prisoners
+Less_than_1_year,1543
+1-3_years,12805
+3-5_years,15614
+5-10_years,39348
+10-15_years,33651
+15-20_years,18251
+More_than_20_years,21927
+Life,4248
+Death,58

@@ -1,4 +1,12 @@
-Voter_Region#Voter_turnout
-Finnish_citizens_living_in_Finland#72.1
-Finnish_citizens_living_abroad#12.6
-All_citizens_eligible_to_vote#68.7
+Response,Share_of_encounters
+Downloader,24.9
+Remote_access_trojan,15.5
+Bot,7.9
+Password_utility,7.6
+Coin_miner,7.2
+Keylogger,6.5
+Web_shell,5.1
+Privilege_escalation,4.7
+Reverse_shell,4.3
+Phishing,3.6
+Worm,3.6

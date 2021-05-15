@@ -1,3 +1,5 @@
-Year#Sales_in_billion_U.S._dollars
-2020#5.0
-2015#3.9
+Size_of_practice,1-2_physicians,3-6_physicians,7_or_more_physicians
+Midwest,33,41,55
+Northeast,31,41,40
+South,59,29,75
+West,24,46,52

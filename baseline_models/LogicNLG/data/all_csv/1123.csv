@@ -1,7 +1,9 @@
-Year#Amount_of_waste_in_metric_tons
-2018#5571474
-2017#5266779
-2016#5404073
-2015#5582051
-2014#5302077
-2013#5396441
+Country,Production_in_thousand_metric_tons
+Brazil,1022
+United_States,297
+Mexico,90
+European_Union,84
+South_Africa,47
+China,46
+Australia,16
+Other,16

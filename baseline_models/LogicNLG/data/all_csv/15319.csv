@@ -1,11 +1,4 @@
-Company_(Country_of_origin)#Retail_sales_in_billion_U.S._dollars
-Walmart_(United_States)#514.41
-Costco_(United_States)#141.58
-Amazon.com_Inc._(United_States)#140.21
-Kroger_(United_States)#117.53
-Walgreens_Boots_Alliance_Inc._(United_States)#110.67
-Home_Depot_(United_States)#108.2
-CVS_Health_Corporation_(United_States)#83.99
-Target_Corporation_(United_States)#74.43
-Lowe's_Companies_Inc._(United_States)#71.31
-Albertsons_Companies_Inc._(United_States)#60.54
+region,Number_of_factory_stores
+Asia,65
+Europe,64
+The_Americas,189

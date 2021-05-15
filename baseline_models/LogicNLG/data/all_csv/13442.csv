@@ -1,7 +1,5 @@
-Response#Share_of_retailers
-Next_day_delivery#73
-Saturday_delivery#37
-Sunday_delivery#9
-Nominated_day_delivery#16
-Same_day_delivery#10
-Nominated_time_delivery#12
+Response,Share_of_shipments
+Sony,49
+Oculus,21
+HTC,16
+Others,14

@@ -1,10 +1,6 @@
-State#Year_over_year_sales_growth_(3_to_11_March_2020_vs._2019)
-Florida#8
-Texas#9
-California#11
-Washington#13
-Virginia#13
-New_York#18
-New_Jersey#20
-Connecticut#21
-District_of_Columbia#26
+Year,Electricity_generation_in_terawatt_hours_(TWh)
+2035,104
+2030,64
+2025,40
+2020,59
+2015,64

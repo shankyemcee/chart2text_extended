@@ -1,13 +1,3 @@
-Year#Number_of_homicides_in_thousands
-2017#47.51
-2016#44.48
-2015#41.82
-2014#42.76
-2013#40.37
-2012#40.08
-2011#36.74
-2010#36.79
-2009#36.62
-2008#35.68
-2007#34.15
-2006#34.92
+films_and_TV_programs,Film,2-3_times_a_week,About_once_a_week,Every_2-3_weeks,About_once_a_month,Less_often
+Film,14,17,24,14,12,16
+TV_program,23,27,27,20,9,11

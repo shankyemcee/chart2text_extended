@@ -1,8 +1,7 @@
-Country#Share_in_total_import
-China#15.4
-United_States#13.6
-United_Arab_Emirates#6.5
-Germany#5.8
-Japan#4.1
-India#4.1
-South_Korea#4
+Year,Domestic_market,Total_market
+2018,11,62
+2017,13,63
+2016,11,62
+2015,11,19
+2014,12,19
+2013,10,461

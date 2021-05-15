@@ -1,12 +1,4 @@
-Region#Percentage_of_employees
-Northern_Africa#19
-Southern_Asia#21
-Western_Asia#21
-Sub-Saharan_Africa#34
-Oceania#39
-South-Eastern_Asia#39
-Eastern_Asia#43
-Latin_America_&_the_Caribbean#45
-Caucasus_&_Central_Asia#44
-Developed_regions#48
-World#41
+Country,Premier_League_(England),La_Liga_(Spain),Bundesliga_(Germany),Serie_A_(Italy)
+Singapore,87,24,14,15
+Indonesia,74,50,12,29
+China,62,62,52,59

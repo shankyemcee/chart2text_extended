@@ -1,9 +1,6 @@
-state_of_Australia#Number_of_tests_per_100,000_residents
-Victoria#51363
-New_South_Wales#40540
-South_Australia#33639
-Australian_Capital_Territory#26536
-Northern_Territory#26223
-Queensland#25306
-Tasmania#23004
-Western_Australia#19720
+Response,Share_of_respondents
+Very_secure,17
+Somewhat_secure,44
+Neither_secure_nor_unsecure,21
+Somewhat_unsecure,13
+Very_unsecure,5

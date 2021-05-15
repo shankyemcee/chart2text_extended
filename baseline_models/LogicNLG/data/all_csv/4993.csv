@@ -1,10 +1,5 @@
-region#Production_in_thousand_metric_tons
-Free_State#4066
-Mpumalanga#2608
-North_West#1628
-Northern_Cape#676
-KwaZulu-Natal#644
-Gauteng#564
-Limpopo#200
-Eastern_Cape#90
-Western_Cape#34
+Retail_Type,Average_spending_on_shopping_in_U.S._dollars
+Marketplace,488
+Large_retailer,409
+Category-specific,259
+Web-store,182

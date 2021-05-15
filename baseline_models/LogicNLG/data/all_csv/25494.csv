@@ -1,10 +1,7 @@
-Year#Units_sold
-2020#59598
-2019#81526
-2018#84551
-2017#49503
-2016#40456
-2015#29947
-2014#11342
-2013#5829
-2012#6556
+Response,Share_of_consumers_buying
+Premium_named_brand,8
+Standard_named_brand,24
+Premium_own_label,14
+Standard_own_label,40
+Economy_or_value_own_label,11
+Don't_know,3

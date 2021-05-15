@@ -1,7 +1,4 @@
-Year#Caucasian#African_American#Hispanic#Asian_American#Native_American
-2019#76.8#12#8.8#2#0.4
-2018#77.4#12.1#8.2#2#0.3
-2017#75.6#10.9#10.5#2.6#0.4
-2016#76.9#11.1#8.9#2.6#0.4
-2015#77.8#10.8#8.2#2.9#0.3
-2014#77.6#10.4#9.1#2.5#0.4
+weekday_and_weekend,Oct_2011_-Mar_2012,Apr-Sept_2012,Oct_2012_-Mar_2013
+Sunday,413472,442274,432040
+Saturday,239151,286261,306411
+Weekdays,278940,311904,340778

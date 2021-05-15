@@ -1,5 +1,10 @@
-Masterbatch_Type#Market_share
-White#29.13
-Black#26.88
-Color#23.47
-Additive#20.52
+Year,Number_of_deaths
+0-9_years,2
+10-19_years,0
+20-29_years,2
+30-39_years,8
+40-49_years,21
+50-59_years,117
+60-69_years,440
+70-79_years,1473
+80_years_and_older,5306

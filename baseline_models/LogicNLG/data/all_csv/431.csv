@@ -1,5 +1,6 @@
-European_cities#Prime_office_yields
-Madrid#5.5
-Frankfurt#4.5
-Paris#4
-London#3.5
+Response,Share_of_CO²_emissions
+Electricity_and_heat_generation,41
+Transportation,24
+Industry,24
+Buildings,8
+Other,3

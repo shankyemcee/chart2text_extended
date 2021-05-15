@@ -1,7 +1,10 @@
-Country#2014#2016#2018
-United_States#19.19#35.96#41.0
-China#2.66#4.91#5.83
-Russia#4.39#3.18#4.17
-Japan#1.76#3.02#3.06
-France#2.44#2.79#3.16
-Germany#1.9#1.98#2.15
+geographic_region,Full_calorie_soft_drinks,Diet_soft_drinks
+Asia,96.9,3.1
+Eastern_Europe,96.7,3.3
+Southern_Africa,95.8,4.2
+MENA,95.2,4.8
+Latin_America,93,7
+Western_Europe,75.5,24.5
+North_America,69,31
+Australasia,64.7,35.3
+Worldwide,85.9,14.1

@@ -1,3 +1,7 @@
-gender#Underweight#Normal#Overweight#Obese,_excluding_morbidly_obese#Morbidly_obese
-Men#2#30#41#25#2
-Women#2#38#31#25#4
+Energy_Sector,Heat_generation_in_Twh
+Deep_geothermal_energy,1
+Bioliquids,2
+Solar_thermal,8
+Shallow_geothermal_energy_environmental_heat,15
+Biogas_and_biomethane_sewage_gas_landfill_gas,19
+Solid_biomass_,130

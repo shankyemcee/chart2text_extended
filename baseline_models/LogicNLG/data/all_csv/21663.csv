@@ -1,10 +1,6 @@
-Response#Share_of_respondents
-Drugstore#72.4
-Supermarket#27.9
-DIY_store#15.1
-Other#8.7
-Pharmacy#3.8
-Co-op_store#1.6
-Convenience_store_(konbini)#0.8
-Muji_Loft_Tokyu_Hands_etc.#0.8
-Speciality_store/_beauty_salon#0.3
+Year,Fruits_and_vegetables,Dairy_products,Oil_and_dry_grocery_products,Beverages,Meat_products
+2015,49,36,30,28,20
+2016,53,48,35,30,34
+2017,59,52,38,35,32
+2018,56,51,35,34,30
+2019,56,50,37,34,30

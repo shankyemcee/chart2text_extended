@@ -1,3 +1,4 @@
-Month#Millions_of_units_shipped
-February_2020#61.8
-February_2019#99.2
+type,Contribution_in_billion_euros
+Direct,14
+Indirect,14
+Induced,7

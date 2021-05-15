@@ -1,8 +1,6 @@
-Year#Market_share
-2022#9
-2021#9
-2020#8
-2019#8
-2018#8
-2017#9
-2016#7
+Year,Consumption_in_grams
+1.5-3_years,6
+4-10_years,9
+11-18_years,13
+19-64_years,15
+65_years_and_over,14

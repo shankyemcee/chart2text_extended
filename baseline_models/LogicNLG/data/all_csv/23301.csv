@@ -1,12 +1,4 @@
-Year#Inhabitants_in_millions
-2025#0.69
-2024#0.68
-2023#0.66
-2022#0.65
-2021#0.64
-2020#0.63
-2019#0.61
-2018#0.6
-2017#0.59
-2016#0.58
-2015#0.56
+Response,Male,Female
+Saw_or_talked_to_health_professional_only,15.5,23.6
+Used_prescription_medication_only,4.6,2.9
+Saw_or_talked_to_health_professional_and_used_prescription_mediction,15.9,17.6

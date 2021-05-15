@@ -1,9 +1,6 @@
-Year#Contribution_in_million_jobs
-2028#3304.3
-2018#2873.0
-2017#2830.5
-2016#2803.2
-2015#2768.5
-2014#2906.5
-2013#2921.1
-2012#2832.8
+Income_in_Canadian_dollars,Percentage_of_donors
+Less_than_20000_CAD,4
+20000_and_39999_CAD,21
+40000_and_59999_CAD,24
+60000_and_79999_CAD,17
+80000_CAD_or_more,35

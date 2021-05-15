@@ -1,11 +1,4 @@
-Year#Number_of_residents
-2010#12838417
-2011#12925753
-2012#13013443
-2013#13097434
-2014#13166609
-2015#13234696
-2016#13270694
-2017#13278000
-2018#13249879
-2019#13214799
+content_removal_requests,Number_of_accounts
+Total_accounts_specified,9
+Accounts_removed_or_restricted,8
+Content_removed_or_restricted,4

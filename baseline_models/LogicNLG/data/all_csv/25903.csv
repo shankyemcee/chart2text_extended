@@ -1,6 +1,5 @@
-Age_of_householder#Male#Female
-Total#15151#19034
-15_to_24_years#745#819
-25_to_44_years#4697#3044
-45_to_64_years#5924#6412
-65_years_and_older#3786#8761
+Educational_Level,Number_of_unemployed_people_in_thousands
+Primary,134.9
+Secondary,120.9
+Higher,112.9
+Information_is_lacking,3.9

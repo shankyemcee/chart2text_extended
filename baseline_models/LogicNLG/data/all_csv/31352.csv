@@ -1,10 +1,7 @@
-Year#Employment_rate
-2019#72.3
-2018#69.2
-2017#68.4
-2016#70
-2015#67.8
-2014#67.8
-2013#67.3
-2012#67.1
-2011#67.7
+Health_insurance_status,Percentage_of_total_population
+Employer,50.9
+Non-group,5.2
+Medicaid,21.7
+Medicare,15.9
+Other_public,0.6
+Uninsured,5.8

@@ -1,4 +1,5 @@
-espresso_machine_type#Unit_share_in_percent
-Steam#40
-Fully_Automatic#34
-Pump#26
+Trip_Type,Average_number_of_trips_per_household
+Domestic_trips_with_children,3.53
+Domestic_trips_without_children,1.94
+International_with_children,1.25
+International_without_children,1.24

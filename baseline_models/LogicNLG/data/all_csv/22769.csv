@@ -1,9 +1,6 @@
-Response#Percentage_of_value
-Global_pharma#45
-Specialty_pharma#23
-Generics#11
-China_pharma#10
-Japan_pharma#6
-Development_stage_biotechnology#3
-Animal_health#1
-Korean_pharma#1
+Coffee_consumption_habits,Men,Women
+Once_a_day,18,17
+2-3_times_a_day,48,53
+4-5_times_a_day,21,15
+More_than_5_times_a_day,5,6
+Never,8,9

@@ -1,5 +1,6 @@
-Country#Warehouse_capacity_in_million_cubic_feet
-Central#256.1
-East#216.0
-Southeast#245.6
-West#230.0
+Year,FOD_fingerprint,Capacitive_fingerprint
+2022,50.3,49.7
+2021,43.9,56.1
+2020,35.1,64.9
+2019,22.9,77.1
+2018,3.5,96.5

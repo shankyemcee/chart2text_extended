@@ -1,10 +1,7 @@
-Year#Number_of_deaths
-Younger_than_15#0
-15_to_19#2
-20_to_24#8
-25_to_29#8
-30_to_34#9
-35_to_39#7
-40_to_44#0
-45_or_older#1
-Total#35
+Year,National_debt_in_relation_to_GDP
+2020,96.69
+2019,90.38
+2018,86.43
+2017,57.03
+2016,53.06
+2015,52.56

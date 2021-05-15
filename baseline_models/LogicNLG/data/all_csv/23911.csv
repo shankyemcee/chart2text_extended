@@ -1,8 +1,6 @@
-Year#Number_of_self-employed_people_in_thousands
-15-19_years#3.9
-20-24_years#9.3
-25-34_years#58.1
-35-44_years#105.5
-45-54_years#133.5
-55-64_years#125.7
-65-74_years#69.5
+Year,Revenue_in_million_GBP
+2018,150
+2017,130
+2016,115
+2015,100
+2014,90

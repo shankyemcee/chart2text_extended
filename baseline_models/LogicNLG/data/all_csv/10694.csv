@@ -1,5 +1,8 @@
-Response#College_football#Men’s_college_basketball#Women’s_college_basketball#College_baseball#College_hockey#Other_college_sports
-2015#39#25#7#10#4#7
-2014#39#28#9#10#4#8
-2013#37#26#8#8#5#9
-2012#35#25#9#9#4#7
+Response,Share_of_respondents
+Over_50000,9
+20000_to_50000,14
+5000_to_20000,31
+1000_to_5000,28
+500_to_1000,8
+100_to_500,7
+less_than_a_100,4

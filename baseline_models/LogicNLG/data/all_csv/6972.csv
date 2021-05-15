@@ -1,4 +1,6 @@
-Year#Male#Female
-2016#10.9#5.2
-2012#10.6#5.1
-2002#10.4#4.7
+geographic_region,Number_of_connected_aircraft
+Latin_America,188
+Middle_East_&_Africa,768
+Asia_Pacific,805
+Europe,884
+North_America,4639

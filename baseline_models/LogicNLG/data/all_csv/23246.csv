@@ -1,11 +1,4 @@
-Year#Expenditure_in_billion_U.S._dollars#U.S._soldier_fatalities
-2012#10.1#1
-2011#47.4#54
-2010#65.1#60
-2009#95.5#149
-2008#142.1#314
-2007#131.2#904
-2006#101.6#823
-2005#85.5#846
-2004#75.9#849
-2003#53.0#486
+Response,Definitely_yes,Rather_yes,Rather_not,Definitely_not,Heard_about_it_for_the_first_time,Difficult_to_answer
+Feb_20-26,11,19,35,33,1,1
+Mar_19-25,20,24,29,25,0,2
+Apr_24-27,26,31,21,20,0,2

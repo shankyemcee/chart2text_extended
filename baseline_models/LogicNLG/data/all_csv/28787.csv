@@ -1,11 +1,5 @@
-product_category#Retail_sales_in_billion_euros
-Trousers_and_jeans#5.49
-Shirts#2.88
-Underwear#1.81
-Knitwear#1.67
-Outdoor_jackets#1.34
-Knitted_goods_(T-Shirts_etc.)#1.07
-Socks#0.79
-Suits#0.56
-Jackets_and_blazers#0.41
-Coats_(excluding_leather_and_fur)#0.31
+Response,2016,2017,2018,2019
+2+_days_a_week,25,20,20.9,24.3
+Once_a_week,30.9,26.7,31.9,28.1
+Once_a_month/less_than_once_a_week,24.1,25.3,24.5,21.9
+Less_than_once_a_month,20,28,22.7,25.7

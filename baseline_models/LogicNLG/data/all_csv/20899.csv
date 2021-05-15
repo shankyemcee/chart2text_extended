@@ -1,6 +1,6 @@
-Year#Risk_index_score
-2019#6.53
-2018#6.72
-2017#6.64
-2016#5.84
-2015#5.87
+Response,18-24,25-34,35-44,45-54,55-64,65+
+Weekly_or_more,48,35,30,33,15,11
+Few_times_a_month,21,22,24,14,12,9
+Once_a_month,10,13,9,11,8,4
+Less_than_once_a_month,7,15,10,11,7,9
+Do_not_use,13,16,26,32,58,67

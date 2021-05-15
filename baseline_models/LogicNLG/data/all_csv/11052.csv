@@ -1,9 +1,5 @@
-Year#Consumption_in_thousand_metric_tons
-2020#297.2
-2019#294.39
-2018#300.9
-2017#306.35
-2016#316.52
-2015#344.16
-2014#350.44
-2013#354.1
+Year,Number_of_weekly_customer_visits_in_millions
+2020,265
+2019,275
+2018,270
+2017,260

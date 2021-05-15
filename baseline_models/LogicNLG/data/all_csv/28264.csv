@@ -1,5 +1,6 @@
-age#Goalkeeper#Defender#Midfielder#Forwards#Total
-Up_to_23#0.42#0.79#1.09#1.05#0.9
-23-29#1.38#1.66#2.05#1.61#1.77
-30+#1.34#1.88#1.75#3.77#2.14
-All_ages#1.07#1.44#1.75#1.84#1.58
+Response,Implemented_and_working_well,Implemented_and_needs_improvement,Will_implement_within_12_months,Will_implement_within_1-3_years
+Buy_online_pick_up_in-store,30,18,21,9
+Buy_anywhere_ship_anywhere,21,21,15,15
+Reserve_online_pick_up_in-store,21,9,12,27
+Buy_in-store_ship_from_distribution_center_other_store_or_vendor,18,27,12,18
+Buy_online_ship_from_store,12,6,24,21

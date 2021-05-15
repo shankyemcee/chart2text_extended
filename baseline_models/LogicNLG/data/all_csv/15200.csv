@@ -1,11 +1,4 @@
-Country#Production_share
-United_States#31.06
-China#23.42
-Brazil#9.07
-European_Union#5.99
-Argentina#4.49
-Ukraine#3.22
-India#2.6
-Mexico#2.25
-South_Africa#1.46
-Other#16.45
+Year,Number_of_users_in_millions
+2017,67
+2018,90
+2019,95

@@ -1,13 +1,4 @@
-Year#Number_of_visitors_in_millions
-2019#3.39
-2018#2.87
-2017#2.77
-2016#2.74
-2015#3.17
-2014#3.12
-2013#3.04
-2012#3.17
-2011#3.16
-2010#3.01
-2009#2.83
-2008#2.83
+Year,Greater_China,Emerging_Asia/Pacific,North_America,Western_Europe,Latin_America,Sub-Saharan_Africa,Middle_East_and_North_Africa,Eurasia,Eastern_Europe,Japan,Mature_Asia/Pacific
+2020,424.5,382.44,164.85,142.92,118.27,91.92,77.86,51.52,43.91,31.79,30.86
+2019,411.1,352.17,166.51,139.42,125.68,90.1,76.34,49.7,45.04,31.72,30.06
+2018,423.41,357.21,174.22,147.18,128.66,88.75,75.61,49.08,47.05,33.91,31.18

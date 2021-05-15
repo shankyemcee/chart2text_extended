@@ -1,8 +1,4 @@
-Response#Great_deal#Fair_amount#Not_much_/_not_at_all
-Failure_of_the_mental_health_system_to_identify_individuals_who_are_a_danger_to_others#48#32#19
-Easy_access_to_guns#40#21#36
-Drug_use#37#29#32
-Violence_in_movies_video_games_and_music_lyrics#32#24#43
-Insufficient_security_at_public_buildings_including_businesses_and_schools#29#29#40
-The_spread_of_extremist_viewpoints_on_the_Internet#29#28#37
-Inflammatory_language_from_prominent_political_commentators#18#19#58
+Response,Legal_under_any_circumstance,Legal_in_most_circumstances,Legal_in_only_a_few_circumstances,Illegal_in_all_circumstances
+Republican,13,8,49,27
+Independent,26,15,35,23
+Democrat,49,17,24,8

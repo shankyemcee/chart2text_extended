@@ -1,12 +1,5 @@
-Year#Exchange_rate_in_Singapore_dollars
-2019#0.33
-2018#0.33
-2017#0.32
-2016#0.33
-2015#0.35
-2014#0.39
-2013#0.4
-2012#0.4
-2011#0.41
-2010#0.42
-2009#0.41
+Month,Couples_without_plans_to_have_children,Couples_with_plans_to_have_children,Couples_with_one_child,Couples_with_two_or_more_children,Divorces/Separated/Widowed_with_one_or_more_children,"Single,_raising_one_or_more_children"
+Jul_2014,1446,1665,1596,1755,0,0
+Dec_2013,1487,1709,1717,1731,0,0
+Jul_2013,1478,1915,1837,1834,1735,1426
+Aug_2012,1767,1716,1872,1841,1426,1231

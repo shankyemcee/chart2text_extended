@@ -1,11 +1,6 @@
-Year#Male#Female
-9_years_and_younger#1.3#1.2
-10_to_19_years#1.8#2.2
-20_to_29_years#12.9#13.4
-30_to_39_years#12.8#8.7
-40_to_49_years#12.0#6.2
-50_to_59_years#13.2#8.1
-60_to_69_years#9.4#5.0
-70_to_79_years#6.9#4.4
-80_to_89_years#7.6#5.1
-90_years_and_older#8.3#6.9
+Response,Share_of_visits
+Google_Maps,8.63
+TripAdvisor_Canada,5.22
+Expedia_Canada,3.92
+Air_Canada,3.03
+Air_Miles_Canada,2.5

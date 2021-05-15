@@ -1,9 +1,4 @@
-year#Label-employed_musicians#Independent_musicians
-May_2019#0#1560
-May_2018#0#1290
-May_2017#0#1010
-May_2016#250#880
-May_2015#180#1230
-May_2014#200#1360
-May_2012#190#1830
-May_2003#880#300
+Year,Male,Female
+0_-_17_years,1182566,1129474
+18_-_64_years,3503918,3472205
+65_years_and_older,973580,1230898

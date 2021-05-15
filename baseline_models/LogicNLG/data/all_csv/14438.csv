@@ -1,7 +1,3 @@
-Year#Number_of_pneumonia_cases_in_thousands
-2018#478078.0
-2016#568146.0
-2015#554650.0
-2014#657.49
-2013#571.55
-2012#549.71
+Gender,Number_of_veterans_in_millions
+Male_Veterans,15.78
+Female_Veterans,1.64

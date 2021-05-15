@@ -1,6 +1,8 @@
-Age_group#Male#Female
-0_to_17_years#3.7#3.55
-18_to_24_years#1.75#1.62
-25_to_44_years#5.25#5.15
-45_to_64_years#5.03#5.12
-65_years_and_over#3.15#3.69
+Year,Production_in_million_metric_tons
+2019,2.7
+2018,2.8
+2017,3.18
+2016,3.01
+2015,2.64
+2014,2.91
+2013,2.4

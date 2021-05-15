@@ -1,11 +1,5 @@
-Hospital_(Location)#Revenue_in_billion_U.S._dollars
-Methodist_Hospital_(San_Antonio)#5.69
-Baptist_Medical_Center_(San_Antonio)#5.3
-CJW_Medical_Center-Chippenham_Campus_(Richmond_Va.)#3.8
-Doctors_Medical_Center_of_Modesto_(Calif.)#3.49
-Oklahoma_University_Medical_Center_(Oklahoma_City)#3.46
-Sunrise_Hospital_&_Medical_Center_(Las_Vegas)#3.33
-Medical_City_Hospital_(Dallas)#3.23
-Brookwood_Medical_Center_(Birmingham_Ala.)#3.21
-Hahnemann_University_Hospital_(Philadelphia)#3.11
-Las_Palmas_Medical_Center_(El_Paso_Texas)#2.96
+Age_group,November_2010,mid-December_2011,mid-January_2012
+18-29,6,7,18
+30-49,5,12,24
+50-64,9,11,19
+65_and_older,4,8,12

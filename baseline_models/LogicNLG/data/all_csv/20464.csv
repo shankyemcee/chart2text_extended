@@ -1,5 +1,9 @@
-Year#Sales_in_thousands
-2014#30879
-2013#29800
-2012#31697
-2011#28720
+Characteristic,Agree,Disagree
+Is_honest,38,58
+Has_good_leadership_skills,43,55
+Cares_about_average_Americans,43,55
+Is_level_headed,34,62
+Is_a_strong_person,63,32
+Is_intelligent,57,39
+Shares_voters_values,37,60
+Provides_the_U.S._with_moral_leadership,36,62

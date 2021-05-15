@@ -1,11 +1,4 @@
-Country#Personnel_per_10,000_population
-Monaco#202.6
-Norway#181.2
-Switzerland#172.8
-Iceland#156.8
-Finland#147.2
-Ireland#142.9
-Germany#132.0
-Australia#126.6
-Luxembourg#123.5
-Uzbekistan#120.7
+Response,2009,2019
+Employer_paid,7486,10056
+Employee_paid,2262,3031
+Total,9748,13087

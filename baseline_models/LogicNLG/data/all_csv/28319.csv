@@ -1,9 +1,5 @@
-Response#Share_of_respondents
-More_than_once_a_day#32
-Once_a_day#19
-A_few_times_a_week#16
-About_once_a_week#6
-About_once_every_few_weeks#4
-About_once_a_month#4
-Less_often#6
-I_do_not_use#12
+years_of_experience,Minimum,Maximum
+0-2_years,40000,50000
+2-6_years,55000,80000
+6-10_years,80000,105000
+More_than_10_years,105000,125000

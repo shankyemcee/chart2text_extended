@@ -1,11 +1,4 @@
-Country#Foreign_tourist_arrivals_in_millions
-Bangladesh#2.58
-United_States#1.51
-United_Kingdom#1.0
-Australia#0.37
-Canada#0.35
-China#0.34
-Sri_Lanka#0.33
-Malaysia#0.33
-Germany#0.26
-Russia#0.25
+Sex,Number_of_licensed_drivers
+Male,368146
+Female,384997
+Total,753143

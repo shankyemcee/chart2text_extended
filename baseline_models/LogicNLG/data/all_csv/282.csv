@@ -1,7 +1,5 @@
-Year#Hillary_Clinton#Donald_Trump
-Under_30000#53#41
-30000_to_49999#51#42
-50000_to_99999#46#50
-100000_to_199999#47#48
-200000_to_249999#48#49
-250000_or_more#46#48
+Response,Share_of_respondents
+Morally_acceptable,54
+Morally_wrong,40
+Depends_on_the_situation,5
+No_opinion,1

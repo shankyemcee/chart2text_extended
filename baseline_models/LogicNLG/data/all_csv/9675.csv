@@ -1,11 +1,5 @@
-Country#Cumulative_installed_capacity_in_megawatts
-China#237029
-United_States#105433
-Germany#61357
-India#37529
-Spain#25808
-United_Kingdom#23515
-France#16646
-Brazil#15452
-Canada#13413
-Rest_of_the_world#10512
+Year,Export_value_in_thousand_U.S._dollars
+2018,5933709
+2017,5494118
+2016,5756097
+2015,5957007

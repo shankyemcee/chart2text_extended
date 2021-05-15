@@ -1,12 +1,5 @@
-Quarter#Sales_turnover_in_million_DKK
-Q3_2020#1302
-Q2_2020#1424
-Q1_2020#1124
-Q4_2019#1059
-Q3_2019#868
-Q2_2019#963
-Q1_2019#949
-Q4_2018#949
-Q3_2018#756
-Q2_2018#853
-Q1_2018#840
+Case_status,Unnamed:_1
+Number_of_people_tested,14180625
+Confirmed_cases,618646
+Recovered,523564
+Deaths,16233

@@ -1,7 +1,5 @@
-Year#Number_of_visitors_in_thousands
-2019#1202.5
-2018#1236.08
-2017#532.1
-2016#245.02
-2015#246.67
-2014#237.62
+Hotel_Type,Hotel_occupancy_rate
+Downmarket,73.3
+Economic,77.4
+Moderately_price,79
+Upmarket/luxury,83.3

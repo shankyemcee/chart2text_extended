@@ -1,12 +1,4 @@
-Year#Number_of_born_children_per_woman
-2018#2.41
-2017#2.43
-2016#2.46
-2015#2.48
-2014#2.51
-2013#2.54
-2012#2.56
-2011#2.58
-2010#2.6
-2009#2.61
-2008#2.61
+Response,18-24,25-34,35-54,55+
+Used_grocery_delivery,19,18,36,27
+Intends_to_use_grocery_delivery,7,19,36,38
+Not_interested_in_grocery_delivery,11,17,31,41

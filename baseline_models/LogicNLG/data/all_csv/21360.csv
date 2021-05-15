@@ -1,6 +1,5 @@
-Response#Percentage_of_visitors
-United_States#27
-India#8.7
-Japan#4.6
-China#3.6
-Brazil#2.8
+Response,Female,Male
+Yes_I_do,75,75
+No_but_I_will_probably_use_it,8,8
+No_and_I_don't_want_to_use_it,14,12
+Don't_know,3,5

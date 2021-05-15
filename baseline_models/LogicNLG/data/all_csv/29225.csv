@@ -1,5 +1,7 @@
-geographic_region#Mean_travel_time_in_minutes
-Midwest_region#24.5
-South_region#27.3
-West_region#28.1
-Northeast_region#31.0
+Response,Share_of_respondents
+£48k+,81
+£34_-_48k,81
+£28_-_34k,77
+£21k_-_28k,81
+£14k_-_21k,82
+Up_to_£14k,77

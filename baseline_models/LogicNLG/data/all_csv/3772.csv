@@ -1,7 +1,8 @@
-model_series#Scores_on_scale_of_1_to_100
-Apple_iPad#65.0
-Samsung_Galaxy#58.14
-SONY_Tablet#57.88
-Motorola_Xoom#57.71
-Lenovo_ThinkPad#56.67
-Category_Average#56.37
+Employment_size_band,Number_of_enterprises
+0-4,2235
+5-9,600
+10-19,275
+20-49,295
+50-99,75
+100-249,5
+250+,0

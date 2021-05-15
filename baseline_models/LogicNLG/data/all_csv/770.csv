@@ -1,4 +1,7 @@
-Restaurant#Number_of_restaurants
-Pizza_Hut#765
-KFC#181
-Taco_Bell#69
+Country,Penetration_rate
+Argentina,1.78
+Brazil,1.05
+Colombia,0.71
+Mexico,0.69
+Chile,0.63
+Peru,0.58

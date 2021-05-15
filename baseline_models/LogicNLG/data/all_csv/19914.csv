@@ -1,6 +1,10 @@
-Response#Share_of_total_exports
-China#10.9
-Netherlands#10
-Germany#7.1
-Belarus#5.1
-Turkey#4.9
+attack_type,Six-year_average,FY_2015
+Malicious_code,24,24
+Denial_of_service,18,16
+Phishing_and_social_engineering,11,14
+Web-based_attacks,13,12
+Malicious_insiders,9,10
+Malware,6,9
+Stolen_devices,11,7
+Viruses_Worms_and_Trojans,6,4
+Botnets,4,3

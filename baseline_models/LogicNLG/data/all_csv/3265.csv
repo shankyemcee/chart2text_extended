@@ -1,8 +1,6 @@
-Country#Average_price_in_U.S._dollars
-United_States#2.53
-United_Arab_Emirates#1.09
-United_Kingdom#0.92
-Switzerland#0.89
-Germany#0.86
-Netherlands#0.63
-South_Africa#0.27
+region_of_Belgium,Number_of_companies
+Total,8180
+Flemish_Region,5148
+Walloon_Region,2420
+Brussels-Capital_Region,570
+Abroad,42

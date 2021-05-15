@@ -1,12 +1,5 @@
-Year#Revenue_in_billion_U.S._dollars
-2019#11.1
-2018#11.55
-2017#11.12
-2016#10.21
-2015#10.11
-2014#9.38
-2013#9.36
-2012#6.99
-2011#12.38
-2010#9.39
-2009#7.72
+Response,Share_of_use
+Daily,50
+2_to_6_days_per_week,23
+Once_a_week_or_less,8
+Not_used_in_the_last_30_days,19

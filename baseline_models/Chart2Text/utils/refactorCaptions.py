@@ -3,7 +3,16 @@ from typing import List
 import nltk
 import os
 
-summaryPaths = os.listdir('../dataset/captions_old/')
+dataset_dir = "../../../../c2t_dataset_pew/dataset/"
+# caption_dir = "captions_old/"
+caption_dir = "multiColumn/captions_old/"
+# new_caption_dir="captions/"
+new_caption_dir="multiColumn/captions/"
+
+
+
+
+summaryPaths = os.listdir(dataset_dir+caption_dir)
 def word_tokenize(string: str, language: str = "english") -> List[str]:
     """tokenizes a given string into a list of substrings.
 
@@ -96,10 +105,10 @@ def addUnderscores(cleanCaption, uppercaseWords):
         return newCaption
 
 for summaryPath in summaryPaths:
-        with open('../dataset/captions_old/'+summaryPath, 'r', encoding='utf-8') as summaryFile:
+        with open(dataset_dir+caption_dir+summaryPath, 'r', encoding='utf-8') as summaryFile:
                 summary = summaryFile.read()
                 cleanCaption = word_tokenize(summary)
-                newSummaryPath = '../dataset/captions/'+summaryPath
+                newSummaryPath = dataset_dir + new_caption_dir + summaryPath
                 with open(newSummaryPath, "w", encoding='utf-8') as outf:
                     cleanCaption = ' '.join(cleanCaption).replace('*','')
                     outf.write("{}\n".format(cleanCaption))

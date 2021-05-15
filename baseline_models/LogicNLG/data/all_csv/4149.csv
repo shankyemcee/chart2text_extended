@@ -1,8 +1,7 @@
-Year#Net_shipping_costs_in_million_U.S._dollars
-2016#7191
-2015#5019
-2014#4223
-2013#3538
-2012#2854
-2011#2437
-2010#1386
+Category,Index_score
+Wage_equality_for_similar_work,0.51
+Estimated_earned_income,0.67
+Labor_force_participation,0.84
+Overall_score,0.65
+Legislators_senior_officials_and_managers,0.47
+Professional_and_technical_workers,0.89

@@ -1,11 +1,6 @@
-Year#Men#Women
-9_years_and_younger#829#708
-10-19_years#2142#2204
-20-29_years#3993#3686
-30-39_years#3468#2647
-40-49_years#3097#2467
-50-59_years#2563#2162
-60-69_years#1372#1106
-70-79_years#688#663
-80-89_years#299#418
-90_years_and_older#66#169
+Year,Consumption_in_million_metric_tons
+2008,3939.3
+2007,3954.0
+2000,3529.5
+1995,3233.7
+1990,3130.2

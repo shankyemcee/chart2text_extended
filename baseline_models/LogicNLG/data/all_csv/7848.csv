@@ -1,4 +1,6 @@
-Response#Share_of_respondents
-Less_than_30_minutes#30
-31-60_minutes#60
-More_than_60_minutes#10
+Response,Share_of_respondents
+Europe,39
+Middle_East_and_Africa,35
+Asia,10
+Northern_America,6
+Don't_know,10

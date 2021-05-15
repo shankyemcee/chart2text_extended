@@ -1,4 +1,13 @@
-Book_Publishing_Metric#Unnamed:_1
-Number_of_not_translated_works#2500
-Number_of_unpublished_works#23200
-Number_of_unprinted_book_copies#48900
+Country,Market_share
+USA,36
+France,12
+Germany,7
+Norway,5
+Canada,4
+Australia,3
+Japan,3
+Singapore,3
+Sweden,3
+Denmark,3
+Switzerland,3
+Other,18

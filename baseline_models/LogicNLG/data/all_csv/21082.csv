@@ -1,5 +1,3 @@
-Type_of_household#Number_of_households
-Total_private_households#7924691
-One-person_households#3037622
-Multi-person_households_with_children#2604772
-Multi-person_households_without_children#2282297
+rural_and_urban_regions,Male,Female
+Rural,70,49
+Urban,83,71

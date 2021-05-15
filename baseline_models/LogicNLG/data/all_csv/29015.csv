@@ -1,7 +1,8 @@
-type_of_facility#Private_use#Public_use
-Airport#8263#4802
-Heliport#5842#59
-Seaplane_Base#300#210
-Ultralight#109#3
-Glidersport#30#5
-Balloonport#12#1
+bank,Value_in_billion_U.S._dollars
+Itaú,129.14
+Caixa_Econômica_Federal,126.64
+Banco_do_Brasil,122.3
+Bradesco,82.21
+Santander,62.45
+Safra,9.99
+BTG_Pactual,6.78

@@ -1,8 +1,5 @@
-Year#Redeemed_savings_in_billion_U.S._dollars
-2014#3.6
-2013#3.5
-2012#3.7
-2011#4.5
-2010#4.0
-2009#3.7
-2008#2.9
+Year,Less_than_a_year,One_to_four_years_,Five_to_nine_years,Ten_to_fourteen_years,Fifteen_years_and_older
+2016,8,24,24,24,20
+2015,8,25,24,24,19
+2010_,8,29,26,21,15
+2005,10,30,25,22,13

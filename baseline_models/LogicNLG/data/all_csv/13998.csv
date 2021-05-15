@@ -1,12 +1,5 @@
-Year#Number_of_divorces
-2019#25408
-2018#24958
-2017#24210
-2016#24258
-2015#24876
-2014#26143
-2013#26933
-2012#25005
-2011#24884
-2010#25151
-2009#23534
+Country,Vehicle_production_in_million_units
+U.S.,10.88
+Mexico,3.99
+Canada,1.92
+NAFTA,16.78

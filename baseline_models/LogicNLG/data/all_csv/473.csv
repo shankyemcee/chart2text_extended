@@ -1,9 +1,4 @@
-Year#Lower_bound_of_range#Upper_bound_of_range
-0-19_years#0#0
-20-44_years#0.1#0.2
-45-54_years#0.5#0.8
-55-64_years#1.4#2.6
-65-74_years#2.7#4.9
-75-84_years#4.3#10.5
-85_years_and_older#10.4#27.3
-Total#1.8#3.4
+Evergreen_Line,Number_of_TEUs
+Chartered,660300
+Orderbook,506670
+Owned,600514

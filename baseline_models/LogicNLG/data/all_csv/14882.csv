@@ -1,10 +1,6 @@
-Country#Growth_rate
-India#9.5
-Middle_East#7.3
-China#6
-Asia_Pacific#4.4
-Latin_America#3
-Western_Europe#1.7
-Eastern_Europe#0.9
-Africa#0.7
-North_America#-0.3
+Country,Proportion_of_soccer_players
+Germany,19.8
+Chile,15.7
+Paraguay,14.8
+Slovakia,11.4
+The_Netherlands,10.4

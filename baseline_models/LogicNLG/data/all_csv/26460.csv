@@ -1,10 +1,5 @@
-Year#Number_of_medical_visits
-2018-2019#16520350
-2017-2018#21000000
-2016-2017#14000000
-2015-2016#11000000
-2014-2015#14000000
-2013-2014#13000000
-2012-2013#1600000
-2011-2012#4300000
-2010-2011#10000000
+year,App_spending_in_millions
+New_Year's_Day_2020,386
+Christmas_Eve_to_New_Year’s_Eve_2019,1420
+New_Year's_Day_2019,322
+Christmas_Eve_to_New_Year’s_Eve_2018,1220

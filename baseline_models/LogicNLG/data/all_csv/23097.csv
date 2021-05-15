@@ -1,8 +1,4 @@
-Year#Number_of_hospitals
-2018#1910
-2017#1920
-2016#1922
-2015#1882
-2014#1568
-2013#1645
-2012#1747
+type_of_cork_stopper,2015,2016,2017
+Other_types_of_stoppers,123.8,132.2,149.8
+Champagne_stoppers,127.8,131.6,132.4
+Natural_cork_stoppers,395.5,411.2,428.6

@@ -1,8 +1,4 @@
-Year#Unemployment_rate
-65-74_years#2.4
-55-64_years#4.6
-45-54_years#4.6
-35-44_years#5
-25-34_years#6.2
-20-24_years#14.2
-15-19_years#31.6
+Year,Percentage_growth_in_value
+2014,0.5
+2013,-1.4
+2012,0.8

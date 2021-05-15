@@ -1,7 +1,8 @@
-ethnic_group#Obesity_rate
-White#36.9
-Black#45
-Hispanic#31.1
-Asian/Pacific_Islander#0
-American_Indian/Alaska_Native#49.4
-Other#27
+Income_group,GOP_approach,Obama_Approach
+Richest_1,70790$,20130$
+Next_4,9000$,8570$
+Next_15,3730$,3740$
+Fourth_20,1540$,1550$
+Middle_20,820$,880$
+Second_20,510$,630$
+Poorest_20,120$,270$

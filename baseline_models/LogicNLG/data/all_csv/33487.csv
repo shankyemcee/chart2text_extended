@@ -1,12 +1,5 @@
-Year#Oil_reserves_in_billion_barrels
-2019#6.43
-2018#6.63
-2017#7.26
-2016#9.71
-2015#9.81
-2014#10.07
-2013#10.26
-2012#10.36
-2011#10.42
-2010#10.4
-2009#10.5
+type_of_loan,2014,2015
+Secured_retail_loans_(including_mortgages),23,27
+Commercial_real_estate_loans,29,25
+Unsecured_retail_loans,27,25
+SME_or_corporate_loans,21,23

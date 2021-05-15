@@ -1,11 +1,6 @@
-state_of_India#Pig_population_in_millions
-Assam#2.1
-Jharkhand#1.28
-Meghalaya#0.71
-West_Bengal#0.54
-Chhattisgarh#0.53
-Uttar_Pradesh#0.41
-Nagaland#0.4
-Bihar#0.34
-Karnataka#0.32
-Mizoram#0.29
+department,Male,Female
+Tech,76.9,23.1
+Non-tech,51,49
+Operations,51.9,48.1
+General_&_administrative,47.9,52.1
+Suport,47.9,52.1

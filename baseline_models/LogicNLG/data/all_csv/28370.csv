@@ -1,8 +1,5 @@
-Response#Share_of_total_alcoholic_beverage_sales
-2019#33.88
-2018#34.76
-2017#33.41
-2016#33.99
-2015#31.93
-2014#25.44
-2013#28.62
+province_of_canada,2015,2016,2017,2018,2019
+Prince_Edward_Island,0,0,0,0,4.71
+Quebec,1,0,0,0.44,0
+British_Columbia,82.24,0,82,74.3,68.66
+Ontario,227.15,227.16,204.17,217.15,211.5

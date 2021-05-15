@@ -1,11 +1,4 @@
-website#Number_of_visitors_in_millions
-amazon.com#5219
-ebay.com#1522
-rakuten.co.jp#886
-apple.com#718
-samsung.com#690
-walmart.com#622
-etsy.com#578
-aliexpress.com#539
-ikea.com#450
-homedepot.com#417
+frequency,Average_cost_in_U.S._dollars
+Per_day,11.14
+Per_week,20.05
+Per_year,1043.0

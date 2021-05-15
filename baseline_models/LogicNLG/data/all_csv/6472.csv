@@ -1,12 +1,4 @@
-Year#Retail_sales_value_in_million_US_dollars
-2020#24.5
-2019#23.9
-2018#23.4
-2017#22.9
-2016#22.5
-2015#22.1
-2014#21.8
-2013#21.5
-2012#21.2
-2011#20.9
-2010#21.1
+Year,Number_of_people_in_thousands
+0-14_years,28.7
+20-79_years,116400.0
+Above_65_years,35500.0

@@ -1,7 +1,8 @@
-Response#Share_of_respondents
-Earlier_than_July#16
-First_2_weeks_in_July#33
-Last_2_weeks_in_July#56
-First_2_weeks_in_August#68
-Last_2_weeks_in_August#39
-September#13
+type,Import_value_in_billion_Indian_rupees
+Coal_coke_and_briquettes,1830.05
+Bulk_minerals_and_ores,269.61
+Processed_minerals,148.83
+Iron_ore,59.08
+Other_crude_minerals,26.36
+Sulphur_unroasted_iron_pyrite,15.28
+Mica,0.13

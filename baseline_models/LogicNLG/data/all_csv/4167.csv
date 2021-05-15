@@ -1,11 +1,4 @@
-Year#Average_ticket_price_in_U.S._dollars
-14/15#51.76
-13/14#43.51
-12/13#42.09
-11/12#55.51
-10/11#59.74
-09/10#59.74
-08/09#52.77
-07/08#48.82
-06/07#53.41
-05/06#45.95
+Segment,Net_sales_in_million_U.S._dollars
+Aerial_work_platforms,2726.6
+Corporate_and_other/eliminations,255.1
+Materials_processing,1371.4

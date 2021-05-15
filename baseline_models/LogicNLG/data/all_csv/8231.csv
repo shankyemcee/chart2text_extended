@@ -1,9 +1,5 @@
-organ_type#Number_of_patients
-Kidney#233
-Lung#49
-Liver#42
-Heart#20
-Kidney_and_pancreas#13
-Pancreas#1
-Heart/Lung#1
-Intestinal#0
+Response,Share_of_respondents
+Decreased,61
+Unchanged,27
+Increased,8
+Do_not_know,4

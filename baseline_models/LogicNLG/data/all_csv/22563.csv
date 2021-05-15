@@ -1,7 +1,5 @@
-Month#Rural#Urban#All_India
-January#138.9#140.4#139.4
-February#139.2#140.8#139.7
-March#138.9#140.7#139.5
-April#138.7#140.4#139.3
-May#139.3#141.0#139.9
-June#140.4#141.0#140.6
+Year,Western_Digital,Toshiba,Seagate,Other
+2019,12,11,10,67
+2018,20,14,11,55
+2017,21,14,9,56
+2016,19,0,14,67

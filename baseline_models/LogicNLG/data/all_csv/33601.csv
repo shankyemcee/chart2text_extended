@@ -1,9 +1,4 @@
-Year#Time_spent_in_hours
-2015#5.5
-2014#5.6
-2013#5.2
-2012#5.7
-2011#4.8
-2010#5.1
-2009#4.3
-2007#4.7
+Response,Support_strongly,Support_somewhat,Oppose_somewhat,Oppose_strongly,Not_sure
+Democrat,5,4,9,73,10
+Independent,8,9,14,45,24
+Republican,11,12,18,40,20

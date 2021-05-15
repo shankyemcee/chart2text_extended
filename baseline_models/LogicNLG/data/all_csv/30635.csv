@@ -1,5 +1,11 @@
-Year#Number_of_events_in_thousands
-2012#3.5
-2011#3.3
-2010#3.2
-2009#3.2
+Month,Fatality_rate_among_plague_cases
+Average,61.5
+May_1897,38.46
+Apr_1897,56.66
+Mar_1897,67.35
+Feb_1897,81.64
+Jan_1897,69
+Dec_1896,74.12
+Nov_1896,66.67
+Oct_1896,52.23
+Sep_1896,52.23

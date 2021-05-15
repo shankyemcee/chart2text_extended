@@ -1,10 +1,7 @@
-Year#Revenue_in_million_euros
-2011/12#643
-2012/13#666
-2013/14#716
-2014/15#726
-2015/16#756
-2016/17#757
-2017/18#818
-2018/19#815
-2019/20#856
+pet_animals,Number_of_pets_in_thousands
+Cat,77440.0
+Dog,68500.0
+Ornamental_bird,37227.0
+Small_mammal,21271.0
+Aquaria,10630.0
+Reptiles,7904.5

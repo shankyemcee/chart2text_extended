@@ -1,6 +1,11 @@
-food_type#Percentage_increase_in_orders
-Grill/BBQ#390
-Sandwiches#402
-Desserts#504
-Breakfast#508
-Syrian#907
+city,"Rate_per_100,000_population"
+Baghdad,43
+Maiduguri,39
+Mosul,29
+Peshawar,25
+Donetsk,10
+Kabul,7
+Kano,5
+Odessa,5
+Karachi,3
+Kaduna,3

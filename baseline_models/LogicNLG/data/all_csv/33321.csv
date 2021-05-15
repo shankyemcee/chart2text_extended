@@ -1,7 +1,4 @@
-Response#Yes#No
-Total#53#47
-18-34_years#60#40
-35-44_years#49#51
-45-54_years#57#43
-55-64_years#48#52
-65+_years#47#53
+Year,Male,Female
+2011,76,60
+2001,61,70
+1991,44,55

@@ -1,5 +1,5 @@
-network_type#Number_of_series
-Basic_cable_channels#150
-Networks#120
-Premium_pay-TV#30
-SVOD_services#2
+Year,Consumption_in_liters_per_person
+2018,0.53
+2017,0.47
+2016,0.54
+2015,0.6

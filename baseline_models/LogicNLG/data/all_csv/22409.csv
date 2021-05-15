@@ -1,12 +1,5 @@
-Year#Index_(2015=100)
-2018#108.4
-2017#105.6
-2016#103.4
-2015#100.0
-2014#94.5
-2013#91.9
-2012#90.1
-2011#88.3
-2010#87.7
-2009#84.5
-2008#82.6
+type_of_stay_and_payer,Maternal/neonatal_stays,Surgical_stays,Medical_stays
+Medicare,0,45,55
+Medicaid,27,30,43
+Private,15,52,34
+Uninsured,4,42,54

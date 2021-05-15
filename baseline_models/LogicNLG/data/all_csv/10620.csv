@@ -1,8 +1,9 @@
-Age_group#Share_of_adults
-18-24#41.5
-25-34#41.8
-35-44#32
-45-54#31.6
-55-64#27.1
-65-74#22.6
-75+#12.5
+political_party,Funds_raised_in_U.S._dollars
+Democratic_Party,1272961095
+Republican_Party,872211465
+Democratic_National_Committee,369374155
+Republican_National_Committee,327195765
+Democratic_Congressional_Campaign_Committee,216372623
+National_Republican_Congressional_Committee,168827611
+Democratic_Senatorial_Campaign_Committee,177829127
+National_Republican_Senatorial_Committee,136501194

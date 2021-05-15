@@ -1,11 +1,4 @@
-Player#Number_of_Facebook_page_likes_in_thousands
-Alexis_Sánchez#4900.0
-Romelu_Lukaku#2900.0
-Ashley_Young#2480.0
-Radja_Nainggolan#592.8
-Kwadwo_Asamoah#556.2
-Matteo_Darmian#314.7
-Stefan_De_Vrij#244.3
-Danilo_D'Ambrosio#198.7
-Ivan_Perisic#165.9
-Andrea_Ranocchia#94.0
+Year,Actual_data,Forecast_(lowest),Forecast_(highest)
+2018,246.4,0,0
+2019,210.6,0,0
+2020,0,120,130

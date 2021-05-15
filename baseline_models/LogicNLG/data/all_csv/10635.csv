@@ -1,7 +1,7 @@
-Establishment_size#Number_of_employer_firms
-Less_than_5_employees#863700
-5_to_less_than_20_employees#186980
-20_to_less_than_50_employees#54010
-50_to_less_than_100_employees#17530
-100_to_less_than_500_employees#11160
-500_employees_or_more#1980
+Response,Share_of_respondents
+Multiple_times_per_day,18
+Once_per_day,7
+Several_times_a_week,13
+Once_a_week,7
+Less_often_than_once_a_week,18
+Never,37

@@ -1,7 +1,4 @@
-occupation#White#Black_or_African_American#Asian#Hispanic_or_Latino
-Total#916#694#1095#680
-Management_professional_and_related_occupations#1255#1009#1515#1026
-Service_occupations#585#512#569#528
-Sales_and_office_occupations#763#639#766#647
-Natural_resources_construction_and_maintenance_occupations#839#754#875#691
-Production_transportation_and_material_moving_occupations#733#617#677#612
+Year,Employed,Unemployed,Not_in_labor_force
+18_to_34,1140836,64514,263047
+35_to_54,3290974,121772,631979
+55_to_64,1939133,61304,1134368

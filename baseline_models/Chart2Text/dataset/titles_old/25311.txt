@@ -1,1 +1,0 @@
-Which of the following actions has your organization taken to control data leakage of sensitive information?

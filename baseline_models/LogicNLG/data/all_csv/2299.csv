@@ -1,6 +1,5 @@
-Response#No,_most_are_not_corrupt#Yes,_some_are_corrupt#Yes,_almost_all_of_them_are_corrupt
-16-17_years#13#66#21
-18-25_years#16#63#21
-26-34_years#12#61#27
-34_years_and_older#10#56#35
-Total#14#62#24
+Response,Share_of_respondents
+Very_likely,12
+Somewhat_likely,16
+Somewhat_unlikely,15
+Very_unlikely,57

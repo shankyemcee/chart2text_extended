@@ -1,4 +1,13 @@
-Year#Number_of_deputies
-13th_NPC_(2018)#45
-12th_NPC_(2013)#31
-11th_NPC_(2008)#3
+ownership_type,Number_of_utilities
+Municipal,950
+Cooperative,853
+Retail_power_marketer,266
+Investor_owned,178
+Political_subdivision,131
+Wholesale_power_marketer,32
+Transmission,20
+Community_choice_aggregator,19
+State,17
+Municipal_marketing_authority,14
+Behind_the_meter,15
+Federal,9

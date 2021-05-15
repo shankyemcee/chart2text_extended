@@ -1,9 +1,8 @@
-industry#Market_share
-Video_games#34
-Healthcare#15
-Engineering#14
-Live_events#12
-Video_entertainment#9
-Real_estate#7
-Retail#5
-Military#4
+Response,Share_of_respondents
+Several_times_a_day,5
+Once_a_day,4
+Once_every_few_days,5
+Once_a_week,3
+Once_every_few_weeks,6
+Less_often_than_every_few_weeks,14
+Never,62

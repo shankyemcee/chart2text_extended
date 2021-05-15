@@ -1,6 +1,7 @@
-Year#Total_assets_in_billion_U.S._dollars
-2019#118370
-2018#145563
-2017#133079
-2016#130124
-2015#131556
+Response,Percentage_of_respondents
+No,93.3
+Yes_diagnosed_not_treated,2
+Yes_treated_with_medication,3.4
+Yes_treated_with_psychotheraphy,0.2
+Yes_treated_with_meds_+_psychotherapy,0.9
+Yes_other_treatment,0.2

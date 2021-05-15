@@ -1,5 +1,12 @@
-Year#Revenue_in_million_U.S._dollars
-2023#1598.2
-2020#950.3
-2019#957.5
-2018#776.4
+Response,Share_of_households
+Mobile_phone,79
+Tablet_device,33
+PC/Laptop,76
+Printer,9
+Camera/camcorder,4
+TV,83
+Video_player,13
+Cooking_appliance(s),75
+Cleaning_appliance(s),34
+Games_console,8
+Audio/Hi-fi_system,20

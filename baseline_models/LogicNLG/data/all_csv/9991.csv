@@ -1,11 +1,6 @@
-Year#Number_of_residents
-2010#4291508
-2011#4291696
-2012#4300864
-2013#4305587
-2014#4311194
-2015#4309673
-2016#4316260
-2017#4321593
-2018#4322084
-2019#4319629
+Category,Index_score
+Labor_force_participation,0.66
+Estimated_earned_income,0.61
+Overall_score,0.68
+Legislators_senior_officials_and_managers,0.63
+Professiona_and_technical_workers,0.9

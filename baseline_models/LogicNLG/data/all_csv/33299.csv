@@ -1,5 +1,8 @@
-outcome_of_attempt_of_assassination_of_president#Number_of_presidents
-President_assassinated#4
-President_shot_but_survived#2
-President_unharmed_but_others_killed/injured#3
-Nobody_harmed_(except_culprit)#4
+Year,Agency,All_Other,Finance,Principal
+2018,1515,186,12,0
+2017,1486,166,10,0
+2016,1447,159,11,0
+2015,1368,217,11,0
+2014,1341,201,8,0
+2013,1371,196,7,3
+2012,1302,189,7,3

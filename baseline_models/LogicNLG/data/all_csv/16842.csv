@@ -1,8 +1,6 @@
-Response#Percentage_of_respondents
-Cell_phone#88
-Laptop_computer#57
-Desktop_computer#55
-Smartphone#46
-mp3_player#44
-e-book_reader#19
-Tablet_computer#19
+Response,Share_of_patient
+Under_14,0
+15-44_years,4
+45-64_years,28
+65-74_years,40
+75_and_older,28

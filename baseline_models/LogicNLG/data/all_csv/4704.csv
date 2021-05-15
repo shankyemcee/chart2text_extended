@@ -1,9 +1,8 @@
-Year#Value_in_billion_euros
-2028#44.7
-2018#35.2
-2017#33.5
-2016#30.4
-2015#28.7
-2014#28.5
-2013#26.5
-2012#26.2
+Year,Median_income_in_U.S._dollars
+15-24_years,47934
+25-34_years,70283
+35-44_years,88858
+45-54_years,92221
+55-64_years,75686
+65-74_years,56632
+75_years_and_over,37335

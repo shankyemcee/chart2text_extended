@@ -1,4 +1,11 @@
-Response#Males#Females
-2015#43#39
-2013#26#12
-2012#22#9
+Year,Number_of_deaths
+0-4,0
+5-14,1
+15-24_years,3
+25-34_years,11
+35-44_years,194
+45-54_years,1624
+55-64_years,4857
+65-74__years,6977
+75-84__years,5882
+85_and_over,2529

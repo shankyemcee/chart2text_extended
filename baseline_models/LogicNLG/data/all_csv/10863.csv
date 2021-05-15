@@ -1,10 +1,4 @@
-Year#Average_price_in_euros_per_kilo
-2019#0.21
-2018#0.21
-2017#0.21
-2016#0.21
-2015#0.21
-2014#0.21
-2013#0.21
-2012#0.21
-2011#0.21
+meal,Expense_percentage
+Breakfast_(Starbucks),17.93
+Lunch_(McDonald's),2.83
+Dinner_(McDonald's),1.68

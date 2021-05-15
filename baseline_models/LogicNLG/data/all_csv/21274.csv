@@ -1,12 +1,4 @@
-Year#Number_of_enterprises
-2018#674
-2017#675
-2016#594
-2015#564
-2014#516
-2013#504
-2012#483
-2011#500
-2010#533
-2009#567
-2008#591
+region_of_Belgium,Male,Female
+Flemish_Region,80.64,84.7
+Brussels-Capital_Region,79.08,83.86
+Walloon_Region,77.7,82.76

@@ -1,6 +1,6 @@
-Response#City_or_urban_community#Suburban_community#Rural_community
-I_use_it_regularly#26#27#23
-I_use_it_occasionally#22#16#18
-I_have_used_it_once#7#3#4
-I_can_imagine_using_it#32#39#34
-I_won’t_use_it#13#14#21
+point_of_sale,Number_of_locations
+Concept_stores,1802
+Shop-in-shops,1674
+Gold_stores,2676
+Silver_stores,2047
+Bronze_stores,1072

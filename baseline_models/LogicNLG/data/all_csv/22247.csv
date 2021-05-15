@@ -1,11 +1,3 @@
-Turnover_in_GBP#Number_of_enterprises
-£0_-_£49999#100
-£50000_-_£99999#80
-£100000_-_£249999#110
-£250000_-_£499999#40
-£500000_-_£999999#30
-£1_million_-_£1.999_million#25
-£2_million_-_£4.999_million#10
-£5_million_-_£9.999_million#5
-£10_million_-_£49.999_million#5
-£50_million_+#0
+Geographical_area,Europe,North_America,Rest_of_the_world
+2017,41.3,28.6,29.4
+2018,42,29.8,28.3

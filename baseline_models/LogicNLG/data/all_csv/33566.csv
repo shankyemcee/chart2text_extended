@@ -1,12 +1,4 @@
-type#Million_euros
-Total_revenue#320029
-Taxes#180226
-Social_security_contributions#102258
-Sales_of_goods_and_services#17619
-Other_revenue#19926
-Total_expenditure#312015
-Compensation_of_employees#62355
-Use_of_goods_and_services#41569
-Social_benefits#150796
-Gross_fixed_capital_formation#25752
-Other_expenditure#31543
+weekday_and_weekend,Oct_2011_-Mar_2012,Apr-Sept_2012,Oct_2012_-Mar_2013
+Sunday,434392,434043,353900
+Saturday,442365,443831,351586
+Weekdays,555327,522868,500521

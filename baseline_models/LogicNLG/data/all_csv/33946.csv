@@ -1,11 +1,4 @@
-Age_group#Share_of_respondents
-14-15#40
-16-17#45
-18-19#60
-20-24#64
-25-29#72
-30-39#63
-40-49#65
-50-59#54
-60-69#47
-70_and_older#33
+residential_area,Strongly_support,Somewhat_support,Somewhat_oppose,Strongly_oppose,Do_not_know/no_opinion
+Urban,56,18,9,10,6
+Suburban,49,24,10,12,5
+Rural,34,22,13,22,9

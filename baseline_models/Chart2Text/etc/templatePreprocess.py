@@ -150,7 +150,7 @@ def openData(dataPath):
     size = df.shape[0]
     xAxis = cols[0]
     yAxis = cols[1]
-    chartType = getChartType(xAxis)
+    chartType = getChartType(str(xAxis))
     return df, cols, size, xAxis, yAxis, chartType
 
 
@@ -442,15 +442,32 @@ def getSubject(titleTokens, nerEntities):
     return entities, cleanTitle
 
 
-dataFiles = os.listdir('../dataset/data')
+dataFiles = []
+captionFiles = []
+titleFiles = []
+
+dataset_dir = "../../../../c2t_dataset_pew/"
+mapping_file = dataset_dir + 'train_index_mapping.csv'
+
+mapping = pd.read_csv(mapping_file)
+
+for index, row in mapping.iterrows():
+    if 'two_col' in row['File_No']:
+        dataFiles.append(row['File_No'][8:].replace('.txt','.csv'))
+        captionFiles.append(row['File_No'][8:])
+        titleFiles.append(row['File_No'][8:])
+
+
+
+# dataFiles = os.listdir('../dataset/data')
 dataFiles.sort()
 #dataFiles = dataFiles[3800:3801]
 
-captionFiles = os.listdir('../dataset/captions')
+# captionFiles = os.listdir('../dataset/captions')
 captionFiles.sort()
 #captionFiles = captionFiles[3800:3801]
 
-titleFiles = os.listdir('../dataset/titles')
+# titleFiles = os.listdir('../dataset/titles')
 titleFiles.sort()
 #titleFiles = titleFiles[3800:3801]
 
@@ -493,15 +510,15 @@ simpleChartTypes = []
 complexChartTypes = []
 
 for m in range(len(dataFiles)):
-    dataPath = '../dataset/data/' + dataFiles[m]
-    captionPath = '../dataset/captions/' + captionFiles[m]
-    titlePath = '../dataset/titles/' + titleFiles[m]
+    dataPath = dataset_dir + 'dataset/data/' + dataFiles[m]
+    captionPath = dataset_dir + 'dataset/captions/' + captionFiles[m]
+    titlePath = dataset_dir + 'dataset/titles/' + titleFiles[m]
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
     simpleChartTypes.append(chartType)
-    cleanXAxis = cleanAxisLabel(xAxis)
-    cleanYAxis = cleanAxisLabel(yAxis)
+    cleanXAxis = cleanAxisLabel(str(xAxis))
+    cleanYAxis = cleanAxisLabel(str(yAxis))
     # if cleanYAxis.split('_') == ['Current', 'year', '(as', 'of', 'January', '25,', '2020)']:
     #    print(dataPath)
     dataLine = ''
@@ -645,8 +662,14 @@ for m in range(len(dataFiles)):
     dataLabelLine = (' ').join(dataRowPairs)
     assert len(dataLabelLine.split()) == (len(xValueArr) + len(yValueArr))
     dataMatchCount = sum(xDataLabels) + sum(yDataLabels)
-    dataRatio = round(dataMatchCount / (len(xValueArr) + len(yValueArr)), 2)
-    captionRatio = round(captionMatchCount / len(captionTokens), 2)
+    if (len(xValueArr) + len(yValueArr)) != 0:
+        dataRatio = round(dataMatchCount / (len(xValueArr) + len(yValueArr)), 2)
+    else:
+        dataRatio=0
+    if len(captionTokens) != 0:
+        captionRatio = round(captionMatchCount / len(captionTokens), 2)
+    else:
+        captionRatio=0
     if captionMatchCount >= 1 and dataMatchCount >= 1:
         assert len(xValueArr) == len(yValueArr)
         dataRatioArr.append(dataRatio)
@@ -778,19 +801,36 @@ def checkForParallelMultiColumn(axis, variant, arrayIndex):
                 parallelData.append([template, axis, tokenIndex])
 
 
-dataFiles = os.listdir('../dataset/multiColumn/data')
+
+dataFiles = []
+captionFiles = []
+titleFiles = []
+
+
+
+for index, row in mapping.iterrows():
+    if 'multi_col' in row['File_No']:
+        dataFiles.append(row['File_No'][10:].replace('.txt','.csv'))
+        captionFiles.append(row['File_No'][10:])
+        titleFiles.append(row['File_No'][10:])
+
+
+
+
+
+# dataFiles = os.listdir('../dataset/multiColumn/data')
 dataFiles.sort()
 
-captionFiles = os.listdir('../dataset/multiColumn/captions')
+# captionFiles = os.listdir('../dataset/multiColumn/captions')
 captionFiles.sort()
 
-titleFiles = os.listdir('../dataset/multiColumn/titles')
+# titleFiles = os.listdir('../dataset/multiColumn/titles')
 titleFiles.sort()
 
 for m in range(len(dataFiles)):
-    dataPath = '../dataset/multiColumn/data/' + dataFiles[m]
-    captionPath = '../dataset/multiColumn/captions/' + captionFiles[m]
-    titlePath = '../dataset/multiColumn/titles/' + titleFiles[m]
+    dataPath = dataset_dir + 'dataset/multiColumn/data/' + dataFiles[m]
+    captionPath = dataset_dir + 'dataset/multiColumn/captions/' + captionFiles[m]
+    titlePath = dataset_dir + 'dataset/multiColumn/titles/' + titleFiles[m]
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
     df, cols, size, chartType = openMultiColumnData(dataPath)
@@ -961,122 +1001,135 @@ assert len(summaryArr) == len(summaryLabelArr)
 assert len(summaryArr) == len(oldSummaryArr)
 assert len(titleArr) == len(dataArr)
 
+
+
+
+
+
+
+
+
+# #to keep track of mapping to original files after shuffling
+# indices = []
+
+
+# captionFiles = os.listdir('../dataset/captions')
+# captionFiles.sort()
+
+# for i in captionFiles:
+#     indices.append('../dataset/captions/' + i)
+
+
+# captionFiles = os.listdir('../dataset/multiColumn/captions')
+# captionFiles.sort()
+
+# for i in captionFiles:
+#     indices.append('../dataset/multiColumn/captions' + i)
+
+
+
+
+
+
+
+
+
+
+
 # shuffle data with seed=0 for reproducibility
-dataArrShuffled, dataLabelArrShuffled, summaryArrShuffled, summaryLabelArrShuffled, oldSummaryArrShuffled, titleArrShuffled = utils.shuffle(dataArr, dataLabelArr, summaryArr, summaryLabelArr, oldSummaryArr, titleArr, random_state=0)
+# dataArrShuffled, dataLabelArrShuffled, summaryArrShuffled, summaryLabelArrShuffled, oldSummaryArrShuffled, titleArrShuffled = utils.shuffle(dataArr, dataLabelArr, summaryArr, summaryLabelArr, oldSummaryArr, titleArr, random_state=0)
 
-trainSize = round(len(dataArrShuffled) * 0.7)
-testSize = round(len(dataArrShuffled) * 0.15)
-validSize = len(dataArrShuffled) - trainSize - testSize
+# trainSize = round(len(dataArrShuffled) * 0.7)
+# testSize = round(len(dataArrShuffled) * 0.15)
+# validSize = len(dataArrShuffled) - trainSize - testSize
 
-trainData = dataArrShuffled[0:trainSize]
-testData = dataArrShuffled[trainSize:trainSize + testSize]
-validData = dataArrShuffled[trainSize + testSize:]
+# trainData = dataArrShuffled[0:trainSize]
+# testData = dataArrShuffled[trainSize:trainSize + testSize]
+# validData = dataArrShuffled[trainSize + testSize:]
 
-trainDataLabel = dataLabelArrShuffled[0:trainSize]
-testDataLabel = dataLabelArrShuffled[trainSize:trainSize + testSize]
-validDataLabel = dataLabelArrShuffled[trainSize + testSize:]
+# trainDataLabel = dataLabelArrShuffled[0:trainSize]
+# testDataLabel = dataLabelArrShuffled[trainSize:trainSize + testSize]
+# validDataLabel = dataLabelArrShuffled[trainSize + testSize:]
 
-trainSummary = summaryArrShuffled[0:trainSize]
-testSummary = summaryArrShuffled[trainSize:trainSize + testSize]
-validSummary = summaryArrShuffled[trainSize + testSize:]
+# trainSummary = summaryArrShuffled[0:trainSize]
+# testSummary = summaryArrShuffled[trainSize:trainSize + testSize]
+# validSummary = summaryArrShuffled[trainSize + testSize:]
 
-trainSummaryLabel = summaryLabelArrShuffled[0:trainSize]
-testSummaryLabel = summaryLabelArrShuffled[trainSize:trainSize + testSize]
-validSummaryLabel = summaryLabelArrShuffled[trainSize + testSize:]
+# trainSummaryLabel = summaryLabelArrShuffled[0:trainSize]
+# testSummaryLabel = summaryLabelArrShuffled[trainSize:trainSize + testSize]
+# validSummaryLabel = summaryLabelArrShuffled[trainSize + testSize:]
 
-trainTitle = titleArrShuffled[0:trainSize]
-testTitle = titleArrShuffled[trainSize:trainSize + testSize]
-validTitle = titleArrShuffled[trainSize + testSize:]
+# trainTitle = titleArrShuffled[0:trainSize]
+# testTitle = titleArrShuffled[trainSize:trainSize + testSize]
+# validTitle = titleArrShuffled[trainSize + testSize:]
 
-oldTrainSummary = oldSummaryArrShuffled[0:trainSize]
-oldTestSummary = oldSummaryArrShuffled[trainSize:trainSize + testSize]
-oldValidSummary = oldSummaryArrShuffled[trainSize + testSize:]
+# oldTrainSummary = oldSummaryArrShuffled[0:trainSize]
+# oldTestSummary = oldSummaryArrShuffled[trainSize:trainSize + testSize]
+# oldValidSummary = oldSummaryArrShuffled[trainSize + testSize:]
 
 
-with open('../data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
-    myfile0.writelines("%s\n" % line for line in trainData)
-with open('../data/train/trainDataLabel.txt', mode='wt', encoding='utf8') as myfile1:
-    myfile1.writelines("%s\n" % line for line in trainDataLabel)
 
-with open('../data/test/testData.txt', mode='wt', encoding='utf8') as myfile2:
-    myfile2.writelines("%s\n" % line for line in testData)
-with open('../data/test/testDataLabel.txt', mode='wt', encoding='utf8') as myfile3:
-    myfile3.writelines("%s\n" % line for line in testDataLabel)
+if 'train' in mapping_file:
+    with open('../data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
+        myfile0.writelines("%s\n" % line for line in dataArr)
+    with open('../data/train/trainDataLabel.txt', mode='wt', encoding='utf8') as myfile1:
+        myfile1.writelines("%s\n" % line for line in dataLabelArr)
+    with open('../data/train/trainSummary.txt', mode='wt', encoding='utf8') as myfile6:
+        myfile6.writelines("%s\n" % line for line in summaryArr)
+    with open('../data/train/trainSummaryLabel.txt', mode='wt', encoding='utf8') as myfile7:
+        myfile7.writelines("%s\n" % line for line in summaryLabelArr)
+    with open('../data/train/trainTitle.txt', mode='wt', encoding='utf8') as myfile14:
+        myfile14.writelines("%s" % line for line in titleArr)
+    with open('../data/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
+        myfile17.writelines("%s" % line for line in oldSummaryArr)
 
-with open('../data/valid/validData.txt', mode='wt', encoding='utf8') as myfile4:
-    myfile4.writelines("%s\n" % line for line in validData)
-with open('../data/valid/validDataLabel.txt', mode='wt', encoding='utf8') as myfile5:
-    myfile5.writelines("%s\n" % line for line in validDataLabel)
 
-with open('../data/train/trainSummary.txt', mode='wt', encoding='utf8') as myfile6:
-    myfile6.writelines("%s\n" % line for line in trainSummary)
-with open('../data/train/trainSummaryLabel.txt', mode='wt', encoding='utf8') as myfile7:
-    myfile7.writelines("%s\n" % line for line in trainSummaryLabel)
+elif 'test' in mapping_file:
+    with open('../data/test/testData.txt', mode='wt', encoding='utf8') as myfile2:
+        myfile2.writelines("%s\n" % line for line in dataArr)
+    with open('../data/test/testDataLabel.txt', mode='wt', encoding='utf8') as myfile3:
+        myfile3.writelines("%s\n" % line for line in dataLabelArr)
+    with open('../data/test/testSummary.txt', mode='wt', encoding='utf8') as myfile8:
+        myfile8.writelines("%s\n" % line for line in summaryArr)
+    with open('../data/test/testSummaryLabel.txt', mode='wt', encoding='utf8') as myfile9:
+        myfile9.writelines("%s\n" % line for line in summaryLabelArr)
+    with open('../data/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
+        myfile15.writelines("%s" % line for line in titleArr)
+    with open('../data/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
+        myfile18.writelines("%s" % line for line in oldSummaryArr)
 
-with open('../data/test/testSummary.txt', mode='wt', encoding='utf8') as myfile8:
-    myfile8.writelines("%s\n" % line for line in testSummary)
-with open('../data/test/testSummaryLabel.txt', mode='wt', encoding='utf8') as myfile9:
-    myfile9.writelines("%s\n" % line for line in testSummaryLabel)
 
-with open('../data/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10:
-    myfile10.writelines("%s\n" % line for line in validSummary)
-with open('../data/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
-    myfile11.writelines("%s\n" % line for line in validSummaryLabel)
 
-with open('../data/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
-    myfile12.write(str(dataRatioArr))
-with open('../data/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
-    myfile13.write(str(captionRatioArr))
 
-with open('../data/train/trainTitle.txt', mode='wt', encoding='utf8') as myfile14:
-    myfile14.writelines("%s" % line for line in trainTitle)
-with open('../data/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
-    myfile15.writelines("%s" % line for line in testTitle)
-with open('../data/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
-    myfile16.writelines("%s" % line for line in validTitle)
+elif 'val' in mapping_file:
+    with open('../data/valid/validData.txt', mode='wt', encoding='utf8') as myfile4:
+        myfile4.writelines("%s\n" % line for line in dataArr)
+    with open('../data/valid/validDataLabel.txt', mode='wt', encoding='utf8') as myfile5:
+        myfile5.writelines("%s\n" % line for line in dataLabelArr)
+    with open('../data/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10:
+        myfile10.writelines("%s\n" % line for line in summaryArr)
+    with open('../data/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
+        myfile11.writelines("%s\n" % line for line in summaryLabelArr)
+    with open('../data/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
+        myfile16.writelines("%s" % line for line in titleArr)
+    with open('../data/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
+        myfile19.writelines("%s" % line for line in oldSummaryArr)
 
-with open('../data/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
-    myfile17.writelines("%s" % line for line in oldTrainSummary)
-with open('../data/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
-    myfile18.writelines("%s" % line for line in oldTestSummary)
-with open('../data/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
-    myfile19.writelines("%s" % line for line in oldValidSummary)
 
-with open('../data/chartCounts.txt', mode='wt', encoding='utf8') as myfile20:
-    simple = collections.Counter(simpleChartTypes).items()
-    complex = collections.Counter(complexChartTypes).items()
-    myfile20.write(f"{[f'{key}: {val}' for key, val in simple]}\n")
-    myfile20.write(f"{[f'{key}: {val}' for key, val in complex]}")
 
-with open('../data/summaryList.txt', mode='wt', encoding='utf8') as myfile21:
-    myfile21.writelines("%s" % line for line in oldSummaryArr)
-with open('../data/titleList.txt', mode='wt', encoding='utf8') as myfile22:
-    myfile22.writelines("%s" % line for line in titleArr)
 
-import matplotlib.pyplot as plt
 
-plt.hist(dataRatioArr, 6)
-plt.savefig('../data/data.png')
-plt.close('all')
-plt.hist(captionRatioArr, 6)
-plt.savefig('../data/caption.png')
-plt.close('all')
-"""
-with open('../data/fineTune/data.txt', mode='wt', encoding='utf8') as myfile14, \
-        open('../data/fineTune/dataLabel.txt', mode='wt', encoding='utf8') as myfile15, \
-        open('../data/fineTune/summary.txt', mode='wt', encoding='utf8') as myfile16, \
-        open('../data/fineTune/summaryLabel.txt', mode='wt', encoding='utf8') as myfile17:
-    for i in range(0, len(captionRatioArr)):
-        if captionRatioArr[i] > 0.35:
-            myfile14.writelines(dataArr[i] + "\n")
-            myfile15.writelines(dataLabelArr[i] + "\n")
-            myfile16.writelines(summaryArr[i])
-            myfile17.writelines(summaryLabelArr[i] + "\n")
-"""
-# tokenVector = nlp(token)
-# xVector =
-# xSimilarity = tokenVector.similarity()
-# ySimilarity = tokenVector.similarity(nlp(cleanYValue))
-# print(token, cleanXValue, xSimilarity)
-# print(token, cleanYValue, ySimilarity)
-# print(' ')
+# with open('../data/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
+#     myfile12.write(str(dataRatioArr))
+# with open('../data/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
+#     myfile13.write(str(captionRatioArr))
+
+
+
+# with open('../data/chartCounts.txt', mode='wt', encoding='utf8') as myfile20:
+#     simple = collections.Counter(simpleChartTypes).items()
+#     complex = collections.Counter(complexChartTypes).items()
+#     myfile20.write(f"{[f'{key}: {val}' for key, val in simple]}\n")
+#     myfile20.write(f"{[f'{key}: {val}' for key, val in complex]}")
+
+

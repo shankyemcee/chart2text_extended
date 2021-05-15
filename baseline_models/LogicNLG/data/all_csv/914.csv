@@ -1,4 +1,3 @@
-Year#Male#Female
-12_to_17_years#47.7#52.3
-18_to_24_years#30.7#69.3
-25_years_and_older#34.8#65.2
+Response,Percentage_of_costs
+Above_median_number_of_enterprise_seats,12
+Below_median_number_of_enterprise_seats,16

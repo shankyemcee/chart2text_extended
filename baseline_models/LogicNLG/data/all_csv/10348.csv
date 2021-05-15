@@ -1,9 +1,8 @@
-Year#Units_sold
-2019#9862
-2018#14445
-2017#25588
-2016#32666
-2015#30333
-2014#23100
-2013#20023
-2012#12730
+Type_of_Method,Number_of_victims
+Shooting,263
+Stabbing,214
+Beating,100
+Other_methods_used,41
+Strangulation,31
+Methods_used_unknown,18
+Fire_(burns_or_suffocation),11

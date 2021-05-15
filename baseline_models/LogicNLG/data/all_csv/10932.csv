@@ -1,7 +1,5 @@
-City,_quality_level_(date)#Price_in_U.S._dollars_per_ounce
-Fort_Collins_medium_quality_(July_19)#130
-Boulder_high_quality_(September_3)#188
-Loveland_high_quality_(September_14)#100
-Colorado_Springs_medium_quality_(September_16)#123
-Denver_high_quality_(September_25)#100
-Aurora_high_quality_(October_15)#400
+"Company_(date_of_emergency_use_authorisaztion,_test_name)",Turnaround_time_(in_hours)
+Roche_Molecular_Systems_(13_March_Cobas_Sars-CoV-2_test),35
+Labcorp_(16_March_Covid-19_RT-PCR_test),24
+Thermo_Fisher_Scientific_(13_March_TaqPath_Covid-19_Combo_Kit),4
+Hologic_(16_March_Panther_Fusion_Sars-CoV-2_assay,3

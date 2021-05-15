@@ -1,6 +1,7 @@
-Country_of_graduation#Number_of_physicians
-Canada#62765
-United_States#801
-Other_Foreign#18192
-Unknown#2527
-Total#94285
+Response,A_lot_more,A_little_more,About_the_same,A_little_less,A_lot_less
+18-24,15,37,20,5,3
+25-34,13,28,23,6,4
+35-44,11,25,26,5,4
+45-54,9,16,30,4,4
+55-64,9,23,20,2,3
+65+,8,19,30,2,1

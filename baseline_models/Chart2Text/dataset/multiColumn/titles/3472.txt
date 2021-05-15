@@ -1,1 +1,0 @@
-Forecast : American population from 2016 to 2060 , by age ( in millions )

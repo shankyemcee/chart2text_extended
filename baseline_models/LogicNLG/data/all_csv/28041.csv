@@ -1,10 +1,5 @@
-nutritional_value#Orange_juice#Apple_juice#Peach_juice#Pineapple_juice#Grape_juice
-Energy_(in_kcal)#42.0#51.0#46.0#46.0#68.0
-Carbohydrates_(in_g)#9.4#11.8#10.5#9.7#16.6
-Protein_(in_g)#0.62#0.63#0.63#0.37#0.21
-Fat_(in_g)#0.2#0.11#0.2#0.08#0.1
-Potassium_(in_mg)#150.0#116.0#241.0#116.0#148.0
-Sodium_(in_mg)#1.4#1.4#2.2#8.0#4.6
-Vitamin_C_(in_mg)#30.5#1.4#8.9#11.0#1.7
-Vitamin_A/retinol_(in_µg)#2.58#7.5#12.84#1.34#3.0
-Folic_acid_(in_µg)#18.6#3.1#3.3#8.0#1.0
+Year,Prada,Miu_Miu,Church's,Others
+2019,2643348,450491,68801,19699
+2018,2558108,453476,69079,17405
+2017,2461246,459338,70999,16697
+2016,2512648,515312,80535,17520

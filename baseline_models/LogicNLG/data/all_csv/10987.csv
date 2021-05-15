@@ -1,6 +1,5 @@
-Response#Share_of_respondents
-Male#28
-Female#31
-Under_35#22
-35_to_49#33
-50_to_64#35
+economic_sector,Number_of_employees_in_thousands
+Service,15791
+Industry,4705
+Construction,1352
+Agriculture_forestry_fishing,865

@@ -1,9 +1,7 @@
-Year#Market_capitalization_in_million_euros
-2019#32331.4
-2018#38105.05
-2017#42186.07
-2016#44433.44
-2015#50921.16
-2014#55513.88
-2013#53861.38
-2012#46374.94
+Response,Percentage_of_households
+No_access,45.1
+Exclusive_toilets,45
+Common_use_in_the_building/shared,9.5
+Others,0.4
+Paid_public/community_toilets,0
+Free_to_use_public/community_toilets,0

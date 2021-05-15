@@ -1,11 +1,6 @@
-geographic_region#Number_of_speakers
-Polish#4961
-Arabic#3484
-Bengali#3019
-Urdu#1508
-Chinese#1466
-Panjabi#1242
-Romanian#1091
-Somali#852
-Portuguese#846
-Tagalog/Filipino#830
+Response,Share_of_respondents
+Yes_very_interested,12
+Yes_somewhat_interested,21
+No_not_very_interested,15
+No_not_interested_at_all,45
+Don't_know/no_opinion,6

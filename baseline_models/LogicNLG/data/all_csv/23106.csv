@@ -1,7 +1,8 @@
-Response#Share_of_respondents
-To_get_specific_information_about_this_food#57
-To_visit_the_brand’s_website#43
-To_get_general_information_about_the_product_or_company#34
-To_enter_a_contest#34
-To_get_a_recipe#25
-To_play_a_game#9
+Type_of_organization,Voluntary_patients,"Involuntary,_non-Forensic","Involuntary,_Forensic"
+State_and_County_Psychiatric_Hospitals,18,37,46
+Private_Psychiatric_Hospitals,63,32,5
+General_Hospital_with_Separate_Psychiatric_Units,61,37,3
+Veterans_Affairs_Medical_Centers,80,15,5
+RTC_For_Children,81,13,6
+RTC_For_Adults,55,27,18
+Other_facilities_providing_specialized_psychiatric_inpatient_care,66,31,2

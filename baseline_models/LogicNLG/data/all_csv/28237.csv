@@ -1,12 +1,5 @@
-Year#National_debt_in_relation_to_GDP
-2025#46.24
-2024#46.45
-2023#46.55
-2022#46.2
-2021#46.24
-2020#44.8
-2019#40.46
-2018#37.72
-2017#35.99
-2016#35.99
-2015#30.66
+Response,Very_closely,Somewhat_closely,Not_very_closely,Not_closely_at_all
+18-29_years,17,23,17,43
+30-44_years,32,17,16,34
+45-64_years,30,24,12,33
+65+_years,31,24,11,34

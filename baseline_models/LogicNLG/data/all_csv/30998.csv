@@ -1,4 +1,8 @@
-Year#Price_in_U.S._dollar_cents_per_pound
-2018#103
-2017#100
-2016#85
+Response,Share_of_electricity_production
+Natural_gas,45
+Hydroelectric,16.3
+Coal,9.3
+Biomass,9
+Solar,8.3
+Other_fossil_fuels,6.2
+Wind,6.2

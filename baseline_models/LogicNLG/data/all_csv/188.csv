@@ -1,10 +1,4 @@
-Year#Revenue_in_billion_euros
-2019#26.06
-2018#23.67
-2017#21.67
-2016#22.32
-2015#21.53
-2014#17.21
-2013#14.33
-2012#13.87
-2011#10.93
+capacity_type,Number_of_ships
+Owned,53
+Chartered,34
+Orderbook,0

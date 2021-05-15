@@ -1,11 +1,5 @@
-Response#Share_of_GDP
-2019#5.5
-2018#5.5
-2017#5.5
-2016#5.5
-2015#5.8
-2014#5.6
-2013#5.9
-2012#5.8
-2011#5.7
-2010#6
+Response,Share_of_individuals
+Once_a_week_(including_every_day),80
+Daily,69
+At_least_once_a_week_(but_not_every_day),11
+Less_than_once_a_week,5

@@ -1,10 +1,7 @@
-Place_of_death#Number_of_deaths
-Total_deaths_from_COVID-19#301679
-Healthcare_setting_inpatient#192822
-Nursing_home/long_term_care_facility#66553
-Decedent's_home#17558
-Healthcare_setting_outpatient_or_emergency_room#9978
-Hospice_facility#8772
-Other#5569
-Healthcare_setting_dead_on_arrival#270
-Place_of_death_unknown#157
+Household_Type,Number_of_households_in_thousands
+One_person_households,8197
+Couple_(without_children),7982
+Couple_(with_children),7867
+Lone_parent_(with_children),2695
+Two_or_more_unrelated_adults,787
+Multi-family_households,297

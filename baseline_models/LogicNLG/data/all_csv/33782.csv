@@ -1,11 +1,5 @@
-Year#Gini_coefficient
-2019#0.38
-2018#0.38
-2017#0.38
-2016#0.38
-2015#0.39
-2014#0.39
-2013#0.39
-2012#0.41
-2011#0.4
-2010#0.4
+Response,"Large_(10"")","Medium_(8""_to_9"")","Small_(about_7"")"
+Total,31,28,44
+Elementary,23,29,51
+Middle_School,30,30,43
+High_School,38,26,40

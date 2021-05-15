@@ -1,5 +1,4 @@
-Response#Very_closely#Somewhat_closely#Not_very_closely#Not_closely_at_all
-18-29_years#4#16#24#57
-30-44_years#15#19#14#52
-45-64_years#11#13#18#57
-65+_years#6#11#23#59
+Aircraft_Type,Number_of_aircraft_removed_from_service
+Small_single-aisle_aircraft,3100
+Small_regional_aircraft,2200
+Large_regional_aircraft,2100

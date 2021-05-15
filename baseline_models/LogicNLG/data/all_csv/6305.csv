@@ -1,12 +1,4 @@
-Year#Number_of_masjids
-Greater_than_4000_people#10
-2001_to_4000_people#51
-1001_to_2000_people#130
-751_to_1000_people#99
-501_to_750_people#145
-401_to_500_people#137
-301_to_400_people#143
-201_to_300_people#279
-101_to_200_people#300
-50_to_100_people#276
-Less_than_50_people#51
+capital,Number_of_projects
+London,187
+Berlin,145
+Paris,66

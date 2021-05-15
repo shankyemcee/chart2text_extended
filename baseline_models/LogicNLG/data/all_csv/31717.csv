@@ -1,6 +1,8 @@
-type_of_sports_club#Number_of_licensees
-Football#267350
-Tennis#230800
-Judo#109040
-Golf#104350
-Horse-riding#95540
+year,Per_capita_availability_of_power_in_kilowatt_hour
+FY_2018,281.7
+FY_2017,278.9
+FY_2016,265.4
+FY_2015,254.3
+FY_2014,226.6
+FY_2013,194.0
+FY_2012,182.7

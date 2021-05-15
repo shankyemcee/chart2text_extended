@@ -1,8 +1,5 @@
-Year#Cat_food,_dry#Cat_food,_wet#Cat_treats
-2000#2.3#1.9#0.12
-2003#2.61#1.97#0.18
-2010#3.6#2.2#0.45
-2011#3.6#2.3#0.5
-2012#3.6#2.4#0.53
-2013#3.7#2.4#0.56
-2014#3.8#2.6#0.59
+Device,Spending_in_million_euros
+Computer_screen,1790
+Entertainment_screen,1150
+Floating_screen,545
+Personal_screen,305

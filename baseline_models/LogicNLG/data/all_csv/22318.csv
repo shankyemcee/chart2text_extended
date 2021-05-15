@@ -1,6 +1,4 @@
-Race#Male#Female
-Total#789#61
-White_non-Hispanic#385#48
-Black_non-Hispanic#2203#83
-Hispanic#979#125
-Other#1176#55
+device,2015,2016,2017,2018,2019
+Tablet,12,11,8,7,8
+Desktop,60,55,48,40,34
+Phone,28,34,44,53,62

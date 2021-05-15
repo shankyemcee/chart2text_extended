@@ -1,5 +1,9 @@
-Response#Very_good#Good#Fair#Poor#Very_poor
-2014#8#46#30#16#0
-2015#9#50#28#9#3
-2016#10#48#50#0#0
-2017#7#56#31#6#0
+Response,Percentage_of_attack_traffic
+Gaming,79
+Internet_and_telecom,6
+Financial_services,4
+Software_and_technology,4
+Education,3
+Retail_and_consumer_goods,3
+Media_and_entertainment,1
+Other,1

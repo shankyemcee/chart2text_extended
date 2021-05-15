@@ -1,7 +1,6 @@
-Trade_Goods_Category#Volume_of_trade_goods_in_billion_U.S._dollars
-Capital_goods#547.13
-Industrial_supplies#530.63
-Consumer_goods#206.35
-Automotive_vehicles_etc.#161.84
-Foods_feeds_beverages#131.13
-Other_goods#68.44
+Country,Number_of_suspected_cases
+North,54853
+South,34852
+Center,25988
+Islands,8959
+Unkown,1998

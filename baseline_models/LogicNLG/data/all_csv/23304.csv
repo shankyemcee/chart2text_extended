@@ -1,7 +1,4 @@
-Year#Beer#Soft_drink#Hot_dog
-2015/16#8.5#5.0#5.5
-2014/15#8.5#5.0#5.5
-2013/14#8.25#5.5#5.5
-2012/13#8.0#4.0#4.75
-2011/12#7.25#3.75#4.5
-2010/11#7.25#3.75#4.5
+Response,0_employees,1-9_employees,10-49_employees,50-249_employees,All
+Major_obstacle,8,7,5,5,8
+Moderate_obstacle,14,13,19,21,14
+Minor_obstacle,76,78,72,72,76

@@ -1,5 +1,7 @@
-province_of_canada#2015#2016#2017#2018#2019
-Prince_Edward_Island#0#0#0#0#4.71
-Quebec#1#0#0#0.44#0
-British_Columbia#82.24#0#82#74.3#68.66
-Ontario#227.15#227.16#204.17#217.15#211.5
+Year,Interaction_rate
+1-1k_followers,0.29
+1k-10k_followers,0.11
+10-100k_followers,0.05
+100k-1m_followers,0.02
+1m-10m_followers,0.01
+10m+_followers,0.01

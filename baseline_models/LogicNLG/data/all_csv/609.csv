@@ -1,12 +1,4 @@
-Year#Deaths_per_1,000_live_births
-2019#15.9
-2018#16.3
-2017#16.6
-2016#16.9
-2015#17.2
-2014#17.4
-2013#17.6
-2012#17.8
-2011#18.0
-2010#18.3
-2009#18.5
+Region,Average_wash_temperature_in_degrees_celsius
+Europe,42
+North_America,29
+Japan,23

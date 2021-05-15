@@ -1,5 +1,11 @@
-region#2015#2016#2017#2018#2019
-Rest_of_the_world#604#337#205#167#128
-USA#315#264#192#300#228
-Europe#1247#738#655#838#1148
-UK#14724#14606#15011#15351#16925
+Country,Production_in_million_metric_tons
+United_States,698.4
+Saudi_Arabia,578.3
+Russia,555.8
+Canada,232.5
+Iraq,226.1
+Iran,220.4
+China,190.0
+United_Arab_Emirates,177.7
+Kuwait,146.8
+Brazil,130.2

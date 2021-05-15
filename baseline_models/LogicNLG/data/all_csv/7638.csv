@@ -1,6 +1,4 @@
-Year#Consumption_in_grams
-1.5-3_years#46
-4-10_years#39
-11-18_years#19
-19-64_years#27
-65_years_and_over#36
+school_level,Number_of_books
+Elementary_School,362
+Middle_School,189
+High_School,93

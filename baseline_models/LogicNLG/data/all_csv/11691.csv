@@ -1,6 +1,7 @@
-name_of_indian_state#Production_in_thousand_metric_tons
-Tamil_Nadu#44.55
-Kerala#36.47
-Maharashtra#8.77
-Madhya_Pradesh#7.85
-Others#0.52
+Response,Share_of_consumers_buying
+Premium_named_brand,26
+Standard_named_brand,44
+Premium_own_label,6
+Standard_own_label,13
+Economy_or_value_own_label,7
+Don't_know,3

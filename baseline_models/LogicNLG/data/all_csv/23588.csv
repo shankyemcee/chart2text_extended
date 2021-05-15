@@ -1,9 +1,4 @@
-Response#Total#Urban#Rural
-TV#87#92#83
-Friends/family#39#48#29
-SMS_/_text_message#36#47#25
-Radio#11#12#10
-Internet#9#14#5
-Social_networks#9#12#6
-Newspapers/magazines#7#10#3
-Mobile_apps#3#4#2
+Response,1_-_Strongly_disagree,2,3,4,5_-_Strongly_agree
+Today's_high_school_dropout_is_ready_for_the_world_of_work,65,19,10,3,3
+Today's_high_school_graduate_is_ready_for_the_world_of_work,18,26,38,14,4
+Today's_college_graduate_is_ready_for_the_world_of_work,7,10,29,40,14

@@ -1,5 +1,6 @@
-Year#Number_of_immigrants
-0-15_years#9882
-16-44_years#36121
-45-66_years#5410
-67_years_or_older#740
+Year,Fresh/canned_fruit,Dried_fruit
+1.5-3_years,103,3
+4-10_years,106,2
+11-18_years,58,1
+19-64_years,96,4
+65_years_and_over,127,8

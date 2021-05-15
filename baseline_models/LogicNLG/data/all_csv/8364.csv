@@ -1,11 +1,6 @@
-Origin#Number_of_active_drugs
-Chemical_synthetic#8921
-Biological_protein_antibody#2224
-Biological_protein_recombinant#795
-Biological_cellular_autologous#602
-Biological_protein#549
-Biological_nucleic_acid_viral_vector#485
-Chemical_synthetic_peptide#478
-Biological_cellular#464
-Biological_virus_particles#405
-Chemical_synthetic_nucleic_acid#401
+Year,Number_of_chefs_and_cooks_in_thousands
+2007,254.5
+2008,251.2
+2009,258.9
+2010,270.8
+2011,267.5

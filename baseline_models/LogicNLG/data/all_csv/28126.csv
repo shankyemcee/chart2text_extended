@@ -1,8 +1,6 @@
-targets#Number_of_targets_damaged/destroyed
-Fighting_positions#8638
-Buildings#7948
-Oil_infrastructure#2638
-Staging_areas#2050
-HMMWV's#388
-Tanks#164
-Other_targets#10074
+Response,Frequently_(one_or_more_times_per_month),Occasionally_(less_than_once_a_month),Infrequently_(once_a_year_or_less)
+18-29,20,49,30
+30-44,17,44,39
+45-54,14,34,52
+55-64,9,36,55
+65+,7,35,58

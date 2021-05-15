@@ -1,11 +1,3 @@
-radiology_procedure#Total_charges_in_million_U.S._dollars
-Screening_mammography_bilateral_w/_computer-aided_detection#718.5
-MRI_of_lumbar_spine_w/o_dye#686.8
-MRI_joint_of_lower_extremity_w/o_dye#627.6
-MRI_of_brain_stem_w/o_&_w/dye#524.9
-CT_of_abdomen_&_pelvis_w/contrast#419.3
-MRI_of_joint_upper_extremity_w/o_dye#368.4
-PET_image_w/CT_skull-to-thigh#364.9
-MRI_of_neck_spine_w/o_dye#362.2
-MRI_of_brain_stem_w/o_dye#298.9
-CT_of_abdomen_&_pelvis_w/o_contrast#229.8
+Year,Visitors_in_millions
+2017,14.5
+2016,13.9

@@ -50,7 +50,7 @@ generatedPath = 'fi_data/generated-p80.txt'
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
            'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', ';']
 
-count = 1
+count = 0
 
 generatedScores = []
 #baselineScores = []

@@ -1,6 +1,7 @@
-size_class#Number_of_enterprises
-250_persons_employed_or_more#3249
-From_50_to_249_persons_employed#19518
-From_20_to_49_persons_employed#47546
-From_10_to_19_persons_employed#122744
-From_0_to_9_persons_employed#3526539
+Response,Millennials,Non-millennials
+Quality,55,59
+Price,33,27
+Service,9,13
+Popularity,1,1
+Recommendations,1,0
+Unanswered,1,0

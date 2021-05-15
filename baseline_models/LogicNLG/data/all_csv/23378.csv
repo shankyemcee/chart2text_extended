@@ -1,10 +1,6 @@
-region#Pocket_money_average_in_GBP
-Greater_London#8.18
-Scotland#8.11
-North_West#7.11
-East_Midlands#7.01
-West_Midlands#7.01
-Wales_&_West#6.75
-North_East_Yorkshire_and_the_Humber#6.36
-South_East_&_East_England#6.19
-National_average#7.01
+age_group,Women,Men,Both_sexes
+25_to_34,95,93,94
+35_to_44,95,93,94
+45_to_54,93,90,92
+55_to_64,88,85,87
+25_to_64,88,90,92

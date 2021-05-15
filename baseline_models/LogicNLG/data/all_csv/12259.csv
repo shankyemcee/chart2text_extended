@@ -1,8 +1,7 @@
-Month#Earnings_in_million_U.S._dollars
-June_2017_to_June_2018#12
-June_2016_to_June_2017#14
-June_2015_to_June_2016#15
-June_2014_to_June_2015#18
-June_2013_to_June_2014#23
-June_2012_to_June_2013#23
-May_2011_to_May_2012#23
+type,Expenditure_in_million_GBP
+Housing_development,7433
+Community_development,2988
+Street_lighting,906
+Water_supply,793
+Housing_and_community_amenities_n.e.c.,339
+R&D_housing_and_community_amenities,2

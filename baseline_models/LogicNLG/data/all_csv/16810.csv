@@ -1,6 +1,7 @@
-film#Percentage_change_in_sales_value
-Gillette#-5.8
-Lynx#-4.2
-Nivea_Men#9.9
-Sure_Men#0.8
-Wilkinson#-4.5
+Year,Percent_change_from_previous_year
+2024,3.4
+2023,4.5
+2022,6.9
+2021,15.2
+2020,21.9
+2019,97.5

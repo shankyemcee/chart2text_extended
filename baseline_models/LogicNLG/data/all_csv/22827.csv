@@ -1,7 +1,4 @@
-Year#Net_impact_in_billion_U.S._dollars
-2025#-0.3
-2024#-5.4
-2023#-1.4
-2022#-2.6
-2021#-5.5
-2020#-3.6
+crisis_duration,5,10,15,20
+Crisis_will_last_3_months,195.4,390.8,586.3,781.7
+Crisis_will_last_6_months,390.8,781.7,1172.5,1563.4
+Crisis_will_last_9_months,586.3,1172.5,1758.8,2345.0

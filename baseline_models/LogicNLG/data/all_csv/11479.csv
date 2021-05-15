@@ -1,11 +1,5 @@
-State#Average_retail_price_in_U.S._cents_per_kilowatt_hour
-North_Dakota#9.01
-Louisiana#9.05
-Oklahoma#9.06
-Washington#9.43
-Missouri#9.52
-Nebraska#9.6
-Arkansas#9.84
-Idaho#9.91
-Utah#10.09
-Wyoming#10.49
+category,Price_per_liter_in_Argentine_pesos
+Low,52.7
+Standard,86.4
+Premium,141.7
+Super_and_ultra_premium,257.2

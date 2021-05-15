@@ -1,6 +1,9 @@
-Bed_size#Number_of_hospitals
-0-99#0
-100-249#9
-250-349#12
-350-499#20
-500+#9
+military_budget,Production_volume_in_thousand_metric_tons
+FY_2020,191
+FY_2019,382
+FY_2018,367
+FY_2017,320
+FY_2016,304
+FY_2015,285
+FY_2014,284
+FY_2013,240

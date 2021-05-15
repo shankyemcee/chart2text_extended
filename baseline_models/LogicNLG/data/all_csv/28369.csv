@@ -1,7 +1,9 @@
-Response#Share_of_respondents
-Very_favorable#19
-Somewhat_favorable#5
-Somewhat_unfavorable#29
-Very_unfavorable#11
-Heard_of_no_opinion#24
-Never_heard_of#11
+anxiety_disorder,18-25_years,26-49_years,50_years_and_over
+Posttraumatic_stress_disorder,223,870,601
+Panic_disorder_with_and_without_agoraphobia,237,1260,555
+Agoraphobia_without_history_of_panic_disorder,37,277,173
+Social_phobia,733,1223,280
+Specific_phobia,493,944,2282
+Obsessive_compulsive_disorder,202,324,143
+Generalized_anxiety_disorder,530,2425,1185
+One_or_more_anxiety_disorders,2096,6005,4843

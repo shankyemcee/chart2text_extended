@@ -1,11 +1,4 @@
-Type_of_occupation#Number_of_births_(per_1,000_women)
-Management_business_&_financial#1167
-Professional_&_related_occupations#1149
-Service_occupations#1168
-Sales_&_related_occupations#942
-Office_&_admin._support#1228
-Farming_fishing_and_forestry#1404
-Construction_and_extraction#1551
-Installation_maintenance_and_repair#1858
-Production_occupations#1655
-Transportation_and_material_moving#1282
+Sector,Health_expenditure_in_U.S._dollars
+Public,2386
+Private,985
+Total,3371

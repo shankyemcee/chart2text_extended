@@ -1,4 +1,7 @@
-Year#Transactions_in_billions
-2017#3.7
-2016#2.3
-2015#0.9
+production,Spending_in_billion_U.S._dollars
+Flash/NV,31.1
+DRAM/SRAM,22.9
+Foundry,21.7
+MPU/MCU,13.0
+Analog/Other,7.9
+Logic,5.5

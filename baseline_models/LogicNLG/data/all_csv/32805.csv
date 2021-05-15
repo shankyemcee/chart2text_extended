@@ -1,3 +1,4 @@
-Year#Offline_sales#Online_sales
-2013#92.8#7.2
-2018#90.2#9.8
+device_type,Average_cost_in_U.S._dollars
+Android,0.62
+iPhone,1.08
+iPad,1.07

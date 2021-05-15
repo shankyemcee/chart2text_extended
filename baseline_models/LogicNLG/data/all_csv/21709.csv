@@ -1,8 +1,9 @@
-Year#Number_of_enterprises
-0_-_49999_GBP#55
-50000_-_99999_GBP#125
-100000_-_249999_GBP#320
-250000_-_499999_GBP#175
-500000_-_999999_GBP#120
-1_million_-_4.999_million_GBP#150
-5_million+_GBP#85
+product_category,2017,2018,2019
+Vaccines,1373,1488,1483
+Anti-infectives,1253,1280,1254
+Parasiticides,763,836,966
+Other_pharmaceuticals,753,765,780
+Dermatology,428,607,770
+Medicated_feed_additives,475,485,470
+Animal_health_diagnostics,44,136,268
+Other_non-pharmaceuticals,174,170,184

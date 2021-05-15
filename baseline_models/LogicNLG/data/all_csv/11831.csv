@@ -1,5 +1,9 @@
-Response#Male#Female
-Gen_Z#36#38
-Millennials#38#37
-Gen_X#27#31
-Boomers#21#22
+Year,Number_of_employees_in_thousands
+2012,182
+2013,203
+2014,223
+2015,243
+2016,262
+2017,283
+2018,306
+2019,332

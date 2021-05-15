@@ -1,6 +1,8 @@
-Response#Share_of_respondents
-Very_likely#47
-Quite_likely#39
-Not_very_likely#9
-Not_at_all_likely#3
-Not_sure/Don't_know#2
+Response,2013,2014,2015,2016,2017
+Security_(protection_of_sensitive_data_on_the_phone_or_over_the_air),56,54,55,46,43
+User_interface_/_ease_of_use,36,45,47,44,48
+Efficiency_/_performance_(including_network-related),59,51,54,44,53
+Portability_(the_same_binaries_could_be_executed_on_different_devices_powered_by_the_same_technology),38,40,34,43,38
+Compatibility_/_regression_testing,29,42,45,43,39
+Certification_of_application,34,35,33,39,46
+Functionality,43,54,48,34,44

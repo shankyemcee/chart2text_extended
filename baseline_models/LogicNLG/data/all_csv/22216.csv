@@ -1,6 +1,4 @@
-Age_in_years#Number_of_U.S._Armed_Forces_personnel
-25_and_under#595129
-26_to_30#274855
-31_to_35#194124
-36_to_40#136607
-41_and_over#103703
+Year,Domestic_spending,Foreign_visitor_spending
+2015,52.3,47.7
+2016,54.5,45.5
+2017,56,44

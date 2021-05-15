@@ -1,5 +1,8 @@
-Country#Number_of_internet_users_in_millions
-China#772.0
-India#462.0
-Brazil#149.0
-Russia#109.55
+Year,Number_of_enterprises
+0_-_49999_GBP,310
+50000_-_99999_GBP,740
+100000_-_249999_GBP,1000
+250000_-_499999_GBP,365
+500000_-_999999_GBP,300
+1_million_-_4.999_million_GBP,405
+5_million+_GBP,355

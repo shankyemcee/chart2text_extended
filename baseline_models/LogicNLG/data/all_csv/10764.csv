@@ -1,6 +1,6 @@
-Case_status#Number_of_patients
-Discharged#58517
-In_community_facilities#143
-Stable_condition_in_hospital#59
-Deaths#29
-Critical_condition_in_hospital#1
+Response,Share_of_responses
+Very_good,25
+Fairly_good,48
+Fairly_poor,17
+Very_poor,7
+Don’t_know,3

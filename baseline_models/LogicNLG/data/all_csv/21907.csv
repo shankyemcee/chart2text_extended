@@ -1,6 +1,3 @@
-Year#Number_of_occurrences
-2019#185692
-2018#213953
-2017#210819
-2016#174799
-2015#160939
+children's_goods,Sales_value,Number_of_orders,Value_of_shopping_basket
+Toys,34,13,18
+Baby,10,13,-3

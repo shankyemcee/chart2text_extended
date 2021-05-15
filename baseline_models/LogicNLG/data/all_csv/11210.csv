@@ -1,9 +1,6 @@
-Year#Growth_rate
-2012#7.3
-2013#3.1
-2014#-8.2
-2015#4.5
-2016#2.3
-2017#4.6
-2018#1.4
-2028#0.8
+Case_status,Number_of_cases
+Confirmed,188
+Admitted,113
+Patients_under_investigation_(PUIs),39
+Recovered,24
+Deaths,12

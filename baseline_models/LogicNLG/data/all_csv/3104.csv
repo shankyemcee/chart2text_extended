@@ -1,5 +1,8 @@
-Response#United_States#Global_average
-Immediately#20#18
-Within_an_hour#24#28
-Sometime_that_day#31#37
-I_don't_expect_a_response#25#17
+Response,Share_of_respondents
+High_class,0.2
+Higher_middle_class,3.2
+Middle_class,40.5
+Lower_middle_class,38.2
+Low_class,17.1
+Do_not_know,0.1
+Did_not_answer,0.7

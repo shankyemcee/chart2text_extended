@@ -1,4 +1,5 @@
-Year#Amount_in_million_U.S._dollars
-2016#738.9
-2015#762.52
-2014#597.14
+clinical_trial_phase,Proportion_of_clinical_trials
+Phase_1,30
+Phase_2,55
+Phase_3,7.5
+Phase_4,7.5

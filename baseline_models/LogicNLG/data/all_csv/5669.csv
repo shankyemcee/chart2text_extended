@@ -1,10 +1,7 @@
-Year#Average_consumption_in_million_litres
-2019#1.0
-2017#1.0
-2016#1.0
-2015#0.3
-2014#0.3
-2013#0.4
-2012#0.5
-2011#0.7
-2010#1.6
+Response,Share_of_top_100_songs_using_samples
+Rock,4
+Dance,10
+Pop,10
+Latin,12
+R&B,24
+Hip-Hop,32

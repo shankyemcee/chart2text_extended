@@ -1,4 +1,9 @@
-Year#North_America#International
-2019#93.8#19.0
-2018#105.4#22.3
-2017#112.0#31.7
+Light_type,String_watts,String_amps,Total_strings/15_amp_circuit
+Premium_Mini_Lights_(50_lights),20.4,0.17,71
+Standard_Mini_Lights_(35_lights),15.6,0.13,92
+Commercial_Mini_Lights_(50),20.4,0.17,71
+LED_C7_Lights_(25_lights),2.4,0.02,600
+LED_C9_Lights_(25_lights),2.4,0.02,600
+Premium_LED_Mini_Lights_(70_lights),4.8,0.04,300
+Commercial_LED_Mini_Lights_(25),2.4,0.02,600
+Wide_Angle_LED_Lights_(25_lights),2.4,0.02,600

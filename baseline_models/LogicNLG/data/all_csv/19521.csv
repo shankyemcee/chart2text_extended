@@ -1,5 +1,12 @@
-bank#Number_of_satety_deposit_boxes_in_thousand_units
-Shinhan#134.0
-Kookmin#112.09
-Woori#87.47
-KEB_Hana#55.35
+Response,Male,Female
+Documentaries_/_docu-series_(e.g._The_Real_World_Keeping_up_with_the_Kardashians_The_Hills_etc.),18,26
+Competition_/_elimination_(e.g._Dancing_with_the_Stars_America's_Got_Talent_etc.),20,34
+Makeover_/_renovation_(e.g._Extreme_Makeover_What_Not_to_Wear_etc.),10,24
+Dating_(e.g._The_Bachelor_/_Bachelorette_etc.),8,11
+Hidden_camera_/_amateur_content_(e.g._Impractical_Jokers_America's_Funniest_Home_Videos_etc.),17,17
+Supernatural_(e.g._Ghost_Hunters_Paranormal_State_etc.),17,18
+Travel_/_aspirational_(e.g._Lifestyles_of_the_Rich_and_Famous_MTV_Cribs_etc.),14,13
+Cooking_(e.g._MasterChef_Chopped_etc.),29,41
+Other,16,18
+Don't_know,3,2
+Not_applicable_-_I_do_not_typically_watch_reality_TV,34,20

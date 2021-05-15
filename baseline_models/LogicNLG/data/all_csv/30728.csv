@@ -1,5 +1,11 @@
-type_of_sport#French_share
-Rugby_team#35
-Handball_team#48
-Football_team#13
-Not_applicable#4
+association_football_club,number_of_attendees
+Sheffield_United,31003
+Bolton_Wanderers,23376
+Bradford_City,21874
+Milton_Keynes_Dons,18241
+Charlton_Athletic,15315
+Millwall,14463
+Coventry_City,11946
+Oxford_United,11866
+Bristol_Rovers,11777
+Swindon_Town,10658

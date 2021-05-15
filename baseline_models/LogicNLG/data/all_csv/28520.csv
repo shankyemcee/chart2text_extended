@@ -1,12 +1,5 @@
-Year#GDP_growth_compared_to_previous_year
-2025#2.45
-2024#2.64
-2023#2.9
-2022#3.11
-2021#2.87
-2020#-1.88
-2019#2.04
-2018#2.91
-2017#3.16
-2016#2.95
-2015#2.81
+Smoking_prevalence,Men,Women
+Current_smoker,20,17
+Used_to_smoke_regularly,23,19
+Used_to_smoke_not_regularly,11,8
+Never_smoked,46,56

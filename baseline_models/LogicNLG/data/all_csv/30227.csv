@@ -1,7 +1,6 @@
-Gross_leasable_area_in_square_feet#Net_leasable_area_in_million_square_feet
-Less_than_100001#2358
-100001_to_200000#1543
-200001_to_400000#1457
-400001_to_800000#1016
-800001_to_1_million#274
-More_than_1_million#678
+Policy,State_totals
+Includes_cyber_bullying_or_online_harassment,48
+Criminal_Sanction_for_cyber_bullying_or_electronic_harassment,44
+School_sanction_for_cyber_bullying,45
+School_policy,49
+Includes_off-campus,17

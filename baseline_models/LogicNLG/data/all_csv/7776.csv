@@ -1,11 +1,5 @@
-Country#Procedures_per_100,000_population
-Greece#2574
-Belgium#1723
-Taiwan#1646
-Italy#1612
-Lebanon#1328
-United_States#1309
-Brazil#1216
-Colombia#1038
-Spain#1021
-Turkey#993
+Response,Share_of_respondents
+Text,50
+Voice,37
+Video,4
+Don't_know/no_opinion,8

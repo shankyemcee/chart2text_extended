@@ -1,8 +1,4 @@
-Response#Share_of_respondents
-Several_times_a_day#20
-Daily#14
-Several_times_a_week#18
-Weekly#24
-Several_times_a_month#8
-Monthly#4
-Less_often#13
+party_affiliation,Hillary_Clinton,Donald_Trump
+Democrats,89,9
+Republicans,7,90
+Independents,42,48

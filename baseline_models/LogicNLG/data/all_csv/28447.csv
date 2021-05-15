@@ -1,6 +1,7 @@
-Year#Number_of_stores
-2019#171
-2018#163
-2017#137
-2016#101
-2015#77
+Response,Like,Neutral,Dislike
+Total,10,9,80
+Men,16,12,71
+Women,4,6,89
+Voters_of_the_Alliance,5,6,89
+Voters_of_the_Red-Greens,1,3,96
+Voters_of_Sweden_Democrats,42,21,36

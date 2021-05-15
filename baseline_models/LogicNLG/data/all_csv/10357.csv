@@ -1,5 +1,11 @@
-frequency#Number_of_consumers_in_millions
-8_or_more_times#5.44
-7_times#6.17
-1_-_6_times#5.15
-None#2.37
+Year,Transaction_value_in_million_GBP
+2014,417720
+2013,339995
+2012,288713
+2011,272537
+2010,272557
+2009,240163
+2008,283366
+2007,479696
+2006,458475
+2005,404438

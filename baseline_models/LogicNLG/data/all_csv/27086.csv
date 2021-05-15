@@ -1,11 +1,5 @@
-Response#Share_of_spending
-Lowest_ten_per_cent#0.3
-Second_decile_group#0.6
-Third_decile_group#0.4
-Fourth_decile_group#0.5
-Fifth_decile_group#0.6
-Sixth_decile_group#0.5
-Seventh_decile_group#0.8
-Eighth_decile_group#0.5
-Ninth_decile_group#0.4
-Highest_ten_per_cent#0.4
+Case_status,Number_of_cases_in_thousands
+Deceased,144.83
+Active,310.33
+Recovered,9520.04
+Confirmed,9977.83

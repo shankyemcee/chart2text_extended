@@ -1,9 +1,7 @@
-Season#Number_of_deaths
-Season_1#59
-Season_2#130
-Season_3#87
-Season_4#182
-Season_5#246
-Season_6#540
-Season_7#1096
-Season_8#3523
+Felony_Location,Number_of_burglaries
+Residence_Night,195884
+Residence_Day,290909
+Residence_Unknown,89814
+Nonresidence_Night,157327
+Nonresidence_Day,125554
+Nonresidence_Unknown,57976

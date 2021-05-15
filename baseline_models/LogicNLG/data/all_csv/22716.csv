@@ -1,11 +1,6 @@
-Country#Physicians_per_1,000_population
-Cuba#7.5
-Monaco#6.6
-San_Marino#6.4
-Austria#5.2
-Georgia#4.8
-Portugal#4.4
-Lithuania#4.4
-Norway#4.4
-Switzerland#4.2
-Germany#4.2
+Year,Companion_animals,Production_animals,Total_animal_health
+2016,1781,927,2708
+2015,1629,886,2515
+2014,1281,795,2076
+2013,1195,790,1985
+2012,1372,807,2179

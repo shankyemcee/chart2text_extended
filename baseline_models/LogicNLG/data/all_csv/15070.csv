@@ -1,11 +1,6 @@
-Year#Number_of_enterprises
-2017#9
-2016#9
-2015#8
-2014#13
-2013#14
-2012#12
-2011#11
-2010#9
-2009#9
-2008#9
+flavor,Market_share_of_fruit_juice
+Orange,62.7
+Apple,12.4
+Pineapple,3.3
+Berries,3.3
+Others,18.3

@@ -1,7 +1,8 @@
-Country#Assets_in_billion_U.S._dollars
-Saudi_Arabia#152
-United_Arab_Emirates#150
-Kuwait#95
-Qatar#89
-Bahrain#57
-Oman#7
+Response,Share_of_installed_generating_capacity
+Natural_gas,48.04
+Hydro,19.94
+Coal,18.61
+Oil_products,0.68
+Solar,0.34
+Other,0.34
+Wind,0.08

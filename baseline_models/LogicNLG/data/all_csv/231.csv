@@ -1,6 +1,4 @@
-Mode_of_transportation#100-299_miles#300-499_miles#500-999_miles#1000-1999_miles#2000+_miles
-Personal_vehicle#97.2#94.3#85.9#53.9#22.2
-Air#0.2#1.5#10.3#42.4#74.8
-Bus#1.6#3.4#3.2#2.6#1.4
-Train#0.9#0.7#0.6#0.9#0.8
-Other#0.2#0.1#0#0.1#0.8
+Response,Share_of_respondents
+Buying_more_household_cleaning_and_personal_care_products,87
+Stockpiling_to_limit_outings,62
+Purchasing_more_online,44

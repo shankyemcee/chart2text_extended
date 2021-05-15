@@ -1,9 +1,6 @@
-Country#Price_per_square_foot_in_U.S._dollars
-Hong_Kong#1987
-Singapore#1214
-Paris#1048
-Munich#821
-London#803
-Shenzhen#738
-Shanghai#713
-Beijing#607
+geographic_region,Number_of_hotels
+North_AmericaCentral_America_&_the_Caribbean,119
+Middle__East_&_Africa,290
+South_America,398
+Asia_Pacific,1200
+Northern_Central_and_Eastern_Europe,3029

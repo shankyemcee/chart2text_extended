@@ -1,4 +1,7 @@
-Year#"Systeme_A"#Carrefour#Leclerc#Intermarche#Casino#Other
-2008#20.3#22.9#14.2#15.2#11.6#15.8
-2013#22.3#19.9#17.7#13.6#10.2#16.3
-2018#21.8#19.5#19.3#15#9.9#14.6
+Country,Revenue_in_billion_U.S._dollars
+North_America,714.5
+Europe,422.0
+Asia-Pacific_(excluding_Japan),342.4
+Japan,174.4
+Latin_America,137.1
+Rest_of_world,63.4

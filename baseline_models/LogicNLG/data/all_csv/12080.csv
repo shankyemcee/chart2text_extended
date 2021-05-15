@@ -1,6 +1,4 @@
-age_group#Sugar_intake_in_grams
-Children_1.5-3_years#36.1
-Children_4-10_years#60.8
-Teenagers_11-18_years#74.2
-Adults_19-64_years#58.8
-Adults_65_years_and_over#51.6
+year,Value_in_trillion_Indian_rupees
+FY_2020,3.27
+FY_2019,3.11
+FY_2018,3.24

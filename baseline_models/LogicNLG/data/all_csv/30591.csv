@@ -1,6 +1,10 @@
-Response#Share_of_respondents
-Very_important#32
-Somewhat_important#40
-Not_too_important#17
-Not_at_all_important#10
-No_answer#1
+religious_affiliation,Number_of_residents
+Christian,115620
+No_religious_affiliation,19815
+Muslim,655
+Buddhist,560
+Other_religions,350
+Hindu,205
+Jewish,100
+Traditional_(Aboriginal)_Spirituality,55
+Sikh,10

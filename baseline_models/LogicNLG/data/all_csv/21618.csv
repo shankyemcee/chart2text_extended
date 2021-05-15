@@ -1,12 +1,4 @@
-Year#Birth_rate_per_thousand_population
-2018#18.78
-2017#19.01
-2016#19.1
-2015#19.07
-2014#18.93
-2013#18.74
-2012#18.53
-2011#18.34
-2010#18.15
-2009#17.99
-2008#17.82
+Response,Not_important,Slightly_important,Important,Crucial
+2020,3,0,13,84
+2015,3,0,43,54
+2013,3,30,54,13

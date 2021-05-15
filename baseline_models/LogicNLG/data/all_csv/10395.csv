@@ -1,6 +1,4 @@
-Year#Number_of_golf_courses
-2018#560
-2017#560
-2016#578
-2015#597
-2014#597
+Year,Emissions_in_metric_tons_per_person
+2018,3.79
+2017,3.93
+2015,3.87

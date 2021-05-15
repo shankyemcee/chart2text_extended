@@ -1,12 +1,4 @@
-Country#Forecasted_cut#Target_cut
-Saudi_Arabia#-2.8#-2.5
-Russia#-2.5#-2.5
-Iran#-1.4#0.0
-Rest_of_OPEC+_(quota_countries)#-1.1#-1.8
-Libya#-1.0#0.0
-Venezuela#-0.8#0.0
-United_Arab_Emirates#-0.7#-0.7
-Iraq#-0.6#-1.1
-Kuwait#-0.6#-0.6
-Kazakhstan#-0.3#-0.4
-Total_OPEC+#-11.7#-9.7
+Time_frame,Share_of_respondents
+Past_month,38.4
+Past_year,60.9
+Lifetime,85

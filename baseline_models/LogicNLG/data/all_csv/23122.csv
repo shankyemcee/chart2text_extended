@@ -1,5 +1,7 @@
-nation_within_the_UK#GDP_(in_billion_GBP)
-England#1839.26
-Scotland#161.29
-Wales#74.91
-Northern_Ireland#48.89
+age_group,2000,2010
+Total,35.5,32.8
+85_years_and_older,475.9,430.7
+75-84_years,260.2,214.6
+65-74_years,130.3,85.7
+65_years_and_over,218.6,177.7
+Under_age_65,9.4,10.8

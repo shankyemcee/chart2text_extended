@@ -1,6 +1,5 @@
-Year#Number_of_fatalities_in_thousands
-2018#10.71
-2017#10.18
-2016#6.65
-2015#9.31
-2014#8.57
+Year,Machines_in_commercial_casinos,Machines_in_tribal_casinos,Machines_in_non-casino_locations
+2012,446,328,78
+2011,419,335,83
+2010,432,338,85
+2009,428,321,84

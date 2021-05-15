@@ -1,12 +1,5 @@
-Year#Birth_rate_per_thousand_population
-2018#28.75
-2017#29.3
-2016#29.94
-2015#30.69
-2014#31.52
-2013#32.42
-2012#33.33
-2011#34.25
-2010#35.13
-2009#35.94
-2008#36.68
+Response,Share_of_respondents
+Yes_a_maximum_of_live_matches,16
+Yes_but_only_French_matches,13
+Yes_but_only_the_last_matches,20
+Not_at_all,51

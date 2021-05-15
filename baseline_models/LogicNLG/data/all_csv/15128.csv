@@ -1,6 +1,11 @@
-Educational_Attainment#Number_of_births_per_1,000_women
-Less_than_high_school_graduate#34
-High_school_graduate_(includes_equivalency)#56
-Some_college_or_associate's_degree#50
-Bachelor's_degree#53
-Graduate_or_professional_degree#61
+metric,Number_of_cases_and_tests
+Total_tests_conducted,91852003
+Total_under_medical_observation,6278587
+Currently_under_medical_observation,652663
+Confirmed_COVID-19_cases,3260138
+New_COVID-19_cases_over_the_past_day,23351
+Recoveries,2640036
+Recoveries_over_the_past_day,21154
+Active_COVID-19_cases,561114
+Deaths_due_to_COVID-19,58988
+Deaths_due_to_COVID-19_over_the_past_day,482

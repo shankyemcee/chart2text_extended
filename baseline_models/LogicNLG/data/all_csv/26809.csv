@@ -1,11 +1,5 @@
-Specialty_area#Number_of_physicians
-Psychiatry#2043
-Surgery#2066
-Anesthesiologists#2097
-Emergency_medicine#2739
-Radiology#2043
-Cardiology#1446
-Oncology_(cancer)#894
-Endocrinology_diabetes_&_metabolism#402
-All_other_specialities#8052
-Total_specialty#21782
+Quarter,Sales_value_in_million_SEK
+Q4_2019,2.35
+Q3_2019,2.24
+Q2_2019,1.94
+Q1_2019,1.87

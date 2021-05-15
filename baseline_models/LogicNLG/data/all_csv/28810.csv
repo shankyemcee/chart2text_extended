@@ -1,4 +1,3 @@
-opinion#Men#Women
-Agree#26#30
-Disagree#68#63
-Don't_know#6#7
+type_of_employees_of_monsanto,2013,2014,2015,2016,2017
+Regular_workers,21900,22400,22500,20800,20500
+Temporary_workers,4300,4600,3000,3300,2800

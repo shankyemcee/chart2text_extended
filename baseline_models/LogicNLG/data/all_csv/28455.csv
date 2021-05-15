@@ -1,3 +1,6 @@
-Response#Today#Within_the_previous_week#Within_the_previous_month#Within_the_previous_year#More_than_a_year_ago#I_have_never_used_this_application
-Male#29#20#11#7#4#29
-Female#42#23#11#6#2#16
+Year,Tomatoes,Tomato_puree
+1.5-3_years,17,5
+4-10_years,20,6
+11-18_years,26,8
+19-64_years,44,6
+65_years_and_over,43,4

@@ -1,8 +1,7 @@
-type_of_bicycle#Average_unit_price_in_euros
-Child_bike#113
-Hybrid_bike#330
-Folding_bike#333
-City_bike#339
-Mountain_bike#396
-Race#1404
-Electric_bicycle#1564
+"City,_quality_level_(date)",Price_in_U.S._dollars_per_ounce
+Fort_Collins_medium_quality_(July_19),130
+Boulder_high_quality_(September_3),188
+Loveland_high_quality_(September_14),100
+Colorado_Springs_medium_quality_(September_16),123
+Denver_high_quality_(September_25),100
+Aurora_high_quality_(October_15),400

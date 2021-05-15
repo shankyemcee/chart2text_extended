@@ -1,9 +1,8 @@
-Year#Number_of_orders_in_billions
-2020#2.32
-2019#1.88
-2018#1.04
-2017#0.81
-2016#0.66
-2015#0.47
-2014#0.28
-2013#0.25
+autonomous_police,Number_of_accumulated_arrests
+Local_police,384922
+Civil_Guard,298894
+National_Police,274081
+Mossos_d'Esquadra,70492
+Ertzaintza,12634
+Foral_Police,2878
+Canary_Island_Police,816

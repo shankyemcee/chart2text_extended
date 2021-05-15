@@ -1,1 +1,0 @@
-Train lines with the highest congestion rates in the Tokyo Metropolitan Area, Japan in fiscal year 2019

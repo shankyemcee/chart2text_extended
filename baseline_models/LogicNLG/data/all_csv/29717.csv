@@ -1,9 +1,5 @@
-Year#Number_of_stores
-2020#445
-2019#433
-2018#422
-2017#403
-2016#389
-2015#375
-2014#361
-2013#345
+Impact,Conferences_by_status
+Cancelled,10
+Moved_online,23
+Postponed,22
+Going_ahead,10

@@ -1,3 +1,6 @@
-Year#North_America#Europe#Asia,_Oceania_and_Africa#Latin_America
-2019#9154#4236#2892#1108
-2018#8433#4038#2694#1028
+Type_of_Fuel,Consumption_in_exajoules
+Oil,0.51
+Natural_gas,0.3
+Hydroelectricity,0.28
+Renewable_energies,0.05
+Coal,0.02

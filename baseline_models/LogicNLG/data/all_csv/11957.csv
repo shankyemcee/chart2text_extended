@@ -1,11 +1,5 @@
-Country#2015#2016#2017#2018#2019
-China#7500#7400#13500#14000#14000
-Laos#0#0#2000#3010#3000
-Japan#0#0#525#571#540
-Mexico#700#700#513#333#400
-Kazakhstan#0#0#270#290#270
-Bulgaria#0#0#50#50#50
-Canada#3#3#25#25#25
-Russia#40#40#4#0#0
-Vietnam#5000#2000#0#0#0
-Bolivia#10#10#0#0#0
+Response,Share_of_business_meeting_venues
+Large_hotels_with_meeting_facilities,27.7
+Unusual_unique_or_special-event_venue_without_bedrooms,19.8
+Purpose-built_convention/_exhibition_centre_without_bedrooms,14.2
+Other,38.3

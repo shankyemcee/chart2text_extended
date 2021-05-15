@@ -1,7 +1,10 @@
-Response#Very_concerned#Somewhat_concerned#Slightly_concerned#Not_at_all_concerned
-High_prices#44#33#17#5
-Hacking/cybersecurity#48#26#18#8
-Reliability#38#32#20#11
-Compatibility#30#38#21#12
-Technology_becoming_outdated#24#37#26#13
-Difficulty_managing#20#34#26#20
+Year,Agriculture,Industry,Services
+2019,0.18,57.68,46.47
+2018,0.18,61.06,42.67
+2017,0.18,56.95,47.1
+2016,0.19,53.21,50.78
+2015,0.18,57.44,46.07
+2014,0.16,69.76,32.85
+2013,0.12,71.77,30.32
+2012,0.1,73.47,26.44
+2011,0.09,73.21,26.69

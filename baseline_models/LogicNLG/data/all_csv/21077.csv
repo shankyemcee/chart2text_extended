@@ -1,11 +1,4 @@
-Year#Number_of_enterprises
-2017#542
-2016#521
-2015#501
-2014#491
-2013#500
-2012#529
-2011#544
-2010#576
-2009#595
-2008#666
+political_ideology,Hillary_Clinton,Donald_Trump
+Liberal,84,10
+Moderate,52,41
+Conservative,15,81

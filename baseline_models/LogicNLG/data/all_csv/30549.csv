@@ -1,8 +1,8 @@
-segment#Market_share
-Coatings#54.9
-Plastics#22.4
-Inks#12.9
-Cosmetics#4.5
-Textiles#3.4
-Electronics#1.1
-Non-impact_printing#0.9
+Response,Share_of_respondents
+16-24,0
+25-34,0
+35-44,1
+45-54,4
+55-64,6
+65-74,8
+75+,8

@@ -1,7 +1,4 @@
-geographic_region#Sales_in_million_units
-Asia_Pacific#32.8
-Western_Europe#1.6
-North_America#0.15
-Latin_America#0.09
-Middle_East_and_Africa#0.07
-Eastern_Europe#0.04
+Region_of_China,Fatality_rate
+Hubei_province,2.9
+Nationwide,2.3
+Other_regions_excluding_Hubei,0.4

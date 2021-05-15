@@ -1,1 +1,0 @@
-Price of a ham-butter sandwich in selected cities in France in 2017 (in euros)

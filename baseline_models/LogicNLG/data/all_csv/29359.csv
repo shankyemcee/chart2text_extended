@@ -1,10 +1,5 @@
-Year#Number_of_users_in_millions
-2025#5.09
-2024#5.04
-2023#4.99
-2022#4.94
-2021#4.88
-2020#4.82
-2019#4.74
-2018#4.66
-2017#4.57
+specialty_channel,4G_availability
+MTN,89.5
+Cell_C,81
+Vodacom,83.6
+Telkom,88.6

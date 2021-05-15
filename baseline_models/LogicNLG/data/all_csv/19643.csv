@@ -1,5 +1,5 @@
-Response#Share_of_respondents
-More#45
-About_the_same#45
-Less#10
-Will_likely_not_make_any_BTS_purchases#1
+type_of_business_line,Low_estimate,High_estimate
+1st_tier_supplier,7,17
+Assembly/_packaging,2,12
+Market_buffer,0,30
+Total_inventory_days_(including_2nd_tier_supplier),40,70

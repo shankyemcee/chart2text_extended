@@ -1,7 +1,4 @@
-Country#Revenue_in_billion_euros
-France#22.74
-Rest_of_Europe#18.76
-Latin_America#5.34
-United_States_&_Canada#4.58
-Asia_Middle_East_and_Africa#2.91
-Others#14.56
+Response,Share_of_U.S._adults
+High_school_grad_or_less,64
+Some_college,74
+College_grad,79

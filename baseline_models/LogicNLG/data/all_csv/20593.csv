@@ -1,10 +1,5 @@
-Year#Number_of_offences
-2018#5795
-2017#6103
-2016#6700
-2010#11150
-2000#26391
-1990#18233
-1980#7808
-1970#7507
-1960#2018
+Type_of_social_media,2012,2013,2014,2015,2016,2018
+Wiki_based_knowledge_sharing_tools,6.4,4.4,4.1,4.3,4.7,3.3
+Multimedia_content_sharing_websites,15.1,16,16.3,18.5,18.7,25.3
+Business_blogs_or_microblogs,23,29.1,33.4,37.2,41.9,32.4
+Social_networks,41.2,42.2,51.2,56.5,60.3,68.4

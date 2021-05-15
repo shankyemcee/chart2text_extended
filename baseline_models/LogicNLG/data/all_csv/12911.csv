@@ -1,7 +1,5 @@
-Year#Net_revenue_in_million_SEK
-2011/12#375.7
-2010/11#408.4
-2009/10#367.3
-2008/09#296.7
-2007/08#214.4
-2006/07#167.0
+Case_status,Number_of_cases
+Confirmed,2987
+Being_treated,193
+Recovered,2740
+Death,54

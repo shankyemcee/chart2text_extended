@@ -1,7 +1,6 @@
-Country#Increase_in_average_basket_size
-Europe#2.7
-Nordics#-0.2
-United_Kingdom#17.1
-France#0.3
-Germany#2.4
-Spain#5.1
+Discipline,Number_of_students_in_thousands
+Mechanical_Engineering,782.78
+Computer_Science_Engineering,880.35
+Electronics_Engineering,631.37
+Civil_Engineering,536.54
+Electrical_Engineering,394.15

@@ -1,6 +1,11 @@
-Response#Share_of_respondents
-25_to_34_years#56
-35_to_44_years#48
-45_to_54_years#57
-55_to_64_years#40
-65_years_or_more#29
+Specialty_area,Number_of_physicians
+Psychiatry,597
+Surgery,802
+Anesthesiologists,635
+Emergency_medicine,706
+Radiology,551
+Cardiology,375
+Oncology_(cancer),207
+Endocrinology_diabetes_&_metabolism,70
+All_other_specialities,2579
+Total_specialty,6522

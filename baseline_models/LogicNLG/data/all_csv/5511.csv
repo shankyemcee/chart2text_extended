@@ -1,10 +1,6 @@
-Luxury_car_brand#Sales_in_thousands
-BMW_(BMW)#324.83
-Mercedes-Benz_(Daimler)#316.09
-Lexus_(Toyota)#298.11
-Audi_(VW)#224.11
-Tesla_(Tesla_Inc.)#223.2
-Acura_(Honda)#157.39
-Cadillac_(GM)#156.25
-Infiniti_(Nissan)#117.71
-Lincoln_(Ford)#112.2
+tournament_system,Bonus_per_footballer_in_euros
+Quarter_finals,75000
+Semi_finals,125000
+Third_place,150000
+Finals,200000
+Win,350000

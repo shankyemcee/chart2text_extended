@@ -1,8 +1,4 @@
-Year#Production_volume_in_thousand_metric_tons
-FY_2019#61.89
-FY_2018#65.74
-FY_2017#60.46
-FY_2016#58.96
-FY_2015#67.77
-FY_2014#79.66
-FY_2013#76.27
+destination,Food_waste_share
+Disposed,57.6
+Recycled,29.2
+Donated,13.2

@@ -1,9 +1,6 @@
-Year#GBP_per_barrel
-2024/25#41.9
-2023/24#41.3
-2022/23#40.6
-2021/22#40.6
-2020/21#42.1
-2019/20_#50.1
-2018/19#53.4
-2017/18#42.4
+payer,2017,2018,2028
+Private_health_insurance,33.7,34.1,32
+Medicare,20.2,20.6,25.2
+Medicaid,16.6,16.4,16.4
+Out-of-pocket,10.5,10.3,9.1
+Other_public_health_insurance,3.8,3.8,3.8

@@ -1,8 +1,5 @@
-autonomous_police#Number_of_accumulated_arrests
-Local_police#384922
-Civil_Guard#298894
-National_Police#274081
-Mossos_d'Esquadra#70492
-Ertzaintza#12634
-Foral_Police#2878
-Canary_Island_Police#816
+Country,Western_Europe,USA
+Brazil,52,29
+China,38,13
+India,27,11
+Brazil/China/India_total,37,16

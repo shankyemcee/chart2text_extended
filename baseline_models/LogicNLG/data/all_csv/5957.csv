@@ -1,9 +1,4 @@
-Response#Percentage_of_population
-Italy#80
-United_Kingdom#75
-Germany#73
-Japan#72
-Australia#71
-Spain#71
-France#69
-United_States#68
+Response,Percentage_of_teens
+Mostly_positive_effect,31
+Neither_nor_negative_effect,45
+Mostly_negative_effect,24

@@ -1,7 +1,9 @@
-company_size#Annual_salary_in_thousand_Canadian_dollars
-Micro_(less_than_4_employees)#45.4
-Small_(5-25_employees)#70.4
-Medium_(26-59_employees)#68.5
-Large_(60-99_employees)#74.9
-Very_large_(more_than_100_employees)#76.5
-Overall#75.9
+Year,Number_of_victims
+2017,30
+2016,22
+2015,31
+2014,25
+2013,24
+2012,22
+2011,27
+2010,31

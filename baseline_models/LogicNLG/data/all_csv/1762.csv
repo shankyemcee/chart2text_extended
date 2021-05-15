@@ -1,4 +1,6 @@
-type_of_automobile_based_on_ownership#Number_of_registered_automobiles
-Publicly_owned#85449
-Private_and_commercial_(including_taxicabs)#1754908
-Total#1840357
+segment,Revenue_in_billion_U.S._dollars
+Infrastructure_providers,90
+Mobile_operators,640
+Device_manufacturers,140
+Distributors_and_retailers,70
+Content_apps_and_service_providers,160

@@ -1,11 +1,5 @@
-Response#Percentage_of_respondents
-Toyota#16.8
-Honda#14.9
-Lexus#7.9
-BMW#7.1
-Mercedes-Benz#5.3
-Ford#5.2
-Nissan#4.3
-Chevrolet#4.1
-Subaru#3.6
-Audi#3.1
+Response,Share_of_respondents
+Yes_some,8
+Yes_one,7
+Not_yet,42
+No_and_I_don't_want_any,42

@@ -1,7 +1,10 @@
-continent#Market_volume_share
-Europe-EU_28#40
-Oceania#31
-North_America#10
-Europe-other#9
-America-Central_South_and_the_Caribbean#3
-Asia#7
+Response,Share_of_respondents
+Less_than_6_months,2
+6_months_-_1_year,6
+1-2_years,9
+2-3_years,12
+3-4_years,16
+4-5_years,12
+5-10_years,19
+10-15_years,12
+More_than_15_years,12

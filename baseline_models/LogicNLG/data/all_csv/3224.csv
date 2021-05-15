@@ -1,4 +1,9 @@
-Response#Share_of_respondents
-Coronavirus_has_already_impacted_on_my_personal_income#45
-Coronavirus_has_not_yet_impacted_on_my_personal_income_but_I_expect_it_to_in_the_future#35
-Coronavirus_will_have_no_impact_on_my_income#20
+Year,Share_respondents
+Less_than_1_hour,4
+1-3_hours,11
+3-5_hours,14
+5-7_hours,17
+7-10_hours,16
+10-13_hours,12
+13-16_hours,10
+More_than_16_hours,14

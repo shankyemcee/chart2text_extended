@@ -1,12 +1,4 @@
-Year#Number_of_applications
-2019#21958
-2018#21502
-2017#25666
-2016#28939
-2015#162877
-2014#81301
-2013#54259
-2012#43887
-2011#29648
-2010#31819
-2009#24194
+Year,McDonald's,KFC,Burger_King,Taco_Bell,Dominos_Pizza,Wendy's,Papa_John's,Little_Caesars,Starbucks,Pizza_Hut,Dunkin'_donuts,Chick-fil-A,Chipotle_Mexican_Grill,Panera_Bread,Subway,Arby's,Jack_in_the_Box,All_limited-service_restaurants
+2018,69,77,76,74,79,77,80,77,78,80,78,87,79,81,80,79,74,80
+2019,69,78,76,75,79,77,80,77,79,80,78,86,80,81,79,80,75,79
+2020,70,79,76,74,79,76,78,76,78,77,79,84,80,79,79,79,73,78

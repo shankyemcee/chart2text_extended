@@ -1,11 +1,6 @@
-Year#Annual_turnover_in_million_euros
-2017#45911.4
-2016#47466.7
-2015#45878.0
-2014#43589.7
-2013#42631.7
-2012#43031.1
-2011#41013.4
-2010#42589.9
-2009#39680.3
-2008#39713.1
+automobile_model_series,Number_of_units_sold
+Mercedes-Benz_S-Class,2650
+BMW_7_Series,1826
+Audi_A8,1118
+Jaguar_XJ,744
+Bentley_Continental,706

@@ -1,12 +1,3 @@
-Year#Share_in_global_GDP_adjusted_for_PPP
-2025#0.67
-2024#0.68
-2023#0.69
-2022#0.7
-2021#0.71
-2020#0.71
-2019#0.77
-2018#0.81
-2017#0.86
-2016#0.77
-2015#0.78
+week,Loyalty_app,Grocery_delivery,Food_delivery,Misc_service,Recipes
+Week_of_Jan._13_2020,36,33,15,11,5
+Week_of_Feb._3_2020,0,52,27,5,16

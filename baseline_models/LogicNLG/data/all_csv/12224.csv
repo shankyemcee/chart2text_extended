@@ -1,9 +1,4 @@
-Year#Per_capita_consumption_in_liters
-2019#10.0
-2018#11.0
-2017#10.5
-2016#10.7
-2015#10.9
-2014#11.2
-2013#11.3
-2012#10.9
+distribution_channel,Sales_share
+Wholesale,45
+Franchising,11
+Directly_Operated_Store_(DOS),45

@@ -1,5 +1,7 @@
-Year#Daily_per_capita_consumption_in_milliliters
-0-8#236
-9-18#430
-19-30#371
-31_and_older#169
+Age_in_years,Number_of_single_mothers
+0_to_24_years,49250
+25_to_34_years,222330
+35_to_44_years,347570
+45_to_54_years,284840
+55_to_64_years,128690
+65_years_and_over,144700

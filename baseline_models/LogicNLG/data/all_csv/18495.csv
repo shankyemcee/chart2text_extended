@@ -1,6 +1,8 @@
-Year#Number_of_fatalities_in_thousands
-2018#4.74
-2017#4.46
-2016#5.08
-2015#4.89
-2014#4.62
+Year,Average_age
+Younger_than_20_years,1199
+20_to_25_years,10592
+25_to_30_years,29501
+30_to_35_years,27677
+35_to_40_years,9630
+40_to_45_years,2004
+45_years_or_older,141

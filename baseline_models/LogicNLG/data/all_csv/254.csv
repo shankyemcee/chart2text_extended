@@ -1,10 +1,5 @@
-energy_source#2017#2018#2019
-Petroleum#36.05#36.88#36.72
-Natural_gas#28.05#31.08#32.09
-Coal#13.84#13.25#11.31
-Nuclear_electric_power#8.42#8.44#8.46
-Biomass#4.98#5.03#4.99
-Wind#2.34#2.48#2.73
-Hydroelectric_conventional#2.77#2.66#2.49
-Solar#0.78#0.92#1.04
-Geothermal#0.21#0.21#0.21
+Theater_type,Price_in_Indian_rupees
+High-end_multiplex,239
+Multiplex,127
+Single_screen,95
+Low-end_single_screen,56

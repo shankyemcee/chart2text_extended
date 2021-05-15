@@ -1,6 +1,6 @@
-lobbyists#Total_amount_received_in_U.S._dollars
-Hillary_Clinton#784278
-Marco_Rubio#252444
-John_Kasich#52500
-Ted_Cruz#8506
-Ben_Carson#3225
+Response,Minimum,Maximum
+Novel_coronavirus_(SARS-CoV-2),0,24
+SARS,2,10
+MERS,2,14
+Swine_flu,1,7
+Seasonal_flu,1,4

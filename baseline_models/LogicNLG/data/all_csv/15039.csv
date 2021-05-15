@@ -1,8 +1,6 @@
-Year#Annual_turnover_in_million_euros
-2016#289337.9
-2015#326213.0
-2014#268299.1
-2013#234360.5
-2012#233296.2
-2011#217231.1
-2010#212926.6
+age_group,Sugar_intake_in_grams
+Children_1.5-3_years,36.1
+Children_4-10_years,60.8
+Teenagers_11-18_years,74.2
+Adults_19-64_years,58.8
+Adults_65_years_and_over,51.6

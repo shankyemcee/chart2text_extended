@@ -1,10 +1,7 @@
-Year#Number_of_players
-2019#1330
-2018#1330
-2017#1405
-2016#1255
-2015#1277
-2014#1277
-2013#1277
-2012#1193
-2011#1205
+Response,Extremely_influential,Very_influential,Somewhat_influential,A_little_influential,Not_at_all_influential
+UGC,24,29,27,10,10
+Search_engines,16,30,28,14,13
+Promotional_e-mails,12,15,30,21,21
+Display_ads,10,18,27,21,24
+Social_media,10,16,19,18,37
+Mobile_message,6,13,18,15,49

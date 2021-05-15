@@ -1,9 +1,4 @@
-Year#Index_score_on_a_scale_from_0_to_100
-2019#67
-2018#67
-2017#67
-2016#66
-2015#70
-2014#73
-2013#71
-2012#72
+Response,Very_likely,Somewhat_likely,Somewhat_unlikely,Very_unlikely,Don't_know/no_opinion
+Family,5,8,24,44,19
+Local_community,6,18,28,29,19
+State,18,29,19,16,18

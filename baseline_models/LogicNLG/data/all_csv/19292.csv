@@ -1,4 +1,7 @@
-Vehicle_type#Number_of_vehicles_produced_in_thousands
-Light_trucks#12237.9
-Autos#4715.0
-Light_total#16952.9
+Year,Male,Female
+2018,24314,953
+2017,24926,996
+2016,29660,1184
+2015,25655,1013
+2014,21078,699
+2013,20219,668

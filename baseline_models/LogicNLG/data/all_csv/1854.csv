@@ -1,8 +1,4 @@
-Response#Percentage_of_homes
-2009#81
-2008#80.5
-2007#81.8
-2006#80.8
-2005#80.4
-2004#79.5
-1998#78.9
+Month,Occupancy_rate
+June_2020,26.9
+May_2020,18.5
+April_2020,12.5

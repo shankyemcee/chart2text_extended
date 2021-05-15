@@ -1,5 +1,12 @@
-Year#North_America#Asia_Pacific#Middle_East#Africa#Europe
-2019#146.4#360.7#61.4#73.1#745.2
-2018#142.2#347.7#60.1#68.7#716.4
-2017#137.4#324.1#57.6#63.3#677.0
-2010#99.5#208.2#56.1#50.4#490.6
+airline,Number_of_aircraft_orders
+Emirates,30
+Korean_Air,20
+Lufthansa,20
+British_Airways,18
+BDS_USAF_Tanker_Program,15
+Bamboo_Airways,10
+BDS_U.S._Navy_(P-8A_Poseidon),10
+SunExpress_Airlines,10
+Air_New_Zealand,8
+FedEx_Express,7
+Unidentified,49

@@ -1,7 +1,5 @@
-Year#Sales_in_million_U.S._dollars
-2018#3742.8
-2017#3853.7
-2016#3918.1
-2015#3450.6
-2014#2552.1
-2013#3988.7
+Pet_Food_Type,CAGR
+Cat_food,9.1
+Dog_food,16
+Other_pet_food,16.4
+Total_pet_food,15.8

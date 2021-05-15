@@ -1,11 +1,4 @@
-product_type#Gross_value_added_in_billion_GBP
-Beverages#7.1
-Other_food_products#6.3
-Meat_and_meat_products#4.1
-Bakery#3.9
-Fruit_and_vegetables#2.2
-Dairy_products#1.6
-Prepared_animal_feeds#1.6
-Grain_and_starch_products#1.3
-Fish_and_crustaceans#0.5
-Oils_and_fats#0.2
+Year,GDP_contribution_in_billion_U.S._dollars
+2026,1.4
+2016,0.8
+2006,0.7

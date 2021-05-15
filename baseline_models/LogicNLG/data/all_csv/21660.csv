@@ -1,7 +1,5 @@
-Year#Sales_value_in_billion_U.S._dollars
-Q1_2018#41.1
-2017#152.3
-2016#133.1
-2015#116.2
-2014#99.0
-2013#90.1
+Material,Steel,Bimetallic,Precious_metals,Other_materials,Other_metals
+2016,13662,1165,391,7315,2864
+2017,13507,1118,386,6629,2666
+2018,14092,1288,414,5620,2326
+2019,12373,1309,433,4610,1921

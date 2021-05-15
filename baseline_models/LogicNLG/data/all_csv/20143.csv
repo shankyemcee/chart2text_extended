@@ -1,8 +1,4 @@
-Nissan_cars_models#Number_of_vehicles_sold
-Redi-GO#11284
-KICKS#4776
-GO#2801
-GO+#2585
-Micra#1027
-Sunny#678
-Terrano#429
+Country,2008,2015,2022
+Mexico,1.7,3.5,7.5
+Canada,3.6,7.9,18.8
+U.S.,60.7,175.0,535.6

@@ -1,11 +1,6 @@
-film_distributor#Number_of_first_run_TV_series_in_production
-Netflix#254
-BBC#208
-Disney#193
-WarnerMedia#179
-Viacom_CBS#162
-NBCUniversal#108
-Amazon#106
-Quibi#95
-Discovery#69
-Fox_Corporation#18
+Vehicle_type,Motorcycles,Cars,Cars_towing,Light_Goods,Buses/coaches,Rigid_heavy_goods_vehicles,Articulated_heavy_goods_vehicles
+30_mph_built-up_roads,30,30,29,30,27,29,29
+40_mph_built-up_roads,36,35,33,35,33,34,35
+Motorways,68,68,57,68,58,60,54
+Dual_carriageways,67,67,56,57,56,59,53
+Single_carriageways,51,47,43,48,46,46,44

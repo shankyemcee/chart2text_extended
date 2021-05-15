@@ -1,5 +1,4 @@
-Month#Number_of_users_in_millions
-August_16#30
-July_19#45
-July_14#25
-July_12#21
+age_group,Murder,Rape_and_sexual_assault,Aggravated_assault
+Young_adults_(18_to_21_years),113,1083,17718
+Adolescents_(14_to_18_years),40,858,18434
+Children_under_14,1,88,7459

@@ -1,4 +1,11 @@
-disorder#Market_value_in_billion_U.S._dollars
-Asthma#20.9
-COPD#16.7
-Other#32.0
+Specialty_area,Number_of_physicians
+Psychiatry,55593
+Surgery,53673
+Anesthesiologists,50837
+Emergency_medicine,57834
+Radiology,48464
+Cardiology,33055
+Oncology_(cancer),20886
+Endocrinology_diabetes_&_metabolism,8237
+All_other_specialities,207022
+Total_specialty,535601

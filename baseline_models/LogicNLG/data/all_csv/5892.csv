@@ -1,9 +1,6 @@
-Response#Share_of_respondents
-Invoice#79
-PayPal#62
-Direct_Debit#48
-Credit_Card#35
-SOFORT#20
-Cash_upon_collection#16
-Advance_payment#12
-Cash_on_delivery#9
+Response,Share_of_respondents
+Total,61
+Hispanic,67
+White,60
+African_American,68
+Asian,49

@@ -1,8 +1,5 @@
-Year#Number_of_enterprises
-2016#323
-2015#310
-2014#339
-2013#370
-2012#367
-2011#428
-2010#374
+Quarter,Hotels,Holiday_and_other_short_stay_accommodation,Campsites
+Q2_2017,1.8,3.6,3.8
+Q2_2016,1.8,3.6,3.7
+Q2_2015,1.8,3.5,3.7
+Q2_2014,1.8,3.8,3.7

@@ -1,7 +1,5 @@
-Country#Distribution_of_exports
-Canada#23
-India#11
-Vietnam#7
-China#10
-Denmark#7
-Other#42
+Distributor_Type,Number_of_players
+Wholesale_distributors,7
+Manufacturing_laboratories,270
+Public_and_private_hospitals,3089
+Pharmacies,21152

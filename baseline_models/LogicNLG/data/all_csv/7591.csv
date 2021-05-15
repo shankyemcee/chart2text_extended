@@ -1,8 +1,9 @@
-Year#Number_of_outbound_trips_in_thousands
-2018#13098.41
-2017#12140.62
-2016#13102.13
-2015#10711.05
-2014#10777.7
-2013#10676.46
-2012#9575.84
+Country,Import_value_in_TIV_in_millions
+United_States,918
+Spain,499
+Switzerland,74
+Germany,27
+France,20
+Italy,16
+United_Kingdom,10
+Canada,9

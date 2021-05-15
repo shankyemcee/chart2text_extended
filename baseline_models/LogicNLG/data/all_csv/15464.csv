@@ -1,7 +1,5 @@
-Quarter#Unemployment_rate
-Q2_2020#8.3
-Q1_2020#9.2
-Q4_2019#9.5
-Q3_2019#9.6
-Q2_2019#10
-Q1_2019#10.4
+type,Active_users_in_millions
+Active_internet_users,288.1
+Active_mobile_internet_users,246.3
+Active_social_media_users,230.0
+Active_mobile_social_media_users,225.4

@@ -1,7 +1,5 @@
-Response#Share_of_respondents
-$4_or_less_per_month#25
-$5_per_month#20
-$10_per_month#22
-$15_per_month#5
-$20_or_more_per_month#2
-None#28
+Response,Worried_about_personal_health,Worried_about_health_of_people_you_live_with
+Very_worried,28,37
+Somewhat_worried,49,38
+Not_very_worried,19,9
+Not_worried_at_all,4,3

@@ -1,13 +1,4 @@
-Year#Revenue_in_million_U.S._dollars
-2019#18450
-2018#18486
-2017#18348
-2016#18287
-2015#18682
-2014#19817
-2013#19561
-2012#19467
-2011#19268
-2010#19746
-2009#19115
-2008#19415
+Response,Very_likely,Somewhat_likely,Not_very_likely,Not_at_all_likely
+If_your_personal_data_is_to_be_used_by_your_provider_only,31,40,17,12
+If_the_provider_complies_with_all_the_data_protection_laws_in_your_country,28,39,20,13
+If_your_personal_data_is_shared_by_your_provider_with_a_third_party,8,22,31,39

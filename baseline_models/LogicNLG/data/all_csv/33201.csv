@@ -1,7 +1,7 @@
-City#Number_of_attendees_in_millions
-São_Paulo#15.0
-Rio_de_Janeiro#7.0
-Belo_Horizonte#5.0
-Olinda#3.7
-Salvador#3.0
-Recife#1.6
+Race,Remain,Leave
+White,47,53
+Mixed,67,33
+Asian,67,33
+Black,73,27
+Chinese,70,30
+Other,65,35

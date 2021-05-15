@@ -1,5 +1,7 @@
-type_of_business_line#Low_estimate#High_estimate
-1st_tier_supplier#7#17
-Assembly/_packaging#2#12
-Market_buffer#0#30
-Total_inventory_days_(including_2nd_tier_supplier)#40#70
+type,Year-on-year_spending_growth
+Year-over-year_growth_forecast_January_2020,5.1
+Year-over-year_growth_forecast_February_2020,4.3
+Probable_scenario_(released_end_of_March_2020),3.7
+Pessimistic_scenario_(released_end_of_March_2020),1.3
+Year-over-year_growth_forecast_March_2020_(released_April_2_2020),-2.7
+Year-over-year_growth_forecast_April_2020_(released_May_4_2020),-5.1

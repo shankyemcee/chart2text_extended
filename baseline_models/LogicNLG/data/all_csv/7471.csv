@@ -1,5 +1,12 @@
-Status#Number_of_cases
-Confirmed_cases#17642
-Active_cases#6011
-Recovered_cases#11223
-Deaths#408
+Country,Market_share
+Luxembourg,27
+Ireland,16
+Germany,13
+France,12
+United_Kingdom,10
+Netherlands,5
+Switzerland,4
+Italy,2
+Sweden,2
+Spain,2
+Rest_of_Europe,7

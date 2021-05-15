@@ -1,4 +1,9 @@
-Response#Share_of_R&D_expenditures
-Adhesive_Technologies#57
-Laundry_&_home_care#25
-Beauty_care#18
+platform,Median_cost_in_U.S._dollars_per_hour
+iOS,50
+Android,50
+UI/UX,50
+Clientside_JS,60
+Serverside_JS,60
+Bot_development,50
+NLP_tech,60
+Machine_learning,60

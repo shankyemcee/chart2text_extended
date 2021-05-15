@@ -1,6 +1,5 @@
-Response#Share_of_sales
-Wine#34.02
-Beer#32.94
-Spirits#25.05
-Refreshments#7.42
-Other#0.07
+Response,Share_of_respondents
+Optimistic,43
+Hopeful,49
+Cautious,6
+Pessimistic,2

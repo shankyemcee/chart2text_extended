@@ -1,2 +1,3 @@
-trainOriginal 5089 was missing. replaced with file 22673.txt from captions.
-14005- changed second column A to AA
+traindata.txt:
+
+22044- changed second column A to AA

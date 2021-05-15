@@ -1,8 +1,4 @@
-Country#Number_of_incidents
-Nigeria#35
-Indonesia#25
-Singapore_Straits#12
-Malaysia#11
-Peru#10
-Venezuela#6
-Cameroon#6
+Response,Very_favorable,Somewhat_favorable,Somewhat_unfavorable,Very_unfavorable,"Heard_of,_no_opinion",Never_heard_of
+Male,13,22,19,22,17,8
+Female,9,18,16,23,20,14
+Total,11,20,17,23,18,11

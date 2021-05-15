@@ -1,4 +1,5 @@
-Response#Share_of_respondents
-Daily#62
-Weekly#92
-Monthly#98
+Response,Share_of_respondents
+Extremely_doubtful,2
+Doubtful,15
+Confident,66
+Extremely_confident,17

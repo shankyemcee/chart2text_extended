@@ -1,8 +1,6 @@
-Age_group/Gender#Share_of_users
-Male#7.5
-Female#10
-55+#2.5
-45-54#4.7
-35-44#8
-25-34#9.3
-18-24#26
+Year,Cumulative_time_spent_in_billion_hours
+2016_-_Rio,30.0
+2012_-_London,27.9
+2008_-_Beijing,37.3
+2004_-_Athens,34.4
+2000_-_Sydney,36.1

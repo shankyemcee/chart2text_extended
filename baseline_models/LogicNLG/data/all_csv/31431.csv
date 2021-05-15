@@ -1,11 +1,6 @@
-Country#Number_of_workers
-Kenya#265800
-Tanzania#157400
-India#137600
-Ethiopia#121900
-Ghana#95400
-Peru#56700
-Uganda#48000
-Colombia#47400
-Mexico#35300
-Ivory_Coast#35000
+Country,Number_of_persons
+Africa,16366
+East_Asia,5030
+Europe,4994
+Near_East/South_Asia,2801
+Latin_America_&_the_Caribbean,809

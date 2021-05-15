@@ -1,10 +1,6 @@
-Year#Revenue_in_million_U.S._dollars
-2015#23616
-2014#23628
-2013#23886
-2012#23695
-2011#23348
-2010#23081
-2009#22992
-2008#23767
-2007#23813
+Response,Very_concerned,Somewhat_concerned,Not_very_concerned,Not_at_all_concerned,Don't_know/no_opinion
+18_to_29_years,16,22,23,22,16
+30_to_44_years,21,20,28,21,9
+45_to_54_years,16,24,26,26,9
+55_to_64_years,19,30,27,17,8
+65_years_and_older,21,26,27,18,8

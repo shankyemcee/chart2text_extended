@@ -1,11 +1,5 @@
-Year#Number_of_passengers_arriving_in_millions
-2019#34.1
-2018#32.67
-2017#30.96
-2016#29.2
-2015#27.49
-2014#26.67
-2013#26.5
-2012#25.06
-2011#22.78
-2010#20.49
+marital_status,Number_of_inhabitants
+Unmarried,5463486
+Married,3387013
+Divorced,998414
+Widowed,429974

@@ -1,11 +1,6 @@
-Year#Gate_receipts_in_million_U.S._dollars
-2019#96
-2018#108
-2017#108
-2016#103
-2015#98
-2014#94
-2013#90
-2012#89
-2011#89
-2010#95
+airline,Brand_index
+Southwest,31.0
+Delta,19.6
+American_Airlines,16.7
+JetBlue,12.0
+British_Airways,11.5

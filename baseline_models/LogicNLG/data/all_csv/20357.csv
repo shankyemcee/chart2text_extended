@@ -1,8 +1,2 @@
-Year#Number_of_hotels
-2015#1207
-2014#1161
-2013#1121
-2012#1077
-2011#1041
-2010#979
-2009#942
+Year,North_America,Europe,Asia_Pacific,Latin_America,Global
+2022,120,89,78,22,309

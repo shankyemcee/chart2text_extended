@@ -1,10 +1,5 @@
-Year#GVA_in_billion_GBP
-2018#2.52
-2017#2.43
-2016#2.86
-2015#2.46
-2014#2.13
-2013#2.13
-2012#1.88
-2011#1.85
-2010#1.55
+Sales_channel,Million_U.S._dollars
+Other_outlets_(excluding_Walmart),231.2
+Food_outlets,869.0
+Drug_outlets,1306.4
+Total,2406.6

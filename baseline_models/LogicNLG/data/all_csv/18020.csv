@@ -1,4 +1,10 @@
-Sex#Share
-Male#62.1
-Female#37.3
-Unknown#0.6
+geographic_region,Number_of_attacks
+Middle_East_and_North_Africa,37553
+South_Asia,37154
+Sub-Saharan_Africa,12567
+Asia-Pacific,8685
+Europe,4531
+Russia_and_Eurasia,2522
+South_America,2390
+North_America,514
+Central_America_and_Caribbean,204

@@ -1,5 +1,7 @@
-Year#Crude_suicide_rate_per_100,000_inhabitants
-2015#11.7
-2010#11.4
-2005#12.2
-2000#13.0
+Country,Male,Female
+Brazil,53,47
+China,51,49
+EU-5,43,57
+Japan,49,51
+Russia,32,68
+United_States,49,51

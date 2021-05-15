@@ -1,6 +1,8 @@
-Response#Less_than_1_hour#1_to_3_hours#3_to_5_hours#5_to_7_hours#7_to_10_hours#10_hours_or_more
-18-29#53#22#15#4#3#2
-30-44#50#26#14#4#3#5
-45-54#49#28#15#2#3#4
-55-64#52#29#9#3#2#5
-65+#57#24#13#2#1#2
+group_of_people,Total_worried,Very_worried,A_bit_worried
+Asians,60,27,33
+Foreigners_in_general,57,24,33
+Italians,56,21,35
+French_people_of_Asian_origin,46,18,28
+Your_colleagues,37,10,27
+Your_neighbors,37,11,26
+Your_friends_and_family,22,6,16

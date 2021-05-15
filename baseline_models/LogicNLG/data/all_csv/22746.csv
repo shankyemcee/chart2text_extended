@@ -1,3 +1,13 @@
-Response#Share_of_respondents
-True#30
-Not_true#70
+Response,Male,Female
+Match.com,7,7
+EHarmony,4,5
+Bumble,2,1
+OkCupid,4,2
+Tinder,7,3
+Coffee_Meets_Bagel,2,1
+Hinge_Down,2,0
+Happn,1,0
+PlentyofFish,5,4
+Grindr,2,1
+A_religious_based_dating_app,3,3
+None,63,73

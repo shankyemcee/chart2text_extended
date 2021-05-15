@@ -1,5 +1,7 @@
-Year#Production_in_million_metric_tons
-2012#1.6
-2011#1.0
-2010#0.8
-2009#0.5
+Country,Hangouts_Meet,Houseparty,Microsoft_Teams,ZOOM_Cloud_Meetings
+United_States,30,8,11,14
+United_Kingdom,24,17,13,20
+France,23,30,16,22
+Germany,15,26,11,17
+Spain,64,2360,15,27
+Italy,140,423,30,55

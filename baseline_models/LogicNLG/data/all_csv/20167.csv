@@ -1,7 +1,4 @@
-Response#I_don't_read#Up_to_10_min#Up_to_20_min#Up_to_30_min#About_1_hour#Longer_than_1_hour
-2015#8.2#19.9#21.2#24.2#14.4#12.3
-2014#5.2#20.2#23.8#24.5#14.8#11.5
-2013#6.7#20.7#23.3#24.1#14.5#10.7
-2012#8.1#20.2#22#23.7#14.7#11.4
-2011#6.7#19.7#21.1#24.6#15.1#12.7
-2010#6.8#19.3#21.2#25#14.9#12.7
+deaths_attributable_to_alcohol_consumption,Total,Males,Females
+Chronic_causes,38253,26564,11689
+Acute_causes,49544,35540,14004
+All_causes,87798,62104,25693

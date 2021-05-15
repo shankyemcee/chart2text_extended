@@ -1,6 +1,4 @@
-Response#Percentage_of_respondents
-Very_concerned#35
-Fairly_concerned#41
-Not_very_concerned#17
-Not_at_all_concerned#6
-Don't_know#2
+Response,Share_of_respondents
+Online_shopping,24
+Restaurant_delivery,21
+Grocery_delivery,20

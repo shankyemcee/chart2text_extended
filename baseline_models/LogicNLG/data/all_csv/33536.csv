@@ -1,6 +1,8 @@
-Country#Arrivals_in_thousands
-Germany#13518
-France#7641
-United_Kingdom#5659
-Austria#4020
-United_States#3694
+Response,Male,Female
+At_least_once_a_day,20,13
+A_few_times_a_week,11,7
+At_least_once_a_week,4,4
+A_few_times_a_month,4,4
+At_least_once_a_month,6,8
+Never,52,59
+Don't_know/No_opinion,4,4

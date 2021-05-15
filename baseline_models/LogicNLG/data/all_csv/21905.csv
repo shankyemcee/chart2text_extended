@@ -1,4 +1,7 @@
-Client_type#Revenue_in_million_U.S._dollars
-Non-audit_clients#8901
-Audit_clients#12354
-Total#21255
+Response,Very_concerned,Somewhat_concerned,Slightly_concerned,Not_at_all_concerned
+High_prices,44,33,17,5
+Hacking/cybersecurity,48,26,18,8
+Reliability,38,32,20,11
+Compatibility,30,38,21,12
+Technology_becoming_outdated,24,37,26,13
+Difficulty_managing,20,34,26,20

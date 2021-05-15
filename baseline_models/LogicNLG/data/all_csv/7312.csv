@@ -1,5 +1,5 @@
-Weapon_used#Number_of_robberies
-Strong-arm#101120
-Firearm#82102
-Other_weapon#23150
-Knife_or_cutting_instrument#19129
+Weapon_used,Number_of_assaults
+Other_weapon,200826
+Firearm,186078
+Personal_weapons,169384
+Knife_or_cutting_instrument,117854

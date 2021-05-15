@@ -1,10 +1,4 @@
-Response#Share_of_respondents
-Less_than_100#3
-100_-_199#13
-200_-_299#17
-300_-_399#20
-400_-_599#25
-600_-_799#11
-800_-_899#4
-1000_-_1499#4
-1500_or_more#3
+Response,Share_of_respondents
+No_opinion,1
+No_have_not_heard,54
+Yes_have_heard,45

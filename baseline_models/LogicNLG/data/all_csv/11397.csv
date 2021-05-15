@@ -1,6 +1,8 @@
-Response#Share_of_adults
-2012#8.8
-2008#9.3
-2002#11.6
-1992#12.5
-1982#13
+energy_source,Number_of_power_plants
+Natural_Gas,1793
+Solar,1721
+Hydroelectric_Conventional,1444
+Oil,1076
+Wind,999
+Coal,400
+Nuclear,61

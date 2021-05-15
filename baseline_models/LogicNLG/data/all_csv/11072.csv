@@ -1,9 +1,5 @@
-City_(Street)#U.S._dollars_per_square_foot
-Sydney_(Pitt_Street_Mall)#732
-Melbourne_(Bourke_Street_Mall)#646
-Brisbane_(Brisbane_Mall)#422
-Brisbane_(Queen_Street_Mall)#280
-Adelaide_(Rundle_Street_Mall)#256
-Perth_(Hay_Street_&_Murray_Street_Malls)#227
-Auckland_(Queen_Street)#202
-Wellington_(Lambton_Quay)#141
+tax_category,Ratio_to_GDP
+Income_taxes,14.8
+Taxes_on_goods_and_services,14
+Social_security_contributions,11.7
+Taxes_on_property,1.4

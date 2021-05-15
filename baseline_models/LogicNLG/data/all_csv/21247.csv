@@ -1,4 +1,4 @@
-Gender#Number_of_patients_in_intensive_care
-Total#3691
-Women#1043
-Men#2648
+Response,18_to_29_years,30_to_44_years,45_to_59_years,60_years_and_older
+Yes,19,21,9,11
+No,40,51,50,40
+I_have_never_(knowingly)_taken_opioids,41,29,41,49

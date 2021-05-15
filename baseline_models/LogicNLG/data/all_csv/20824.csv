@@ -1,8 +1,4 @@
-Response#Share_of_respondents
-Monday#19
-Tuesday#22
-Wednesday#26
-Thursday#21
-Friday#42
-Saturday#83
-Sunday#61
+Year,Minimum,Maximum
+3-6_years,50,65
+6-10_years,75,120
+10+_years,120,0

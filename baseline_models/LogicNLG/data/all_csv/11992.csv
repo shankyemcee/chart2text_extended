@@ -1,3 +1,6 @@
-Year#Listeners_in_millions
-2018#10.3
-2019#12.1
+Year,Consumption_in_grams
+1.5-3_years,2
+4-10_years,2
+11-18_years,2
+19-64_years,3
+65_years_and_over,7

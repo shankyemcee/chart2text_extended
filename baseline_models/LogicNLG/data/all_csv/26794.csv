@@ -1,6 +1,5 @@
-case_type#Number_of_cases
-Total#84709
-New_cases#580
-Active#18046
-Recovered#64104
-Deceased#2559
+Response,Share_of_respondents
+It_is_a_very_good_measure,13
+It_is_a_good_measure,50
+It_is_a_bad_measure,22
+It_is_a_very_bad_measure,12

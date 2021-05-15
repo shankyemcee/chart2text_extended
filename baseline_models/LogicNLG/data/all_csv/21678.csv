@@ -1,4 +1,6 @@
-Number_of_portions#Share_of_total_population
-0_portions#23
-From_1_to_4_portions#65.1
-5_portions_or_more#11.8
+Marital_status,Men,Women
+Single,9510.58,8478.82
+Married_(and_not_separated),7261.22,7096.84
+Separated,472.89,523.99
+Widowed,444.51,1505.34
+Divorced,1196.06,1515.03

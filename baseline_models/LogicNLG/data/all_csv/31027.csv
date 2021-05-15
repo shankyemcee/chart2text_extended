@@ -1,8 +1,6 @@
-Year#Revenue_in_billion_U.S._dollars
-2021#2.6
-2020#2.4
-2019#2.3
-2018#2.1
-2017#2.0
-2016#1.8
-2015#1.5
+Region,New_installed_capacity_in_gigawatts
+Asia_Pacific,70
+Americas,15
+Europe,11
+Middle_East_&_Africa,3
+Rest_of_the_world,2

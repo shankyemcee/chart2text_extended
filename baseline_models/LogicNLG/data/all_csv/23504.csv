@@ -1,8 +1,5 @@
-Age_in_years#User_Dependent#LARCs
-45_and_over#42#58
-35-44#42#58
-25-34#51#49
-20-24#60#40
-18-19#65#35
-16-17#64#36
-Under_16#60#40
+mental_health_concerns,Served,Did_not_serve
+Anxiety,10,10.5
+Depression,16.4,17.1
+Frequent_mental_distress,11.4,11.7
+Any_mental_illness,18.1,18.6

@@ -1,4 +1,12 @@
-Year#Number_of_people_in_millions
-2024#3.24
-2020#2.99
-2017#2.58
+Country,Market_share
+United_States,20
+China,13
+Korea,10
+Germany,10
+Japan,9
+Brazil,5
+France,3
+Mexico,3
+Malaysia,3
+Taiwan,2
+Other,22

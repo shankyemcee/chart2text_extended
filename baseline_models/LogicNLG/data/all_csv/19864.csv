@@ -1,9 +1,5 @@
-Quarter#Number_of_users_in_billions
-Q3_'20#2.54
-Q2_'20#2.47
-Q1_'20#2.36
-Q4_'19#2.26
-Q3_'19#2.2
-Q2_'19#2.14
-Q1_'19#2.1
-Q4_'18#2.03
+Response,Obama,Romney
+White_(non-Hispanic),37,59
+Nonwhite,79,15
+Black,90,5
+Hispanic,69,25

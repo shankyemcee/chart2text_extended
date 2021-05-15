@@ -1,10 +1,5 @@
-Year#Number_of_deaths
-0-9_years#2
-10-19_years#0
-20-29_years#2
-30-39_years#8
-40-49_years#21
-50-59_years#117
-60-69_years#440
-70-79_years#1473
-80_years_and_older#5306
+Response,Share_of_respondents
+Every_day_or_almost,0
+Not_every_day_but_at_least_once_a_week,12
+Not_every_week_but_at_least_once_a_month,18
+Less_than_once_a_month,9

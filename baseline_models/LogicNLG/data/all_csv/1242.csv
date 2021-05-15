@@ -1,5 +1,10 @@
-Product_(company,_year_of_approval,_disease)#Revenue_in_million_U.S._dollars
-Stelara_(Janssen_2015_CD)#399.5
-Xeljanz_(Pfizer_2017_UC)#101.0
-Vercimon_(ChemoCentryx_2019_CD)#93.6
-Kappaproct_(InDeX_Pharmaceuticals_2014_UC)#47.0
+Year,Units_sold
+2020,4574
+2019,35278
+2018,24622
+2017,26665
+2016,28317
+2015,24127
+2014,15864
+2013,20446
+2012,21476

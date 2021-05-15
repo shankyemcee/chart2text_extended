@@ -1,6 +1,11 @@
-Region#New_installed_capacity_in_gigawatts
-Asia_Pacific#70
-Americas#15
-Europe#11
-Middle_East_&_Africa#3
-Rest_of_the_world#2
+Specialty_area,Number_of_physicians
+Psychiatry,1661
+Surgery,1471
+Anesthesiologists,1605
+Emergency_medicine,1533
+Radiology,1252
+Cardiology,1232
+Oncology_(cancer),588
+Endocrinology_diabetes_&_metabolism,325
+All_other_specialities,6001
+Total_specialty,15668

@@ -1,10 +1,7 @@
-Year#Adults#Juveniles
-2018#560.88#2.29
-2017#599.75#2.43
-2016#627.35#2.81
-2015#643.02#3.06
-2014#668.43#3.22
-2013#673.93#3.36
-2012#698.01#3.9
-2011#751.21#4.44
-2010#812.28#5.76
+recurring_sporting_event,Audience_in_million_viewers
+Daytona_500(February_20),15.58
+Subway_Fresh_Fit_500(February_27),10.35
+Kobalt_Tools_400(March_6),10.08
+Live_From_Talladega(April_17),9.04
+Coca-Cola_600(May_29),8.13
+Ford_400_Homestead(November_20),6.8

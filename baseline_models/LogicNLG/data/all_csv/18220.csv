@@ -1,5 +1,11 @@
-Quarter#2016#2017
-Q4#246#0
-Q3#256#0
-Q2#257#0
-Q1#171#170
+Specialty_area,Number_of_physicians
+Psychiatry,107
+Surgery,82
+Anesthesiologists,82
+Emergency_medicine,127
+Radiology,69
+Cardiology,36
+Oncology_(cancer),14
+Endocrinology_diabetes_&_metabolism,9
+All_other_specialities,309
+Total_specialty,835

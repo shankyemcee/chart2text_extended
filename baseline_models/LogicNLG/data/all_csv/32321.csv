@@ -1,9 +1,6 @@
-Year#Asset_value_in_billion_U.S._dollars
-2013#505
-2012#420
-2011#365
-2010#355
-2009#239
-2008#177
-2005#156
-2000#78
+Response,Share_of_fatalities
+Asia,45
+Europe,23.4
+Africa,23
+Americas,8
+Oceania,0.6

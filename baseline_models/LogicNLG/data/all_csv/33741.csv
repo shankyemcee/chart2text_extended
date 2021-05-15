@@ -1,8 +1,4 @@
-Year#Revenue_in_million_U.S._dollars
-2019#659
-2018#595
-2017#477
-2016#288
-2015#445
-2014#327
-2013#12
+quarter,Samsung,Evercoss,Microsoft,Smartfren,Mito,Advan,Others
+3Q_2015,19,14.4,12,6,0,5.6,43
+2Q_2015,16,18.5,9.6,6.1,7.6,7.3,34.9
+1Q_2015,21.2,18.2,10.9,0,8.5,4,37.2

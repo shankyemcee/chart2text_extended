@@ -1,5 +1,6 @@
-degree_of_personalization#Open_rate#Click_rate
-Not_personalized#13.1#1.9
-Subject_line_only_personalized#7.4#0.4
-Message_only_personalized#18.8#2.1
-Both_subject_line_and_message_personalized#5.9#0.2
+Response,Share_of_respondents
+0_-_5_,21
+5_-_10_,44
+10_-_15_,21
+15_-_20_,9
+More_than_20_,4

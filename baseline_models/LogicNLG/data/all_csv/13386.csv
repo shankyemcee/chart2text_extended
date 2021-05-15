@@ -1,3 +1,6 @@
-Year#Number_of_M&A_deal_transactions
-2014#798
-2013#740
+Year,Fatality_rate
+Under_15_years,0
+15-44_years,0.1
+45-64_years,0.5
+65-74_years,2.4
+75_years_and_older,10.3

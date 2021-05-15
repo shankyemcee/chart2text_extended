@@ -1,10 +1,3 @@
-Campaign_Spending#Spending_in_U.S._dollars
-On-line_Advertising#6732810$
-Payroll#2281244$
-Payroll_Taxes#1191773$
-Postage#1130691$
-Printing#873948$
-Travel/_Lodging#533462$
-Insurance#348356$
-Rent/_Occupancy#160456$
-Other#2481752$
+Month,Retail,Office,Industrial
+Aug_2015,1036.1,1174.1,2080.3
+Jul_2015,1029.1,1160.2,2053.3

@@ -1,12 +1,4 @@
-Year#GDP_growth_compared_to_previous_year
-2010#3.44
-2009#5.91
-2008#4.48
-2007#5.68
-2006#5.05
-2005#6.22
-2004#6.9
-2003#-2.04
-2002#5.9
-2001#3.68
-2000#2.3
+Year,Program_Services,Auxiliary_Activities,Supporting_Services
+2020,217.01,71.74,70.61
+2019,222.9,84.83,78.46
+2018,226.87,86.72,79.4

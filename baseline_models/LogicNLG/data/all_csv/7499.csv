@@ -1,7 +1,4 @@
-Year#Coverage_ratio
-2019#65.24
-2018#60.96
-2017#56.2
-2016#55.6
-2015#51.2
-2014#51.2
+store_type,Number_of_stores
+Wholesale_doors,554
+Full_price_retail_stores,179
+Outlet_stores,47

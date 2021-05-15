@@ -1,3 +1,11 @@
-cosmetic_companies#Value_in_billion_Brazilian_reals
-Natura_Cosméticos#26.7
-Avon_Products#6.4
+age_group,Men,Women
+45-49_years,1,0
+50-54_years,0,0
+55-59_years,0,1
+60-64_years,3,7
+65-69_years,4,6
+70-74_years,24,11
+75-59_years,24,21
+80-84_years,43,42
+85-89_years,34,55
+90_years_and_over,34,89

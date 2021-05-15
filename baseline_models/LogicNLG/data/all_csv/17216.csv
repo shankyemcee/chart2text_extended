@@ -1,9 +1,8 @@
-Year#Number_of_establishments
-1-4_employees#802
-5-9_employees#429
-10-19_employees#278
-20-49_employees#163
-50-99_employees#52
-100-199_employees#23
-200-499_employees#10
-500+_employees#2
+Year,Sales_in_billion_Canadian_dollars
+2018,9.38
+2017,9.49
+2016,14.46
+2015,11.16
+2014,8.17
+2013,5.22
+2012,4.08

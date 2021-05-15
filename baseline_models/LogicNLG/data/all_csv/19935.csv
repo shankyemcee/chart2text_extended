@@ -1,6 +1,6 @@
-Response#Share_of_respondents
-Very_confident#26
-Slightly_confident#36
-Not_particularly_confident#22
-Not_at_all_confident#16
-Don't_know#0
+Response,Non_LGBT,LGBT
+In_person,38,59
+Phone_call,10,19
+Text_message,13,27
+Online,15,42
+Other,8,24

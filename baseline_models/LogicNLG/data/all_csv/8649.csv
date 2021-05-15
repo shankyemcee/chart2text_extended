@@ -1,6 +1,11 @@
-Country#Import_value_in_million_GBP
-Mexico#107.74
-Irish_Republic#102.71
-Netherlands#53.9
-Italy#51.08
-Spain#44.41
+Car_models,Depreciation_rate
+Suzuki_S-Cross,25.8
+Ford_Fiesta,26.1
+Nissan_Tiida,26.8
+Mazda_3,27.3
+Honda_Odissey,27.6
+Mitsubishi_Lancer,27.6
+Hyundai_Grand_i10,27.9
+Toyota_Yaris,28.2
+Volkswagen_Vento,28.5
+Seat_León,28.6

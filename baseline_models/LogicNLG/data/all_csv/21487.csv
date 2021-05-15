@@ -1,6 +1,3 @@
-Year#Consumption_in_grams
-1.5-3_years#8
-4-10_years#10
-11-18_years#11
-19-64_years#21
-65_years_and_over#30
+device,Forecast_February_2019,Forecast_November_2019,Optimistic_scenario_April_2020,Probable_scenario_April_2020,Pessimistic_scenario_April_2020
+Smartphones,6.4,2.7,-10,-26.8,-47.1
+Personal_computing_devices,1.1,-1.6,-1.9,-5.3,-11.5

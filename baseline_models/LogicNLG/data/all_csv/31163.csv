@@ -1,11 +1,6 @@
-Year#Retail_volume_sales_in_thousand_tonnes
-2019#375.7
-2018#373.3
-2017#370.0
-2016#366.0
-2015#361.1
-2014#355.1
-2013#347.6
-2012#339.3
-2011#338.0
-2010#336.8
+Response,Share_of_respondents
+Less_than_1500_Mexican_pesos,10
+Between_1501_and_3000_Mexican_pesos,20
+Between_3001_and_8000_Mexican_pesos,45
+Between_8001_and_15000_Mexican_pesos,21
+More_than_15001_Mexican_pesos,4

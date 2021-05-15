@@ -1,7 +1,8 @@
-Year#Number_of_inhabitants_in_thousands
-2018#8781.3
-2016#8821.8
-2014#8820.1
-2012#8874.8
-2010#8888.5
-2008#8929.2
+Response,Share_of_households
+Small_dwelling_buildings_owner-occupied,40.1
+Small_dwelling_buildings_tenant-owned,1.9
+One_or_two_dwelling_buildings_rented,1.5
+Multi-dwelling_buildings_tenant-owned,20.5
+Multi-dwelling_buildings_rented,28.3
+Special_housing,3.3
+Other_housing,1.4

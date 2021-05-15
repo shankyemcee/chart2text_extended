@@ -1,11 +1,6 @@
-Response#Share_of_unemployment
-Graduate#16.3
-Post_graduate_&_above#14.2
-Certificate#11.3
-Diploma#11.1
-Higher_secondary#7.4
-Secondary#4.2
-Middle#3
-Primary#2.4
-Illiterate#2
-Below_primary#1.8
+period_of_service,Unemployment_rate
+Gulf_War_era_II,3.5
+WW_II_Korean_War_and_Vietnam_era,2.8
+Total_veterans,3.1
+Other_service_periods,3
+Gulf_War_era_I,2.6

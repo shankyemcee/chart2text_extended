@@ -1,9 +1,5 @@
-Year#Contribution_in_thousand_jobs
-2028#365.7
-2018#319.8
-2017#320.5
-2016#313.3
-2015#310.1
-2014#300.2
-2013#299.2
-2012#287.5
+geographic_region,Revenue_in_million_U.S._dollars
+U.S._and_Canada,10051.21
+Europe_Middle_East_and_Africa,5543.07
+Latin_America,2795.43
+Asia_Pacific,1469.52

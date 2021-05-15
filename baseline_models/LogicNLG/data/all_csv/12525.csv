@@ -1,7 +1,5 @@
-Response#Percentage_of_respondents
-Tired_all_the_time#50
-Sleepless_nights#35
-Weight_gain#33
-High_anxiety#32
-Aches_and_pains#32
-Depression#19
+Response,Share_of_respondents
+Very_positive,7
+Fairly_positive,34
+Fairly_negative,36
+Very_negative,11

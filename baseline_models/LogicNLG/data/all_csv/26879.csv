@@ -1,4 +1,9 @@
-Statistic#Total_number
-Total_cases#20732404
-Cases_in_last_7_days#1499560
-Total_deaths#352464
+HoType_of_household,Number_of_households
+Single-person_households,1744620
+Married_couple_with_child(ren)_living_at_home,1000439
+Married_couple_without_child_living_at_home,951083
+Single_parent_households,491825
+Unmarried_couple_with_child(ren)_living_at_home,387796
+Unmarried_couple_without_child_living_at_home,312629
+Collective_households,6458
+Other_households,100538

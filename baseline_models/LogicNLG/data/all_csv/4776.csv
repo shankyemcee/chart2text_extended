@@ -1,7 +1,7 @@
-Age_group#Number_of_abortions
-15_years_and_younger#1232
-15_years#2357
-16_years#4450
-17_years#7125
-18_years#13370
-19_years#18446
+Channel,Spend_change_in_million_GBP
+Online,16
+Discount_grocery,4
+Bargain_stores,5
+High_street,9
+Grocers,-18
+Total_market,18

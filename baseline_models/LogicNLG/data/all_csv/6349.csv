@@ -1,13 +1,4 @@
-Response#Share_of_respondents
-Watch_TV#38
-Reading#31
-Spending_time_with_family_and_friends#19
-Computer/internet#16
-Playing_video_games_and_computer/internet_games#16
-Watching/going_to_the_movies#13
-Exercise/working_out#13
-Concerts/listening_to/playing_music#10
-Walking/running/jogging#5
-Eating/going_to_restaurants#5
-Cooking/baking#5
-Shopping#5
+Delivery_Service_Type,Market_share
+Regular,45
+Priority,30
+Rush,25

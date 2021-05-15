@@ -1,10 +1,6 @@
-region_of_England#2018#2019
-South_West#3189.6#3194.5
-South_East#2108.9#2119.9
-East_of_England#1939.3#1943.2
-East_Midlands#1476.1#1495.8
-West_Midlands#802.0#790.5
-Yorkshire_and_the_Humber#547.6#558.2
-North_West#531.2#551.5
-North_East#220.6#227.8
-London#116.1#123.0
+Country,2017,2018,2019
+France,666.4,682.9,754.2
+Italy,668.9,700.0,684.8
+New_Zealand,256.6,239.2,248.7
+Australia,244.5,254.7,244.7
+Spain,240.0,252.2,244.3

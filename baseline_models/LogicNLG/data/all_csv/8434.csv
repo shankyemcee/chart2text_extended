@@ -1,6 +1,9 @@
-Bed_size#Percentage_of_top_50_hospitals
-0-99#0
-100-249#22
-250-349#23
-350-499#34
-500+#21
+sector,Investment_by_sector_in_thousand_euros
+Biotech_and_healthcare,541321
+ICT_(Communications_computer_and_electronics),240313
+Financial_and_insurance_activities,162264
+Consumer_goods_and_services,160263
+Business_products_and_services,100919
+Real_estate,13231
+Chemicals_and_materials,1369
+Energy_and_environment,332

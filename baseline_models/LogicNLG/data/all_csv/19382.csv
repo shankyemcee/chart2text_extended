@@ -1,6 +1,4 @@
-country#Number_of_livestock
-United_Kingdom#34831991
-England#15756946
-Wales#10037473
-Scotland#6985017
-Northern_Ireland#2052555
+Response,A_frequent_air_traveler,An_occasional_air_traveler,Never_flown
+Caucasian,7,73,19
+African_American,6,57,36
+Hispanic,8,70,22

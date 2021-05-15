@@ -1,6 +1,10 @@
-Educational_attainment#Wage_in_current_U.S._dollars
-Total#969
-Less_than_a_high_school_diploma#592
-High_school_no_college#746
-Some_college_or_associate's_degree#856
-Bachelor's_degree_and_higher#1367
+Response,Acceptable,Unacceptable,Neither_acceptable_nor_unacceptable
+Using_cell_phones_in_restaurants,35,50,15
+Discussing_sex_in_public,30,57,13
+Using_swear_words_online_including_social_media,25,62,12
+Using_the_F-word_in_conversation,25,63,12
+Using_swear_words_in_public,23,66,10
+Making_jokes_or_comments_about_race_in_private,22,65,14
+Making_jokes_or_comments_about_a_person's_gender_or_sexuality_in_private,20,64,16
+Making_jokes_or_comments_about_race_in_public,10,83,6
+Making_jokes_or_comments_about_a_person's_gender_or_sexuality_in_public,10,84,6

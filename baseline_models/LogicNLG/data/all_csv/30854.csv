@@ -1,11 +1,5 @@
-Year#Number_of_passengers_arriving_in_millions
-2019#0.68
-2018#0.74
-2017#0.65
-2016#0.54
-2015#0.61
-2014#0.8
-2013#0.95
-2012#1.27
-2011#1.11
-2010#1.12
+region,Number_of_concession-based_shop-within-shops
+Asia,619
+Europe,29
+North_America,2
+Other_non-reportable_segments,4

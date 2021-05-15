@@ -1,12 +1,5 @@
-Year#GDP_growth_compared_to_previous_year
-2025#2.09
-2024#2.5
-2023#2.94
-2022#3.77
-2021#3.64
-2020#-8.56
-2019#0.9
-2018#1.89
-2017#0.69
-2016#1.5
-2015#0.87
+Response,Men,Women
+Meets_aerobic_guidelines,66,58
+Some_Activity,10,12
+Low_Activity,4,5
+Inactive,20,25

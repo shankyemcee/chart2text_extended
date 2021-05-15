@@ -1,9 +1,5 @@
-Year#Number_of_victims
-2017#12
-2016#11
-2015#6
-2014#8
-2013#6
-2012#14
-2011#4
-2010#10
+geographic_region,Arrivals_in_millions
+Western_Europe,11.76
+Southern_Europe,9.62
+Northern_Europe,8.11
+Central/Eastern_Europe,4.14

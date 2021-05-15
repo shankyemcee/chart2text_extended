@@ -1,5 +1,4 @@
-Country#Customer_experience_index_in_index_points
-Czech_Republic#80.4
-Russia#79.9
-Turkey#78.8
-Poland#76.4
+Response,School_loans,Credit_card,Medical_bills,Car_loans,Mortgage,Other_loans,Taxes
+18_to_24,54,32,28,19,9,9,6
+25_to_34,37,37,26,24,25,12,12
+All,42,35,27,22,20,11,10

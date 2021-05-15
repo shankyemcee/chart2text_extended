@@ -1,8 +1,4 @@
-Year#Total_assets_in_million_U.S._dollars
-2020#179.54
-2019#170.99
-2018#162.85
-2017#149.7
-2016#137.39
-2015#126.46
-2014#133.68
+year,Credit_to_deposit_ratio
+FY_2019,82.88
+FY_2018,84.71
+FY_2017,82

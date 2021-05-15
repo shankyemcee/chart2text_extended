@@ -1,11 +1,3 @@
-Country#Revenue_share
-United_States#36
-Western_Europe#29
-Asia#10
-Japan#8
-Latin_America#7
-Eastern_Europe#2
-Australia_and_New_Zealand#2
-Africa#2
-Canada#2
-Middle_East#2
+Year,Listeners_in_millions
+2018,10.3
+2019,12.1

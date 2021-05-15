@@ -1,4 +1,11 @@
-Delivery_Service_Type#Market_share
-Regular#45
-Priority#30
-Rush#25
+Response,Percentage_of_patients
+Severe_pain,88.2
+Spasms,21.6
+PTSD,14.4
+Nausea,10.2
+Cancer,6.3
+Neurological,5.4
+Seizures,3.2
+Glaucoma,1.6
+Cachexia,1.2
+HIV/AIDS,1.1

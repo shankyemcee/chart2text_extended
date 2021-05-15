@@ -1,11 +1,6 @@
-State#Index_points
-Georgia#76
-Armenia#75
-Ukraine#61
-Kyrgyzstan#56
-Azerbaijan#38
-Belarus#38
-Turkey#35
-Kazakhstan#32
-Russia#30
-Uzbekistan#27
+organ,Number_of_patients
+Kidney,6460
+Liver,1031
+Heart,670
+Lung,363
+Pancreas,253

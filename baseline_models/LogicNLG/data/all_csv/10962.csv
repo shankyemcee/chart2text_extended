@@ -1,7 +1,5 @@
-device#Shipments_in_thousands
-Oculus_Quest#1081
-Oculus_Go#1020
-PlayStation_VR#833
-HTC_Vive_Focus#288
-Oculus_Rift#193
-HTC_Vive#152
+Response,Share_of_individuals
+Once_a_week_(including_every_day),80
+Daily,77
+At_least_once_a_week_(but_not_every_day),3
+Less_than_once_a_week,1

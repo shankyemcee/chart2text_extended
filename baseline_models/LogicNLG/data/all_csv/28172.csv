@@ -1,4 +1,8 @@
-type_of_service#Circulation_in_thousands
-Subscription#2133.72
-Newsstand#5.6
-Total_paid#2139.32
+fuel_type_of_power_plants,Minimum,Maximum
+Offshore_wind,123,342
+Coal,21,466
+Concentrated_solar_power_(CSP),24,138
+Solar_photovoltaic_(PV),-89,179
+Onshore_wind,2,222
+Petroleum/petroleum_and_gas,2,103
+Gas_(various_types),1,50

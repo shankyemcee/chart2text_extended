@@ -1,4 +1,9 @@
-_education_level_#Average_monthly_salary_in_SEK
-Tertiary_education#32900
-Secondary#31500
-Primary#29500
+Year,Number_of_new_cases
+0-14_years,0
+15-29_years,140
+30-39_years,1100
+40-49_years,3300
+50-59_years,6000
+60-69_years,7400
+70-79_years,5700
+80+_years,3300

@@ -1,9 +1,7 @@
-Response#Share_of_respondents
-Groceries/medicines_in_retail_store#35
-Groceries/medicines_online#25
-Mobile_recharge#12
-Did_not_use_digital_payments#11
-Other_services#8
-Taxi/transportation_services#5
-Food_delivery#3
-Restaurants#1
+Response,Share_of_respondents
+Greater_than_15,8
+15,20
+10,19
+5,25
+1,20
+Less_than_1,8

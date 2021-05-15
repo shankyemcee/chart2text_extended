@@ -1,6 +1,7 @@
-location#Total_programs#Children's_programs
-Urban#1276#882
-Suburban#1555#1104
-Town#1487#1118
-Rural#1623#1180
-National_average#1453#1037
+Year,Desktop_PCs,Mobile_PCs,Tablets
+2022,61.76,244.43,183.11
+2021,67.4,241.42,182.27
+2020,73.16,237.2,181.57
+2019,78.9,231.67,180.57
+2018,84.46,225.26,178.51
+2017,89.64,218.85,173.56

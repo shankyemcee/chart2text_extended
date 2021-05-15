@@ -1,6 +1,10 @@
-infectious_disease#Number_of_confirmed_cases
-Scarlet_fever#3300
-Epidemic_typhus#1990
-Dysentery#1870
-Typhoid#1657
-Coronavirus_SARS-CoV-2#45213
+Type_of_crime,"Rate_per_100,000_inhabitants"
+Property_crime__(total),2209.8
+Larceny-theft,1601.6
+Burglary,378.0
+Violent_crime__(total),383.4
+Aggravated_assault,248.2
+Motor_vehicle_theft,230.2
+Robbery,86.1
+Rape,44.0
+Murder_and_nonnegligent_manslaughter,5.0

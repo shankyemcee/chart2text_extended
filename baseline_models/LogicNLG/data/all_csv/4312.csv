@@ -1,4 +1,5 @@
-APM-Maersk_ship#Number_of_ships
-Chartered#382
-Owned#308
-Order_book#14
+Category,Volume_in_million_barrels_per_day
+Throughput_decline_for_2020,0.4
+Total_throughput_for_2020,81.5
+Year-over-year_refining_decline_for_2020,7.6
+Total_refining_volume_for_2020,74.3

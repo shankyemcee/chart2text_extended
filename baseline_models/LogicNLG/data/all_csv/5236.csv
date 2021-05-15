@@ -1,8 +1,5 @@
-Type_of_Method#Number_of_victims
-Shooting#263
-Stabbing#214
-Beating#100
-Other_methods_used#41
-Strangulation#31
-Methods_used_unknown#18
-Fire_(burns_or_suffocation)#11
+Response,Percentage_of_total_pipeline
+Glucose_monitoring_devices,61
+Insulin_delivery_devices,24
+Artificial_pancreas,7
+Other_diabtes_care_devices,8

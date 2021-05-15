@@ -1,8 +1,5 @@
-Response#Share_of_respondents_who_were_highly_or_somewhat_satisfied
-Quality_of_menu_items_ordered#84
-Order_accuracy#83
-Menu_item_availability#83
-Friendliness_of_staff#82
-Speed_of_service#81
-Cleanliness_and_sanitation#79
-Overall_experience#82
+export_and_import_in_quarter,Scenario_1_(Covid-19_ends_in_Q1_2020),Scenario_2_(Covid-19_ends_in_Q2_2020)
+Import_turnover_in_Q2_2020,0,-16
+Export_turnover_in_Q2_2020,0,-20
+Import_turnover_in_Q1_2020,-13,0
+Export_turnover_in_Q1_2020,-21,0

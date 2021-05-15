@@ -1,4 +1,4 @@
-Country#Mortality_rate_per_100,000_population
-Estonia#3.1
-Spain#1.8
-United_Kingdom#1.6
+political_partie,Safe_or_not_up_for_election,Leaning,Likely,Toss_up
+Republican,42,3,1,0
+Democrat,44,1,1,0
+Toss_up,0,0,0,8

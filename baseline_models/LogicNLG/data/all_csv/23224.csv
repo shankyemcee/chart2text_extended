@@ -1,8 +1,8 @@
-type#Category_share
-Fruit_juices#41.9
-Smoothies#35.8
-Ciders#6.9
-Waters#6.6
-Teas#3.3
-Coffee#0.8
-Other_beverages#4.8
+Year,Total_Sales_(excl._Arms_Sales),Arms_Sales
+2016,73652,12520
+2015,58616,12860
+2014,66031,14490
+2013,62953,15740
+2012,57196,15400
+2011,51928,16400
+2010,44239,16360

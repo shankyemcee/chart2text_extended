@@ -1,9 +1,6 @@
-Year#US_players#International_players
-2020#735#291
-2019#631#251
-2018#623#254
-2017#609#259
-2016#626#238
-2015#638#230
-2014#629#224
-2013#615#241
+brand,Number_of_stores
+Canadian_Tire,504
+SportChek,402
+Mark's,380
+Canadian_Tire_gas_bar_locations,297
+Other,163

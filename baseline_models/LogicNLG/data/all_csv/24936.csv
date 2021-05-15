@@ -1,11 +1,4 @@
-causes_of_death#Deaths_per_100,000_population
-Ischaemic_heart_disease#119.4
-Stroke#61.6
-Lower_respiratory_infections#48.1
-Chronic_obstructive_pulmonary_disease#39.3
-Tuberculosis#31.0
-Diarrhoeal_diseases#30.3
-Diabetes_mellitus#22.9
-Preterm_birth_complications#22.7
-Cirrhosis_of_the_liver#22.0
-Road_injury#19.9
+Response,Share_of_respondents
+Boys,33
+Girls,32
+Total,32

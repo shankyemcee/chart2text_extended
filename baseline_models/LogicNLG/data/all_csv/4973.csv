@@ -1,4 +1,8 @@
-type_of_light_source#Energy_cost_in_U.S._dollars
-Standard_incandescent_lights_(125_lights_4_watts_each)#27.21
-Mini-incandescent_lights_(300_lights_0.4_watts_each)#6.53
-LED_lights_(280_lights_0.04_watts_each)#0.06
+Year,Percentage_change
+2023,3.1
+2022,3.1
+2021,3.2
+2020,3.1
+2019,3.1
+2018,3.5
+2017,3.6

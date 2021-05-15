@@ -1,9 +1,4 @@
-Year#Breweries_per_every_100,000_legal_drinking_age_adults
-2019#3.7
-2018#3.4
-2017#2.8
-2016#2.4
-2015#2.0
-2014#1.6
-2013#1.4
-2012#1.4
+Response,Share_of_net_sales
+Acute_care_therapies,55
+Surgical_workflows,36
+Life_science,9

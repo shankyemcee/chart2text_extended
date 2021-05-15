@@ -1,6 +1,7 @@
-Country#Rapeseed_production_in_million_metric_tons
-Canada#19.0
-European_Union#16.83
-China#13.1
-India#7.7
-Other#11.56
+Year,Data_volume_in_exabytes_per_month
+2022,333
+2021,267
+2020,212
+2019,167
+2018,129
+2017,100

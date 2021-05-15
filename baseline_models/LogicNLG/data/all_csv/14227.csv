@@ -1,9 +1,4 @@
-Year#Gross_written_premiums_in_million_euros
-2018#415
-2017#394
-2016#357
-2015#308
-2014#239
-2013#193
-2012#170
-2011#209
+Year,Revenue_in_billion_U.S._dollars
+2020_(COVID-19_adjusted),73.7
+2020_(pre-COVID-19_projection),135.3
+2019,129.0

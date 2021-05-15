@@ -1,4 +1,11 @@
-online_sales_products#Sales_value#Number_of_orders#Value_of_shopping_basket
-Media_music#81#153#-28
-Books_magazines#50#35#11
-Office_supplies#20#8#11
+State,Production_in_thousand_pounds
+Wisconsin,3363863
+California,2541301
+Idaho,1008065
+New_Mexico,956501
+New_York,832210
+Minnesota,730412
+Pennsylvania,432181
+South_Dakota,347675
+Iowa,333932
+Ohio,226816

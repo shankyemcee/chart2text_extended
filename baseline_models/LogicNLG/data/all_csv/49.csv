@@ -1,9 +1,7 @@
-Year#Number_of_stores
-1-4_employees#5648
-5-9_employees#3302
-10-19_employees#2312
-20-49_employees#1290
-50-99_employees#1595
-100-199_employees#1165
-200-499_employees#261
-500+_employees#13
+Country,Reserves_in_metric_tons
+South_Africa,63000
+Russia,3900
+Zimbabwe,1200
+United_States,900
+Canada,310
+Worldwide,69000

@@ -5,3 +5,4 @@ tensorboard
 pandas
 nltk
 tqdm
+tokenizers==0.5.2

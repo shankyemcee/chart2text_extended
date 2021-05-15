@@ -1,8 +1,9 @@
-Year#Import_value_in_million_U.S._dollars
-2019#2893
-2018#2992
-2017#1522
-2016#1342
-2015#2640
-2014#2950
-2013#3229
+type,Number_of_police_violence_cases
+Head_injuries,315
+Threats_insults_restrictions_on_freedom_of_the_press,164
+Injuries_to_lower_limbs,131
+Upper_limb_injuries,75
+Back_injuries,28
+Hand_injuries,18
+Injuries_to_the_genitals,4
+Other_not_specified,125

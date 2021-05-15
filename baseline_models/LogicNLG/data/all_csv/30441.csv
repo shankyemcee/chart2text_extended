@@ -1,5 +1,9 @@
-Response#Very_scared#Fairly_scared#Not_very_scared#Not_at_all_scared
-Gen_Z#26#26#27#10
-Millennials#29#31#22#10
-Gen_X#19#29#27#17
-Baby_boomers#11#27#31#21
+hotel_chain,EquiTrend_score
+Marriot_Hotels,67.42
+Embassy_Suites,65.3
+Courtyard_by_Marriot_Hotels,64.79
+Wyndham_Hotels_&_Resort,64.29
+Hilton_Hotels_and_Resorts,63.23
+SpringHill_Suites,62.95
+Sheraton_Hotels_&_Resorts,62.73
+Category_Average,62.38

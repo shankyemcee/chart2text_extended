@@ -1,11 +1,4 @@
-Year#Revenue_in_billion_U.S._dollars
-2015#40.18
-2014#37.82
-2013#34.27
-2012#41.37
-2011#46.09
-2010#43.73
-2009#29.55
-2008#30.73
-2007#28.37
-2006#21.27
+Year,Smartwatch,Health_&_fitness_tracker,Wearable_camera,Wearable_headset,Smart_glasses
+2016,46,38,15,11,5
+2015,26,25,12,7,2
+2014,4,14,8,5,1

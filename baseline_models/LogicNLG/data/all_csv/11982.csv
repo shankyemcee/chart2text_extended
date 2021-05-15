@@ -1,11 +1,6 @@
-Year#Index_score
-2020#0.82
-2018#0.8
-2016#0.72
-2014#0.73
-2012#0.74
-2010#0.51
-2008#0.51
-2005#0.53
-2004#0.5
-2003#0.44
+Year,Number_of_compulsory_admissions
+Under_18_years,23
+18-44_years,428
+45-64_years,277
+65-74_years,115
+75_years_and_over,171

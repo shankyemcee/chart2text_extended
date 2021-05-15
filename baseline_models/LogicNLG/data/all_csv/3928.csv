@@ -1,7 +1,4 @@
-year#Basmati_rice#Non-basmati_rice
-FY_2020#4.33#2.01
-FY_2019#4.71#3.0
-FY_2018#4.17#3.64
-FY_2017#1.82#1.41
-FY_2016#3.21#2.53
-FY_2015#3.48#2.37
+Type,Employment_in_thousands
+Direct,1192
+Indirect,1131
+Induced,507

@@ -1,7 +1,3 @@
-Year#Production_in_thousand_tons
-2016#1720
-2015#1725
-2014#1655
-2013#1699
-2006#2466
-2005#2564
+Year,Mean_average,Median_sales_price
+2013,2235,650
+2012,2148,642

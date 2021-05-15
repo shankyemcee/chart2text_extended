@@ -1,6 +1,11 @@
-Drug_name_(therapy_area)#2013#2014#2015#2016#2017#2018
-Revlimid_(cancer)#4280.3#4980#5801.1#6973.6#8187#9685
-Pomalyst/Imnovid_(cancer)#305.4#679.7#983.3#1310.7#1614#2040
-Otezla_(psoriasis)#0#69.8#471.7#1017.2#1279#1608
-Abraxane_(cancer)#648.9#848.2#967.5#973.4#992#1062
-Other#0#0#0#0#901#870
+province_of_Canada,1997,2005,2014
+Newfoundland_and_Labrador,3720,3150,2740
+Saskatchewan,2870,2790,2680
+New_Brunswick,3100,2610,2450
+Manitoba,2120,2060,1910
+Prince_Edward_Island,2780,2260,1890
+Alberta,1960,1820,1850
+Nova_Scotia,2170,1830,1730
+Quebec,1880,1870,1660
+Ontario,1760,1590,1510
+British_Columbia,1610,1470,1470

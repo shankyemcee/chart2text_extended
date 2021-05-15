@@ -1,10 +1,5 @@
-Response#Bought_a_new_car_in_last_two_years#Bought_a_used_car_in_last_two_years
-Women#8#18
-Men#9#24
-All_ages#9#20
-65+#11#14
-55-64#14#15
-45-54#9#25
-35-44#9#28
-25-34#6#24
-17-24#3#17
+year,Number_of_units_under_construction
+H2_2015,33490
+H1_2015,30560
+H2_2013,19100
+H1_2013,15400

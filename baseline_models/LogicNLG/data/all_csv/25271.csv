@@ -1,8 +1,6 @@
-years#Share_of_respondents
-16-24#18
-25-34#27
-35-44#25
-45-54#18
-55-64#19
-65-74#13
-75+#8
+Year,Proportion_of_respondents
+5_hours_or_less_per_week,8
+6-10_hours_per_week,3
+11-15_hours_per_week,1
+16_hours_or_more_per_week,1
+I_do_not_spend_any_time_on_fantasy_football,87

@@ -1,3 +1,7 @@
-Response#Share_of_net_sales
-Wholesale_sales_to_retailers_and_wholesalers#82
-Direct_to_consumer_sales_(e-commerce)#18
+Response,Percentage_of_respondents
+$0-$100,8
+$101-$250,11
+$251-$500,16
+$501-$1000,18
+More_than_$1000,36
+Not_sure,11

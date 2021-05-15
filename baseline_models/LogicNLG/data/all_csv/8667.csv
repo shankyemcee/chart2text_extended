@@ -1,4 +1,6 @@
-Response#Share_of_respondents
-Yes_always#64.6
-Yes_sometimes#15.1
-No_never#20.3
+Response,Share_of_respondents
+Strongly_agree,20
+Somewhat_agree,33
+Neither_agree_nor_disagree,30
+Somewhat_disagree,11
+Strongly_disagree,5

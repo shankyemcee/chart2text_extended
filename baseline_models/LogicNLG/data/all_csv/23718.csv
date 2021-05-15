@@ -1,10 +1,7 @@
-Year#Investment_portfolio_value_in_billion_euros
-2018#10186.31
-2017#10362.9
-2016#10216.62
-2015#9828.8
-2014#9571.61
-2013#9253.65
-2012#8482.07
-2011#7780.59
-2010#7697.39
+global_nuclear_energy_market,2011,2030
+Nuclear_generation,133,300
+Radiation_management,69,267
+Nuclear_power_plant_construction,31,53
+Service,18,22
+Front_end_of_fuel_cycle,17,26
+Spent_nuclear_fuel_reprocessing_and_secondary_fuel,3,9

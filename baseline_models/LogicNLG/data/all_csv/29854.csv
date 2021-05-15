@@ -1,6 +1,6 @@
-Reserve_type#Amount
-Total_(in_million_barrels_of_oil_equivalent)#5262
-Natural_gas_(in_billion_cubic_feet_equivalent)#1945
-Crude_oil_(in_million_barrels_of_oil_equivalent)#2635
-Bitumen_(in_million_barrels_of_oil_equivalent)#282
-Natural_gas_liquids_(in_million_barrels_of_oil_equivalent)#400
+Country,Capacity_addition_in_million_metric_tons
+United_States,2.7
+Nigeria,0.7
+Malaysia,0.6
+Algeria,0.6
+Indonesia,0.5

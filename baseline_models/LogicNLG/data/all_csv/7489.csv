@@ -1,7 +1,4 @@
-Year#Number_of_inhabitants_in_thousands
-2018#5463.3
-2016#5337.2
-2014#5197.6
-2012#5064.2
-2010#4926.3
-2008#4781.5
+Year,Cost_in_U.S._dollars
+Original_price,100
+6_months_after_patent_loss,95
+12_to_24_months_after_patent_loss,40

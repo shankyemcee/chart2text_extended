@@ -1,5 +1,9 @@
-Crop_Type_In_Jarkhand#Area_in_thousand_hectares
-Vegetables#298.71
-Fruits#103.54
-Plantation#15.58
-Flowers#1.04
+Response,Germany,United_Kingdom,United_States
+Self-isolated_/_quarantined,22,40,47
+Stockpiled_food,24,21,38
+Stockpiled_household_items,19,20,37
+Been_tested_for_COVID-19_/_Corona_virus,14,18,22
+Tested_positive_for_COVID-19_/_Corona_virus,9,16,15
+Been_hospitalized_due_to_COVID-19_/_Corona_virus,4,9,8
+Died_from_COVID-19_/_Corona_virus,3,11,8
+None_of_these,53,38,28

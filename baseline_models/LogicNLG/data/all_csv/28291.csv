@@ -1,6 +1,10 @@
-product_type#2013#2014
-Smart_glasses#0.1#11.63
-Smart_watches#2.9#25.04
-Multimedia_&_smart_cameras#5.7#17.09
-Fitness_&_activity_trackers#12.5#28.97
-Healthcare#15.9#22.01
+geographic_region,At_least_basic,Limited
+World,90,3
+Australia_&_New_Zealand,100,0
+Northern_America_&_Europe,99,0
+Latin_America_&_the_Caribbean,96,0
+Eastern_Asia_&_South-eastern_Asia,93,1
+Western_Asia_&_Northern_Africa,92,5
+Central_Asia_&_Southern_Asia,92,1
+Sub-Saharan_Africa,61,13
+Oceania,55,2

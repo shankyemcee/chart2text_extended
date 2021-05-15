@@ -1,11 +1,6 @@
-Marathon#Number_of_finishers
-New_York_City_U.S.#51388
-Paris_FRA#41708
-Chicago_U.S.#40608
-London_GBR#39072
-Tokyo_JPN#36150
-Berlin_GER#36054
-Osaka_JPN#29431
-Boston_MA#26606
-Yokohama_JPN#22594
-Los_Angeles_U.S.#20617
+interest_level,Level_of_interest
+Very_interested,14
+Fairly_interested,30
+Not_very_interested,28
+Not_at_all_interested,30
+Don't_know,2

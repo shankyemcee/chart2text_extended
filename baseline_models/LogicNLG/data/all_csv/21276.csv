@@ -1,6 +1,4 @@
-Country#Tourist_arrivals_in_millions
-Europe#70.0
-America#9.0
-Asia#6.4
-Oceania#2.9
-Africa#1.1
+Year,Minimum,Maximum
+3-5_years,45,70
+5-10_years,55,85
+10+_years,85,125

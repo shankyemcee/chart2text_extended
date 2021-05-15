@@ -1,7 +1,5 @@
-Year#Male#Female
-18-24#23#15
-25-34#15#9
-35-44#9#7
-45-54#6#4
-55-64#4#3
-65+#2#2
+Response,Share_of_respondents
+I_am_going_to_spend_the_same,45
+I_am_going_to_not_spend_at_all,23
+I_am_going_to_spend_less,22
+I_am_going_to_spend_more,10

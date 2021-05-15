@@ -1,8 +1,7 @@
-Response#Share_of_respondents
-I_go_out_only_if_necessary_(supermarkets_banks_etc.)#78
-I_stopped_visiting_shopping_malls_and_parks#71
-I_stopped_going_to_restaurants_or_snack_bars#68
-I_buy_more_healthy_and_nutritious_food#27
-I_work_from_home#23
-I_buy_more_cleaning_products#22
-I_use_delivery_services_for_food_and_home_items#7
+Response,Share_of_respondents
+Do_not_know,1
+Very_bad,29.9
+Bad,32.2
+Somewhat_good/bad,31
+Good,5.4
+Very_good,0.5

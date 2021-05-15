@@ -1,8 +1,9 @@
-type_of_household#Number_of_households
-Couple_with_children#1947880
-Couple_without_resident_children#1194530
-Living_alone#974168
-One-family_households_with_adult_children#527831
-Lone_parent_with_children#284612
-Two_or_more-family_households_without_resident_children#237685
-Two_or_more-family_households_with_children#151827
+Year,Volume_in_billion_U.S._dollars
+2018,996
+2017,966
+2016,885
+2015,941
+2014,930
+2010,1058
+2005,1644
+2000,1614

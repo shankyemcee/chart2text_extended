@@ -1,9 +1,5 @@
-Country#Production_in_thousand_metric_tons
-Mexico#2199
-European_Union#1417
-Argentina#1400
-Turkey#950
-United_States#831
-South_Africa#579
-Israel#75
-Other#99
+age,Actress,Actor
+<25,10,0
+26-34,39,0
+35-44,27,37
+45+,24,51

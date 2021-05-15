@@ -1,8 +1,6 @@
-fire_type#Number_of_fires
-Fires_in_structures#481500
-Fires_in_brush_grass_wildland#244500
-Fires_in_rubbish#177500
-Fires_in_highway_vehicles#189500
-All_other_fires#94500
-Fires_outside_(outside-storage_crops_timber_etc.)#70500
-Fires_in_other_vehicles#33500
+Year,Export_value_in_thousand_Canadian_dollars
+2013,451208
+2012,420531
+2011,421340
+2010,552419
+2009,696438

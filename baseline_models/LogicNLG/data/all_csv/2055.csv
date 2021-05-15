@@ -1,5 +1,7 @@
-Response#Moderately_satisfied#Very_satisfied
-Less_than_a_high_school_diploma#40#42
-High_school_diploma#41#47
-Some_college_or_associate_degree#39#48
-Bachelor's_degree_or_higher#38#51
+segment,Share
+Living_room_TV,42.21
+Linear_TV,16.61
+Dynamic_linear_TV,13.4
+PC,12.8
+Smartphones,9
+Tablet,5.88

@@ -1,10 +1,5 @@
-player_and_country_name#Number_of_clean_sheets
-Peter_Shilton_(England)#10
-Fabien_Barthez_(France)#10
-Sepp_Maier_(West_Germany)#8
-Jan_Jongbloed_(Netherlands)#8
-Leao_(Brazil)#8
-Taffarel_(Brazil)#8
-Iker_Casillas_(Spain)#7
-Gilmar_(Brazil)#7
-Manuel_Neuer_(Germany)#7
+platform,Shipment_share
+Apple,41
+Android,7
+Tizen,2
+Proprietary,50

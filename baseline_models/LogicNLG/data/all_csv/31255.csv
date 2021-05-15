@@ -1,13 +1,3 @@
-Response#Share_of_respondents
-"Big_Box"_retail_store_(e.g._Walmart_Target)#62
-Grocery_store/Supermarket#36
-Pharmacy_(e.g._CVS_Walgreens)#31
-Online_(Net)#12
-Online_mass_merchandiser_(e.g._Amazon_drugstore.com)#8
-Department_Stores_(e.g._Macy's_Nordstrom)#5
-In-person_at_a_specialty_beauty_products_merchant_(e.g._Sephora)#4
-Online_specialty_beauty_products_merchant_(e.g._Sephora_Ultra)#3
-In-person/not_in_a_store_(e.g._Avon_Mary_Kay)#2
-Online_through_a_"sampling"_membership_program_(e.g._Ipsy_Birchbox)#1
-Online_through_a_specific_brand's_website_(e.g._Clairol_CoverGirl)#1
-Somewhere_else#10
+Response,Share_of_respondents
+Business_travelers,97
+Leisure_travelers,94

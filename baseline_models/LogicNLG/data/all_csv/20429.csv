@@ -1,7 +1,8 @@
-organ#Number_of_patients
-Kidney#3150
-Liver#527
-Lung#270
-Heart#157
-Pancreas#156
-Total#4351
+Year,Men,Women
+16-24_years,24.7,24.5
+25-34_years,26.8,27.2
+35-44_years,27.6,28.0
+45-54_years,28.6,28.6
+55-64_years,28.9,28.3
+65-74_years,29.3,28.1
+75_years_and_over,27.6,27.7

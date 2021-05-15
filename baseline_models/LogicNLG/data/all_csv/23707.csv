@@ -1,7 +1,3 @@
-Country#Share_in_total_import
-Germany#29.8
-Poland#9.1
-China#7.4
-Slovakia#5.8
-Netherlands#5.3
-Italy#4
+Region,Asia,Caribbean,Europe,Latin_America,North_America,Rest_of_the_world
+2010,142.73,199.94,166.87,149.13,114.21,154.22
+2011,144.25,207.11,185.01,152.82,119.7,162.99

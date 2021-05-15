@@ -1,7 +1,10 @@
-Year#Sales_value_in_million_euros
-2010#3845
-2011#3861
-2012#3812
-2013#4191
-2014#4302
-2015#4692
+Platform,Number_of_acqusitions
+Alphabet/Google,14
+Apple,13
+Facebook,6
+Amazon,5
+Intel,5
+Microsoft,5
+Meltwater,5
+Twitter,4
+Salesforce,4

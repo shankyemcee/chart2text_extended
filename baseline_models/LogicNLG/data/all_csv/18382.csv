@@ -1,13 +1,4 @@
-province_of_Canada#Number_of_nurses
-Ontario#103877
-Quebec#72695
-British_Columbia#38041
-Alberta#35907
-Manitoba#12995
-Saskatchewan#10940
-Nova_Scotia#9508
-New_Brunswick#8019
-Newfoundland_and_Labrador#5771
-Prince_Edward_Island#1704
-Northwest_Territories/Nunavut#732
-Yukon#480
+store_type,Number_of_stores
+Retail_stores,1379
+Concession_retail_stores,800
+Partnership_stores,3000

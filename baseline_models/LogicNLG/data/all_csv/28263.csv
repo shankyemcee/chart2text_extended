@@ -1,3 +1,5 @@
-Year#Value_in_million_U.S._dollars
-2020#1249.59
-2015#93.04
+Response,Very_scared,Fairly_scared,Not_very_scared,Not_at_all_scared
+Gen_Z,26,26,27,10
+Millennials,29,31,22,10
+Gen_X,19,29,27,17
+Baby_boomers,11,27,31,21

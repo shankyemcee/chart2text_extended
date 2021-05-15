@@ -1,8 +1,9 @@
-Response#Share_of_respondents
-Daily#5.2
-A_few_times_per_week#19
-About_once_per_week#21
-A_few_times_per_month#22.7
-About_once_per_month#12.2
-Rarely#17.5
-Never#2.2
+type_of_contract,Number_of_employees_in_thousands
+Flexi-time,4222
+Annualized_hours_contract,2095
+Term_time_working,1557
+Zero_hours_contract,1052
+On-call_working,758
+4.5-day_week,241
+Jobsharing,153
+9-day_fortnight,139

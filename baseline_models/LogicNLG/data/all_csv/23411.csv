@@ -1,10 +1,5 @@
-Response#Percentage_of_respondents
-Improved_treatment_adherence#55.7
-Fewer_hospitalizations_shorter_stays#55.4
-Fewer_doctor_visits#35.7
-Lower_costs_for_prevention#31.4
-Redundant_examinations/drugs#24.2
-Reduced_investments/expensive_technologies#19.9
-Reduced_costs_for_clinical_trials#17.5
-Reduced_labor_costs#15.8
-Other#2.3
+marital_status,2017,2018,2019,2020
+Divorced,292682,290746,289126,288098
+Widowed,529457,537834,545085,544588
+Married/separated,2140830,2141429,2141704,2146017
+Never_married,2785800,2811181,2830166,2844060

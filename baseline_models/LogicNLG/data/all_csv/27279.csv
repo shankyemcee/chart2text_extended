@@ -1,6 +1,7 @@
-Response#Share_of_respondents
-Weekly/every_episode#12
-Sometimes#19
-Rarely#26
-Never/I_haven't_seen_it#41
-Don't_know#1
+star_rating,Average_price_per_night_in_U.S._dollars
+Five_star_hotels,680
+Four_star_hotels,311
+Three_star_hotels,216
+Two_star_hotels,130
+One_star_hotels,102
+Hostels,52

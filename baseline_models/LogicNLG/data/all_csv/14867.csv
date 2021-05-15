@@ -1,4 +1,7 @@
-meal#Expense_percentage
-Breakfast_(Starbucks)#17.93
-Lunch_(McDonald's)#2.83
-Dinner_(McDonald's)#1.68
+Committee_type,Number_of_PAC
+Nonconnected,4115
+Corporate,1738
+Trade/membership/health,945
+Labor,285
+Corporation_without_stock,99
+Cooperative,41

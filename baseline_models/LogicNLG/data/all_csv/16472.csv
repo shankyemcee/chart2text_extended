@@ -1,7 +1,8 @@
-Type#Market_share
-Orange_juice#36.5
-Apple_juice#15.7
-Pineapple_juice#3.3
-Peach_juice#3.5
-Flavour_mixes#19.2
-Juice_(other)#21.8
+Age_group/Gender,Share_of_users
+Male,7.5
+Female,10
+55+,2.5
+45-54,4.7
+35-44,8
+25-34,9.3
+18-24,26

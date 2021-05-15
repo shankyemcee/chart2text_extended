@@ -1,7 +1,5 @@
-type#Expenditure_in_million_GBP
-Housing_development#7433
-Community_development#2988
-Street_lighting#906
-Water_supply#793
-Housing_and_community_amenities_n.e.c.#339
-R&D_housing_and_community_amenities#2
+Response,2014,2015
+Minimum,1.58,1.89
+Meadian,9.73,11.04
+Mean,12.69,15.42
+Maximum,60.53,65.05

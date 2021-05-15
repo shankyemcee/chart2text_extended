@@ -71,7 +71,8 @@ for tableIndex in range(len(data)):
     axis_value_list=[re.findall(r".*?\|.*?[\|]",item)[0] for item in  data[tableIndex].split()]
     table_dict = convert_list_to_dict(axis_value_list)
     table_frame = pd.DataFrame(table_dict)
-    # np.savetxt(join("./data/all_csv",str(file_no)+".csv"), table_frame, delimiter='#', fmt='%s',encoding='utf8')
+    table_frame.to_csv(join("all_csv",str(file_no)+".csv"),encoding='utf8',header=None,index=False)
+    #np.savetxt(join("all_csv",str(file_no)+".csv"), table_frame, delimiter='#', fmt='%s',encoding='utf8')
     file_no+=1
 
 
@@ -130,7 +131,8 @@ for tableIndex in range(len(data)):
     axis_value_list=[re.findall(r".*?\|.*?[\|]",item)[0] for item in  data[tableIndex].split()]
     table_dict = convert_list_to_dict(axis_value_list)
     table_frame = pd.DataFrame(table_dict)
-    # np.savetxt(join("./data/all_csv",str(file_no)+".csv"), table_frame, delimiter='#', fmt='%s',encoding='utf8')
+    table_frame.to_csv(join("all_csv",str(file_no)+".csv"),encoding='utf8',header=None,index=False)
+    #np.savetxt(join("all_csv",str(file_no)+".csv"), table_frame, delimiter='#', fmt='%s',encoding='utf8')
     file_no+=1
 
 
@@ -190,7 +192,8 @@ for tableIndex in range(len(data)):
     axis_value_list=[re.findall(r".*?\|.*?[\|]",item)[0] for item in  data[tableIndex].split()]
     table_dict = convert_list_to_dict(axis_value_list)
     table_frame = pd.DataFrame(table_dict)
-    # np.savetxt(join("./data/all_csv",str(file_no)+".csv"), table_frame, delimiter='#', fmt='%s',encoding='utf8')
+    table_frame.to_csv(join("all_csv",str(file_no)+".csv"),encoding='utf8',header=None,index=False)
+    #np.savetxt(join("all_csv",str(file_no)+".csv"), table_frame, delimiter='#', fmt='%s',encoding='utf8')
     file_no+=1
 
 

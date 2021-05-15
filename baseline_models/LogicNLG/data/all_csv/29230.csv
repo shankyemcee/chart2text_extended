@@ -1,6 +1,4 @@
-Country#Export_value_in_1,000_GBP
-Hong_Kong#11.74
-United_States#6.84
-Japan#6.19
-France#1.99
-Ireland#1.89
+COVID-19_scenario,Sales_in_million_units
+Pre-crisis_scenario,16.9
+Quick-recovery_scenario,16.4
+Longer-term_scenario,14.5

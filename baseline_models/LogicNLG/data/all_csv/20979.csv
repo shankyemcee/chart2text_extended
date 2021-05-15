@@ -1,9 +1,5 @@
-Year#Spending_in_billion_euros
-2019#60.9
-2018#59.3
-2017#55.2
-2016#52.8
-2015#50.7
-2014#48.8
-2013#47.1
-2012#49.0
+Income_group,1990,2013
+High_income,75,79
+Upper_middle_income,68,74
+Lower_middle_income,59,66
+Low_income,53,62

@@ -1,10 +1,3 @@
-Year#Production_value_in_million_euros
-2016#1286.2
-2015#1279.1
-2014#1182.6
-2013#1114.6
-2012#1001.8
-2011#933.1
-2010#822.9
-2009_#664.8
-2008#912.2
+Year,Oil,Natural_gas,Coal,Nuclear_energy,Hydroelectricity,Renewable_energy
+2019,4.5,4.33,0.56,0.9,3.41,0.52
+2018,4.59,4.26,0.65,0.9,3.45,0.5

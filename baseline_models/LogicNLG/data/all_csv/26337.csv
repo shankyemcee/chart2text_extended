@@ -1,6 +1,10 @@
-State#Landings_in_million_pounds
-Alaska#5400.0
-Louisiana#1000.0
-Washington#590.0
-Virginia#362.5
-Mississippi#320.3
+region,Number_of_children
+North_West,14070
+South_East,10000
+London,9890
+West_Midlands,10050
+Yorkshire_and_The_Humber,8190
+East_of_England,6460
+South_West,6020
+East_Midlands,5630
+North_East,5020

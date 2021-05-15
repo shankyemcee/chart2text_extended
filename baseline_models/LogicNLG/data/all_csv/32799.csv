@@ -1,5 +1,7 @@
-Response#Percentage_of_population
-No_high_school_diploma#23.7
-High_school_no_college#11.5
-Some_college#7.8
-Bachelor's_degree_or_higher#3.9
+Year,Training_days_(in_millions)
+2-4_employees,3.8
+5-24_employees,4.2
+25-49_employees,4.8
+50-99_employees,4.5
+100-249_employees,4.1
+250+_employees,3.2

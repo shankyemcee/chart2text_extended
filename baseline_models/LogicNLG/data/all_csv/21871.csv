@@ -1,9 +1,5 @@
-Response#Uninsured_now#Insured_now,_had_a_gap#Continously_insured
-2018#23#19#151
-2016#23#18#147
-2014#29#23#131
-2012#36#19#129
-2010#37#15#132
-2005#32#16#125
-2003#30#16#127
-2001#24#15#123
+Response,Satisfied,Not_satisfied,Have_not_used
+Travel_agents,39,5,55
+Booking_directly,91,1,7
+With_online_travel_agencies,51,4,45
+With_travel_search_sites,70,5,25

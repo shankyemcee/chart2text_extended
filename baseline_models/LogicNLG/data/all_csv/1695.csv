@@ -1,7 +1,9 @@
-Response#Mobile#Desktop/laptop
-Daily#3#3
-Weekly#11#16
-Monthly#19#33
-A_few_times_a_year#21#34
-Once_a_year#8#7
-Never#38#7
+Response,Share_of_logins
+PC,61
+Mac,12
+iPhone,9
+iPad,5
+Android,3
+Blackberry,0.06
+Windows_Phone,0.03
+Other,10

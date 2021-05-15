@@ -1,6 +1,5 @@
-Type#Number_of_facilities
-Hospitals#211
-Ambulatory_surgery_centers#157
-Urgent_care_clinic#150
-Imaging_centers#129
-Physician_groups#127
+Response,Share_of_respondents
+Very_likely,23
+Likely,28.4
+Not_very_likely,24.6
+Not_at_all_likely,18.9

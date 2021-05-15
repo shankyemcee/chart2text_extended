@@ -1,5 +1,7 @@
-Response#Share_of_respondents
-Somewhat_positive#3
-Neutral_indifferent#39
-Somewhat_negative#56
-Difficult_to_answer#2
+Response,Share_of_respondents
+Strongly_support,27
+Somewhat_support,23
+Neither_support_or_oppose,18
+Somewhat_oppose,12
+Strongly_oppose,17
+Don't_know_/_no_opinion,3

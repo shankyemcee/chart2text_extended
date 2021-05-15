@@ -1,3 +1,13 @@
-gender#Average_time_in_hours
-Women#2.05
-Men#1.38
+retail_product,Value_in_billion_euros
+Food_and_grocery,17.5
+Electricals_and_electronics,13.4
+Clothing,9.4
+Furniture_and_floor_coverings,5.2
+Home_and_garden_products,3.2
+Personal_care,2.5
+Sports_and_leisure_equipment,1.1
+Footwear,1.1
+Jewellery_watches_and_accessories,0.6
+Books_news_and_stationery,0.3
+Music_video_and_games,0.3
+Luggage_and_leather_goods,0.2

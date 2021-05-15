@@ -1,8 +1,7 @@
-restaurant_chain#EquiTrend_score
-Panera_Bread_restaurant#69.67
-Longhorn_Steakhouse#65.35
-Bonefish_Grill#65.06
-Outback_Steakhouse#65.0
-Applebee's#62.94
-IHOP_(International_House_of_Pancakes)#62.57
-Category_Average#62.57
+Response,"Yes,_currently_using","Yes,_previously_used_but_not_currently","No,_never_used"
+18-29,15,62,24
+30-44,19,31,51
+45-54,8,25,67
+55-64,6,13,81
+65+,0,3,97
+Total,13,34,53

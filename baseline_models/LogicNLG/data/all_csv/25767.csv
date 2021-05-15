@@ -1,4 +1,7 @@
-company#Market_value_in_billion_GBP
-Total_delivered_food_market#6.2
-Pizza_delivery_market#2.1
-Domino's_Pizza_market#1.0
+Response,Share_of_retailers
+Next_day_delivery,73
+Saturday_delivery,37
+Sunday_delivery,9
+Nominated_day_delivery,16
+Same_day_delivery,10
+Nominated_time_delivery,12

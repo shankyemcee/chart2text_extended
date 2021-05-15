@@ -1,4 +1,5 @@
-Year#Growth_rate
-2015#6.7
-2014#7.3
-2013#5.4
+Response,Casual_fan,Avid_fan,Not_a_fan_at_all
+18-34,23,10,68
+35-44,22,9,70
+45-64,7,1,92
+65+,7,2,91

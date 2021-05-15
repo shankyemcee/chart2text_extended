@@ -1,10 +1,6 @@
-Year#Passengers_in_millions
-2019#36.45
-2018#33.45
-2017#32.51
-2016#32.62
-2015#38.87
-2014#39.75
-2013#36.31
-2012#39.16
-2011#36.22
+State,Average_daily_rate_in_U.S._dollars
+New_York,174
+San_Fransisco,143
+Chicago,130
+Miami,109
+Las_Vegas,85

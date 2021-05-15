@@ -1,11 +1,5 @@
-Year#Number_of_employees
-2019#325000
-2018#300000
-2017#260000
-2016#230000
-2015#200000
-2014#170000
-2013#156000
-2012#133000
-2011#99000
-2010#87000
+Monthly_income,Yes,No
+Up_to_twice_the_minimum_wage,40,60
+Twice_to_5_times_the_minimum_wage,40,60
+5_to_10_times_the_minimum_wage,59,41
+Over_10_times_the_minimum_wage,75,25

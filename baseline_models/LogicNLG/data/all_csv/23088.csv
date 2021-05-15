@@ -1,10 +1,7 @@
-Birth_order#Number_of_Hispanic_mothers
-First_child#303049
-Second_child#264775
-Third_child#174777
-Fourth_child#84987
-Fifth_child#33963
-Sixth_child#13213
-Seventh_child#5392
-Eighth_child_and_over#4152
-Not_stated#1902
+Response,Once_per_week_or_less,Two_days_per_week,Three_days_per_week,Four_days_per_week,Five_days_per_week,Six_days_per_week,Seven_days_per_week/Daily,Never,Don't_know/No_response
+16-25,2,2,2,2,4,2,65,20,1
+26-35,2,2,3,2,3,3,50,34,1
+36-45,1,2,3,2,3,2,33,52,1
+46-55,1,2,1,2,2,1,20,70,0
+56-65,1,1,1,1,2,0,12,82,1
+65+,1,1,0,1,0,0,4,93,0

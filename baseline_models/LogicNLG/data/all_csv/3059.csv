@@ -1,3 +1,11 @@
-Year#Revenue_in_million_euros
-2013#14525.69
-2012#14109.4
+Specialty_area,Number_of_physicians
+Psychiatry,265
+Surgery,391
+Anesthesiologists,287
+Emergency_medicine,401
+Radiology,323
+Cardiology,183
+Oncology_(cancer),125
+Endocrinology_diabetes_&_metabolism,49
+All_other_specialities,1410
+Total_specialty,3434

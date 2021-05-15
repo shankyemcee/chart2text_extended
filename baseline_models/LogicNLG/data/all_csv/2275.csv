@@ -1,10 +1,6 @@
-Response#Share_of_population_with_a_smartphone
-2025#77.06
-2024#75.25
-2023#74.14
-2022#72.14
-2021#68.41
-2020#63.6
-2019#57.56
-2018#50.31
-2017#42.06
+Response,Share_of_respondents
+Is_definitely_an_effective_treatment,8
+Is_possibly_an_effective_treatment,41
+Is_probably_not_an_effective_treatment,19
+Is_definitely_not_an_effective_treatment,9
+Don't_know,23

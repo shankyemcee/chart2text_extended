@@ -1,4 +1,8 @@
-TEU_capacity#Number_of_TEUs
-Owned#1551249
-Chartered#1472957
-Orderbook#115000
+procedure,Number_of_procedures
+"Cryoliopolysis_(""fat_freezing"")",287000
+Radiofrequency,162000
+Deoxycholic_acid,65000
+Microfocused_ultrasound,44000
+Other_non-invasive_treatment_of_fat_and_cellulite,35000
+Laserlipolysis,26000
+Tumescent_liposuction,18000

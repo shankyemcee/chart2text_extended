@@ -1,9 +1,5 @@
-Year#Annual_turnover_in_million_euros
-2017#32048.0
-2016#28634.7
-2015#25795.9
-2014#23934.7
-2013#23196.7
-2012#23683.3
-2011#22141.7
-2010#19776.2
+Sector,Number_of_M&A_deals
+Real_Estate_&_Construction,378
+Telecoms_&_IT,300
+Manufacturing,285
+Other,995

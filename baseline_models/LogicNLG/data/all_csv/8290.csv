@@ -1,5 +1,8 @@
-therapy_area#2016#2017#2018#2019
-Cardiovascular_and_metabolic_diseases#8116#7266#6710#6906
-Oncology#3383#4024#6028#8667
-Respiratory#4753#4706#4911#5391
-Other_disease_areas#5067#4156#3400#2601
+fire_type,Number_of_fires
+Fires_in_structures,481500
+Fires_in_brush_grass_wildland,244500
+Fires_in_rubbish,177500
+Fires_in_highway_vehicles,189500
+All_other_fires,94500
+Fires_outside_(outside-storage_crops_timber_etc.),70500
+Fires_in_other_vehicles,33500

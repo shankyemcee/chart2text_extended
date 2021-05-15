@@ -1,11 +1,6 @@
-State#Storage_in_million_bushels
-Iowa#14500
-Illinois#1500
-Kansas#1150
-Nebraska#950
-Minnesota#800
-Texas#640
-Indiana#545
-North_Dakota#475
-Ohio#465
-South_Dakota#425
+Brand_name_and_ad_description,Likability_index
+Hyundai:_First_Date,6.91
+Heinz:_Wiener_Stampede,6.64
+Doritos:_Ultrasound,6.61
+Doritos:_Doritos_Dogs,6.49
+Hyundai:_Ryanville,6.27

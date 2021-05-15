@@ -1,3 +1,7 @@
-Response#Share_of_respondents
-Important#88
-Not_important#12
+Response,Much_more,Somewhat_more,Neither_more_nor_less,Somewhat_less,Much_less,Not_applicable
+Television,24,28,27,11,7,4
+Video_games,24,24,20,5,10,16
+Internet,22,24,26,5,10,12
+Movies,21,32,29,8,6,4
+Smartphone_usage_(i.e._texting_using_apps),19,22,24,4,10,22
+Social_media,15,17,26,5,10,27

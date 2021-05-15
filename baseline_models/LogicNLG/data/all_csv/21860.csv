@@ -1,10 +1,5 @@
-Year#Ageing_index
-2020#178.4
-2019#173.1
-2018#168.9
-2017#165.3
-2016#161.4
-2015#157.7
-2014#154.1
-2013#151.4
-2012#148.6
+alcohol_consumption,Men,Women
+Did_not_drink_last_week,41,50
+Up_to_and_including_3/4,26,23
+More_than_3/4_up_to_and_incl._6/8,15,14
+More_than_6/8,19,12

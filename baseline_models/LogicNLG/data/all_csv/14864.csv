@@ -1,11 +1,4 @@
-Age_group#Share_of_respondents
-14-15#67.5
-16-17#78.9
-18-19#86.1
-20-24#91.8
-25-29#94.3
-30-39#93.4
-40-49#92
-50-59#89.2
-60-69#90.2
-70_and_older#80.4
+type,Number_of_teachers_in_millions
+Higher_secondary_school,2.61
+Secondary_school,0.23
+Primary_school,0.12

@@ -1,7 +1,9 @@
-Month#North_America#Oceania,_Eastern_&_South-Eastern_Asia#Western_Europe#Middle_East#Latin_America_&_the_Caribbean#Eastern_Europe#Central_&_Southern_Asia#Africa
-June_2017#71#49#39#28#23#17#12#2
-September_2017#73#52#42#30#26#19#13#2
-December_2017#74#56#44#30#29#22#16#3
-March_2018#78#59#46#31#31.5#25#19#3
-September_2018#78#65#50#34#37#33#26#6
-December_2018#82#67#52#35#39.5#35.5#31#6.5
+Response,Male,Female
+Multiple_disabilities,2,1.9
+Locomotor_disability,1.2,1
+Hearing,0.3,0.4
+Visual_disability,0.2,0.2
+Speech_and_language_disability,0.3,0.2
+Mental_retardation/_intellectual_disability,0.2,0.1
+Other_type_of_disability,0.1,0.1
+Mental_illness,0.1,0.1

@@ -1,4 +1,8 @@
-Year#Revenue_in_million_U.S._dollars
-2020#555.0
-2019#590.0
-2018#222.6
+Quarter,Index_points_(100_=_neutral)
+Q1_2019,101
+Q4_2018,97
+Q3_2018,100
+Q2_2018,96
+Q1_2018,93
+Q4_2017,88
+Q3_2017,91

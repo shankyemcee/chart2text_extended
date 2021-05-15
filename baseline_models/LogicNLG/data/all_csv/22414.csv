@@ -1,5 +1,8 @@
-ship_type#Max._no._allowed#Number_surrendered_to_Allies#Size_of_replacement_ships_(in_thousand_tons)#Time_before_replacement_allowed_(in_years)
-Battleships#6#8#10.0#20
-Light_cruisers#6#8#6.0#20
-Destroyers#12#42#0.8#15
-Torpedo_boats#12#50#0.2#15
+Year,Men,Women
+16-24_years,23.9,25.9
+25-34_years,27.1,27.4
+35-44_years,28.0,28.6
+45-54_years,28.8,28.6
+55-64_years,28.7,28.5
+65-74_years,29.4,28.7
+75_years_and_over,28.0,27.9

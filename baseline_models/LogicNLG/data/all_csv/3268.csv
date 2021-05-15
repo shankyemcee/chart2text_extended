@@ -1,6 +1,5 @@
-Response#Share_of_respondents
-Low_carb#33.1
-Low_sugar#25.37
-Vegan#17.48
-High_protein#13.81
-High_fiber#10.24
+Response,Share_of_population
+Not_acted_at_all,0
+Not_acted_sufficiently,22
+Has_acted_appropriately,69
+Has_overreacted,9

@@ -1,8 +1,9 @@
-Year#Number_of_asylum_applications
-2019#43783
-2018#53596
-2017#130199
-2016#123600
-2015#83970
-2014#63456
-2013#26620
+Country,Price_per_liter_in_U.S._dollars
+Italy,1.43
+United_Kingdom,1.41
+France,1.36
+Germany,1.22
+Spain,1.15
+Japan,1.03
+Canada,0.7
+United_States,0.64

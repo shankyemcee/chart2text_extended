@@ -1,7 +1,5 @@
-Year#Market_volume_in_million_euros
-2016#15732
-2015#11957
-2014#8830
-2013#6304
-2012#4564
-2011#3377
+body_mass_index,Men,Women
+Underweight,1.2,3.2
+Standard_weight,41.8,55.6
+Overweight,41,25.3
+Obesity,15.8,15.6

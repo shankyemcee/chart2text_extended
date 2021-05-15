@@ -1,4 +1,7 @@
-Response#Share_of_respondents
-Less_than_30000_U.S._dollars#74
-30000_to_74.999_U.S._dollars#72
-More_than_75000_U.S._dollars#71
+Response,Share_of_respondents
+I_always_do_this,13
+I_regularly_do_this,37
+I_sometimes_do_this,30
+I_rarely_do_this,14
+I_never_do_this,2
+Does_not_know/no_opinion,4

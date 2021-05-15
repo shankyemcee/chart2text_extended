@@ -1,7 +1,6 @@
-Year#Asia_Pacific#Middle_East_and_Africa#Central_and_Eastern_Europe#North_America#Western_Europe#Latin_America
-2017#5.88#1.22#1.38#1.26#1.02#0.75
-2018#10.35#2.05#2.15#1.8#1.47#1.18
-2019#15.91#3.25#3.12#2.5#2.06#1.72
-2020#22.81#5.01#4.32#3.41#2.81#2.42
-2021#31.81#7.56#5.83#4.48#3.8#3.31
-2022#43.17#11.17#7.75#5.85#5.12#4.44
+infectious_disease,Number_of_confirmed_cases
+Scarlet_fever,3300
+Epidemic_typhus,1990
+Dysentery,1870
+Typhoid,1657
+Coronavirus_SARS-CoV-2,45213

@@ -1,10 +1,5 @@
-Monthly_livestock_reparations#France#Belgium
-Sheep#100000#20000
-Milch_cows_(2-6_years)#90000#50000
-Heifers#0#40000
-Sows#0#15000
-Fillies_and_mares_(1.5-7_years)#300#10000
-Goats#10000#0
-Bulls_(1.5-3_years)#2000#2000
-Rams#1000#200
-Stallions_(3-7_years)#500#200
+Statistic,Number_of_daily_deaths
+Average_deaths/day_by_all_causes_(2019),7969.7
+Average_deaths/day_by_influenza_(2019-2020),331.6
+Average_COVID-19_deaths/day_since_first_case_in_U.S.,1038.8
+Number_of_COVID-19_deaths_on_January_5_2021,3543.0

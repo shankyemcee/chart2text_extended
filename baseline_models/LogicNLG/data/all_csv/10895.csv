@@ -1,7 +1,6 @@
-respond#18-29#30-44#45-54#55-64#65+
-Several_times_per_day#21#15#5#4#0
-Once_per_day#9#9#4#2#0
-A_few_times_a_week#12#7#7#2#1
-Once_a_week#10#4#1#1#0
-Less_than_once_a_week#11#9#8#6#3
-Do_not_have_an_account_or_do_not_use#36#56#76#84#95
+size_class_of_employment,Number_of_enterprises
+From_0_to_9_persons_employed,281806
+From_10_to_19_persons_employed,23376
+From_20_to_49_persons_employed,12309
+From_50_to_249_persons_employed,5331
+250_persons_employed_or_more,1090

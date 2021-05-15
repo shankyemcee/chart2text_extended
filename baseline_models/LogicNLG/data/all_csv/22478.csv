@@ -1,5 +1,3 @@
-attractiveness#Unnamed:_1
-Attractive#35
-Neither_attractive_or_obnoxious#49
-Obnoxious#6
-Not_sure#10
+Year,Ethane/LPG,Naphtha,Gasoline,Jet/Kerosene,Diesel/Gasoil,Residual_fuel,Other
+2013-2020,1.4,1.3,1,1.4,1.9,-1.6,0.3
+2020-2040,0.7,1.4,0.4,1.1,1,-0.9,0.5

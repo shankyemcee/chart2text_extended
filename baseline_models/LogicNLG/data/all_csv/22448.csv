@@ -1,8 +1,4 @@
-Year#Gross_margin_rate
-2020#43.4
-2019#44.7
-2018#43.8
-2017#44.6
-2016#46.2
-2015#46
-2014#44.8
+Month,Gigabit_Ethernet,Infiniband,Omnipath,Custom_Interconnect,Proprietary_network,Myrinet,10G
+June_2020,52.6,30.6,9.8,8.6,1,0.2,0
+June_2019,54.2,25,9.8,10.2,0.8,0,0
+June_2018,15.2,27.8,7.8,13.6,1.4,0,34.2

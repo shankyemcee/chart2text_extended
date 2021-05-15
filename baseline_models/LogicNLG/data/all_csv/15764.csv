@@ -1,8 +1,5 @@
-year#Production_volume_in_thousand_metric_tons
-FY_2019#546.39
-FY_2018#530.36
-FY_2017#535.27
-FY_2016#469.56
-FY_2015#444.35
-FY_2014#406.41
-FY_2013#404.02
+number_of_children,Average_age
+At_1st_birth,30.0
+At_2nd_birth,32.1
+At_3rd_birth,33.5
+At_4th_or_following_birth,35.1

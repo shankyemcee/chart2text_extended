@@ -1,9 +1,6 @@
-Response#Share_of_overall_output
-Commercial#30
-Private_housing#20
-Housing_R&M#16
-Non-housing_R&M#14
-Infrastructure#8
-Public_non-housing#6
-Public_housing#5
-Industrial#1
+Product,Market_share
+Socks,4
+Knee-high_stockings,9
+Children_socks,13
+Cotton_socks,19
+Stockings,55

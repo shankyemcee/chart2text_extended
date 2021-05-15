@@ -1,6 +1,7 @@
-Response#Phone_only_gamers#Tablet_only_gamers#Phone/Tablet_gamers
-Desktop/laptop#35#32#22
-Mobile_phone#41#0#24
-Game_console#19#12#19
-Handheld#4#2#6
-Tablet#0#54#30
+Year,Usage_rate
+18-29,13
+30-44,10
+45-54,4
+55-64,4
+65+,0
+Total,8

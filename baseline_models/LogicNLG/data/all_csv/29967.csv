@@ -1,7 +1,8 @@
-Gross_leasable_area_in_square_feet#Number_of_shopping_malls
-Less_than_100001#88757
-100001_to_200000#10967
-200001_to_400000#5352
-400001_to_800000#1885
-800001_to_1_million#307
-More_than_1_million#505
+Country,Change_2019-2045
+Africa,143
+Middle_East_and_North_Africa,96
+Southeast_Asia,74
+South_and_Central_America,55
+North_America_and_Caribbean,33
+Western_Pacific,31
+Europe,15

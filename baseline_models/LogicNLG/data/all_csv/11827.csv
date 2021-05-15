@@ -1,7 +1,10 @@
-Response#Much/somewhat_more_likely#Neither_more_nor_less_likely#Somewhat/much_less_likely#Don't_know/no_opinion
-People_hugging#2#35#58#5
-People_kissing#2#33#59#6
-People_shaking_hands#3#34#57#5
-People_standing_less_than_6ft_apart#10#39#47#5
-People_participating_in_video_calls#47#44#3#5
-People_practicing_'social_distancing'#51#40#4#5
+Response,Share_of_enterprises
+Industry,48
+Construction,58
+Trade,59
+Transport,40
+Accommodation_and_food_services,40
+Information_and_communication_;_computer_repair,71
+Scientific_technical_and_specialized_activities,56
+Support_and_administrative_services_real_estate,47
+Total,55

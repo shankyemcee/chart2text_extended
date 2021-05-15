@@ -1,4 +1,5 @@
-outcomes#Number_of_case_outcomes
-Convicted#32
-Justified#64
-Pending#22
+Weapon_used,Number_of_robberies
+Strong-arm,101120
+Firearm,82102
+Other_weapon,23150
+Knife_or_cutting_instrument,19129

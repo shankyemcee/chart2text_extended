@@ -1,10 +1,6 @@
-Response#Very_favorable#Somewhat_favorable#Somewhat_unfavorable#Very_unfavorable#Not_sure
-Brett_Kavanaugh#15#17#12#24#32
-Neil_Gorsuch#12#19#13#10#47
-Elena_Kagan#13#14#9#12#52
-Sonia_Sotomayor#19#18#9#14#39
-Samuel_Alito#10#16#11#11#53
-John_Roberts#7#25#16#8#44
-Stephen_Breyer#7#16#11#7#59
-Ruth_Bader_Ginsburg#28#17#8#18#29
-Clarence_Thomas#19#17#10#19#35
+responce,Total,18_to_29_years,30_to_59_years,60_years_and_older
+Yes_myself,14,24,16,6
+Yes_a_relative/close_friend,11,14,12,8
+Yes_an_acquaintance,8,13,8,6
+Yes_a_co-worker,9,14,10,6
+No_I_don't_know_anybody,67,54,66,78

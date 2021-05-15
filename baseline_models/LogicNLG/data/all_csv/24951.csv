@@ -1,5 +1,7 @@
-export_and_import_in_quarter#Scenario_1_(Covid-19_ends_in_Q1_2020)#Scenario_2_(Covid-19_ends_in_Q2_2020)
-Import_turnover_in_Q2_2020#0#-16
-Export_turnover_in_Q2_2020#0#-20
-Import_turnover_in_Q1_2020#-13#0
-Export_turnover_in_Q1_2020#-21#0
+Response,Share_of_market
+Online_sports_betting,42.5
+Online_casinos,32.4
+Lottery,12.6
+Online_poker,5
+Bingo,4.3
+Others,3.2

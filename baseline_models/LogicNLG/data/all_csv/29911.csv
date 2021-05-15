@@ -1,6 +1,7 @@
-Year#0_-_500_million_U.S._dollars#501_-2,000_million_U.S._dollars#2,001_-_10,000_million_U.S._dollars#Over_10,001_million_U.S._dollars
-2012#23.2#28.3#30.6#17.9
-2011#24.8#26.3#33.9#15
-2010#24.8#27.5#32.5#15.4
-2009#22.5#20.5#27.5#29.6
-2008#23.4#19.3#27.9#29.4
+Year,Number_of_seizures
+1_-_50_doses,298
+51_-_100_doses,44
+101_-_500_doses,64
+501_-_1000_doses,11
+1001_-_10000_doses,16
+Over_10000_doses,1

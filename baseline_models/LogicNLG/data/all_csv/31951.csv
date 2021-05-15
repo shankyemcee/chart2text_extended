@@ -1,10 +1,6 @@
-Year#Revenue_in_million_GBP
-2019#8405
-2018#7802
-2017#8234
-2016#8215
-2015#8053
-2014#8440
-2013#8478
-2012#10896
-2011#11035
+Service_setting,Number_of_facilities
+Total_number_of_facilities,12472
+24-hour_hospital_inpatient,1892
+24-hour_residential,1979
+Less_than_24-hour_day_treatment_or_partial_hospitalization,1901
+Less_than_24-hour_outpatient,9766

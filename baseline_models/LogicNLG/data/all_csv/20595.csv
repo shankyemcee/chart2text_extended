@@ -1,5 +1,3 @@
-Response#Share_of_population
-18_to_29_years#100
-30_to_49_years#97
-50_to_64_years#88
-65+_years#73
+Year,Smartphone,Tablet,Speaker,Wearable,Enterprise_edge
+2024,1000,100,150,100,250
+2020,500,75,75,50,50

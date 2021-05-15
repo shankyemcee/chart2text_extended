@@ -1,6 +1,5 @@
-Country#Autos#Trucks_and_buses#Other_vehicles
-Total#74.5#16.2#9.3
-Northeast#86.1#3.8#10
-Midwest#83.5#8.6#8
-South#70.1#19.2#10.8
-West#73.4#18.3#8.3
+Response,Female,Male
+0_check-ups,19,19
+Up_to_three_check-ups,62,62
+Up_to_five_check-ups,10,12
+More_than_five_check-ups,9,7

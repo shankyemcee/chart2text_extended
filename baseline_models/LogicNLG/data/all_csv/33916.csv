@@ -1,9 +1,4 @@
-Response#Students#Employed#Retired
-Look_at_pictures#93#73#47
-Download_music#92#65#25
-Listen_to_music#90#71#32
-Watch_movies_videos#81#55#17
-Watch_TV_programs#81#60#27
-Play_games#74#55#25
-Gamble#12#25#12
-Look_at_sexual_content#12#16#3
+type_of_country,1980,2005
+Industrial_countries,14.3,13
+Developing_countries,2.5,8
+World_total,5.5,9

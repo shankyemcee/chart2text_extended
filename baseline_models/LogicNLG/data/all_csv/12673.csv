@@ -1,10 +1,7 @@
-Year#Production_volume_in_thousand_metric_tons
-2018#600
-2017#582
-2016#400
-2015#209
-2014#351
-2013#302
-2012#306
-2011#290
-2010#294
+Response,Share_of_respondents
+No,72
+Lactose_intolerance,16
+Gluten_intolerance,5
+Generic_food_intolerance,4
+Generic_food_allergy,4
+Other,3

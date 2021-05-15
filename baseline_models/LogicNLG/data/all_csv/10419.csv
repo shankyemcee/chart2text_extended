@@ -1,8 +1,9 @@
-Country#Overall_earnings_in_thousand_U.S._dollars
-United_States#313
-Germany#163
-United_Kingdom#138
-France#108
-Spain#63
-Brazil#58
-Mexico#22
+Relationship,Share
+Father_-_son,31
+Husband_-_wife,24
+Mother_-_son,23
+Father_-_daughter,21
+Boyfriend_-_girlfriend,12
+Mother_-_daughter,11
+Brother_-_sister,10
+Brother_-_brother,9

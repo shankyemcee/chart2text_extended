@@ -1,5 +1,6 @@
-Response#Percentage_of_respondents
-A_lot#31
-Some#44
-Not_much#13
-Nothing_at_all#12
+Response,Remain,Leave
+Degree,74,26
+Higher_ed._below_degree,55,45
+A_level_or_equivilant,44,56
+O_level/GCSE,46,54
+No_qualification,35,65

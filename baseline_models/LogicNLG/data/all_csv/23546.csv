@@ -1,6 +1,7 @@
-Response#Share_of_respondents
-18-24_years#45
-25-34_years#29
-35-49_years#25
-50-64_years#16
-65_and_older#27
+Response,Meets_recommendations,Some_activity,Low_activity
+Boys_-_Not_overweight_or_obese,24,41,35
+Boys_-_Overweight,18,50,33
+Boys_-_Obese,24,36,41
+Girls_-_Not_overweight_or_obese,22,36,43
+Girls_-_Overweight,16,39,45
+Girls_-_Obese,13,37,50

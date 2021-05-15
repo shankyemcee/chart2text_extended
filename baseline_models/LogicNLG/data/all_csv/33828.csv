@@ -1,6 +1,10 @@
-Response#Share_of_respondents
-Ethnic-inspired_breakfast#63
-Avocado_toast#45
-Traditional_ethnic_breakfast#39
-Overnight_oats#36
-Breakfast_hash#29
+Device,Growth_rate_before_COVID-19,Minimum_growth_rate_after_COVID-19,Maximum_growth_rate_after_COVID-19
+Smartphones,-0.2,-10,-15
+PCs,-1.9,-8,0
+Tablets,-9.9,-15,-17
+Wearables,0,15,19
+Smart_home,0,13,16
+Feature_phones,0,-12,-17
+Smart_watches,0,1,3
+Wrist_bands,0,4,8
+Earwear,0,20,26

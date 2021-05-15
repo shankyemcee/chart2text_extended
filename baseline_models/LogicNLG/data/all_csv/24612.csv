@@ -1,4 +1,8 @@
-pacients_type#Male#Female
-All_patients#15.6#12.4
-Patients_with_underlying_health_conditions#51.1#39.9
-Patients_without_underlying_health_conditions#8.6#6.7
+Year,Mean_amount_given_per_giver_in_GBP
+2019/20,24
+2018/19,24
+2017/18,22
+2016/17,22
+2015/16,22
+2014/15,20
+2013/14,22

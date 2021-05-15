@@ -1,6 +1,9 @@
-Year#Index_points
-2015#94.98
-2016#94.81
-2017#105.21
-2018#101.52
-2019#108.08
+Response,Percentage_of_deaths_by_non-communicable_disease
+Cardiovascular_diseases,30
+COPD/Asthma,22
+Stroke,16
+Malignant_neoplasms,12
+Digestive_diseases,9
+Genitourinary_diseases,4
+Diabetes_mellitus/endocrine_disorders,4
+Neuropsychiatric_conditions,3

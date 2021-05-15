@@ -1,7 +1,5 @@
-sector#Turnover_in_thousand_euros
-Food#2293002
-Beverages_and_bottled_food#2053439
-Other_(tissue_tobacco_etc)#1583697
-Biomedical_and_pharma#1360092
-Cosmetics_and_personal_care#824114
-Chemicals_and_home_care#290951
+year,Somewhat_important,Important,Extremely_important
+Administrators_2012,7,42,50
+Administrators_2008,8,34,43
+Parents_2012,9,33,56
+Parents_2008,6,29,49

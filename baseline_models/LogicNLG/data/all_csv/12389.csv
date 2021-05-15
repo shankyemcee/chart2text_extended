@@ -1,11 +1,6 @@
-Consumer_goods_companies#Net_sales_in_million_U.S._dollars
-Samsung_Electronics_Co._Ltd.#210397
-Sony_Corporation#66756
-LG_Electronics_Inc.#53489
-Lenovo_Group_Limited#38707
-Bridgestone_Corporation#36609
-Haier_Group_Company#29127
-Japan_Tobacco_Inc.#23974
-Suntory_Holdings_Limited#20932
-Kirin_Holdings_Company_Limited#19943
-Midea_Group_Co._Ltd.#19544
+Quarter,Net_percentage_spending_more
+Q4_2015,0
+Q4_2014,1
+Q4_2013,-9
+Q4_2012,-11
+Q4_2011,-21

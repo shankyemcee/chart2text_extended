@@ -1,4 +1,4 @@
-import utils.tokenizer as tkn
+import tokenizer as tkn
 import os
 
 def groupSequence(lst):
@@ -35,19 +35,24 @@ def addUnderscores(cleanTitle, uppercaseWords):
                         del newTitle[start:end]
         return newTitle
 
-
-titlePaths = os.listdir('../dataset/titles_old/')
+dataset_dir = "../../../../c2t_dataset_pew/dataset/"
+# title_dir = "titles_old/"
+title_dir = "multiColumn/titles_old/"
+# new_title_dir="titles/"
+new_title_dir="multiColumn/titles/"
+titlePaths = os.listdir(dataset_dir+title_dir)
 titlePaths.sort()
 
 for summaryPath in titlePaths:
-        with open('../dataset/titles_old/'+summaryPath, 'r', encoding='utf-8') as titleFile:
+        with open(dataset_dir+title_dir+summaryPath, 'r', encoding='utf-8') as titleFile:
                 title = titleFile.read()
                 cleanTitle = tkn.word_tokenize(title)
                 # replace (2009 - 2016) with (2009 to 2016)
                 lastTokens = cleanTitle[-3:]
-                if lastTokens[1] == '-' and lastTokens[0].isnumeric() and lastTokens[2].isnumeric():
+                if len(lastTokens) > 1:
+                    if lastTokens[1] == '-' and lastTokens[0].isnumeric() and lastTokens[2].isnumeric():
                         cleanTitle[-2] = 'to'
-                newTitlePath = '../dataset/titles/' + summaryPath
+                newTitlePath = dataset_dir+new_title_dir + summaryPath
                 with open(newTitlePath, "w", encoding='utf-8') as outf:
                         # remove asterisks
                         cleanTitle = ' '.join(cleanTitle).replace('*', '')

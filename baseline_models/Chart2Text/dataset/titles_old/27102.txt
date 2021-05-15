@@ -1,1 +1,0 @@
-Electricity export volume from the United States between 1999 and 2019 (in gigawatt hours)

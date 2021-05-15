@@ -1,4 +1,5 @@
-Year#Western_Europe#Developed_APAC#China#North_America#Other_regions
-2016#17#16#33#50#5
-2015#9#10#19#37#3
-2014#4#6#1#23#1
+Household_income_in_U.S._dollars,Mothers,Fathers
+90000_or_more,77,94
+60000_to_89999,76,91
+24999_to_59999,67,85
+Less_than_24000,45,64

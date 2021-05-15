@@ -1,6 +1,5 @@
-Response#Share_of_respondents
-5_to_10_minutes#2.7
-10_to_20_minutes#23.7
-20_to_30_minutes#38.1
-30_minutes_to_one_hour#31
-Over_one_hour#4.6
+Response,Percentage_of_respondents
+Mobile_wallet,71
+In-store_digital_payment,66
+Mobile_checkout_device_assisted_by_store_associate,65
+Retailer's_app,61

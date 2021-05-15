@@ -1,5 +1,4 @@
-Response#Percentage_of_respondents
-Smartphone#37
-Tablet#24
-Computer_(laptop/desktop)#68
-I_will_not_use_digital_devices#15
+Response,18-29_years,30-59_years,60_years_and_older
+Yes_I_am,61,42,18
+No_but_I'm_considering_it,24,20,16
+No_I'm_not,15,38,66

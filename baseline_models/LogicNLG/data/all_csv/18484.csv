@@ -1,8 +1,4 @@
-Ethnicity#Number_of_degrees
-White#107415
-Non-_resident_alien#23199
-Asian/_Pacific_Islander#20762
-Black#14241
-Hispanic#13253
-Two_or_more_races#4497
-American_Indian/_Alaska_Native#707
+bed_type,Number_of_hospital_beds_in_thousands
+Hospitalization_beds,118.42
+Ambulatory_beds,45.04
+Multiple_use_beds,3.34

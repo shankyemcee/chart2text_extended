@@ -1,4 +1,5 @@
-Response#Less_than_10#Between_10_and_25#Between_25_and_50#Between_50_and_75#More_than_75#I_have_lost_all_my_income
-Germany#14#41#29#6#6#5
-United_Kingdom#12#48#19#8#7#7
-United_States#15#34#20#14#5#13
+Response,English_Premier_League_(EPL),Spanish_Primera_Division_(La_Liga),Italian_Serie_A,German_Bundesliga,French_Ligue_1,I_don't_follow_any_of_these_leagues
+White,10,2,1,1,0,85
+Hispanic,13,16,3,1,2,65
+African_American,13,5,2,1,1,77
+Other,14,12,1,2,2,70

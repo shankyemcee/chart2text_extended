@@ -1,6 +1,11 @@
-Response#Do_not_know_/_No_answer#Approve#Somewhat_approve_/_disapprove#Dissaprove
-June_2018#1#3#14#82
-November_2017#1#5#23#71
-June_2017#2#7#23#69
-December_2016#5#10#34#51
-July_2016#13#14#42#31
+Specialty_area,Number_of_physicians
+Psychiatry,109
+Surgery,141
+Anesthesiologists,114
+Emergency_medicine,166
+Radiology,203
+Cardiology,47
+Oncology_(cancer),32
+Endocrinology_diabetes_&_metabolism,15
+All_other_specialities,535
+Total_specialty,1362

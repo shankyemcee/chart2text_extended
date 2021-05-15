@@ -1,6 +1,7 @@
-Year#Risk_index_score
-2019#5.41
-2018#5.8
-2017#6.69
-2016#6.74
-2015#6.63
+Response,Share_of_waste_produced
+Paper,32
+Organic_waste,27
+Plastic,11
+Glass,7
+Metal,6
+Other,17

@@ -1,7 +1,6 @@
-hotel_type#Average_price_per_night_in_U.S._dollars
-Five_star_hotels#669
-Four_star_hotels#410
-Three_star_hotels#335
-Two_star_hotels#269
-One_star_hotels#168
-Hostels#65
+Region,Revenue_share
+Western_Europe,33
+Asia-Pacific,32
+North_America,20
+Japan,9
+Other_countries,6

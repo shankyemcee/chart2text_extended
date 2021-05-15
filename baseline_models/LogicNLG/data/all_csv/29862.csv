@@ -1,5 +1,12 @@
-Response#Share_of_respondents
-Uncomfortable#38
-Moderately_comfortable#24
-Comfortable#29
-Don't_know#9
+App_Store,Commission_rate
+Apple_App_Store_(standard),30
+Apple_App_Store_(subscriptions),15
+Google_Play_(standard),30
+Google_Play_(subscriptions_after_12_months),15
+Amazon_Appstore_(standard),30
+Amazon_Apptore_(subscriptions_after_12_months),15
+Samsung_Galaxy_Store_(standard_unless_otherwise_agreed_upon),30
+Microsoft_Store_(games),30
+Microsoft_Store_(sales_in_Business_and_Education_stores),30
+Microsoft_Store_(for_Windows_8_devices),30
+Windows_Store_(other),15

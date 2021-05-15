@@ -1,3 +1,8 @@
-Year#Market_size_in_billion_U.S._dollars
-2024#11.93
-2016#4.15
+Response,2015,2016,2017,2018
+Warehouse_execution_system_(WES),0,0,0,6
+On-demand_/_Cloud_/_SaaS,3,3,5,9
+Product_slotting_functionality,6,8,9,0
+Labor_management_systems_(LMS),10,10,12,15
+Best-of-breed_WMS,16,11,13,19
+ERP_with_a_WMS_module,34,39,36,33
+Legacy_WMS,35,35,42,43

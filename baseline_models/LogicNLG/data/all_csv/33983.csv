@@ -1,9 +1,5 @@
-fast_food_restaurant_chain#EquiTrend_score
-Subway_Restaurants#73.07
-Dairy_Queen#69.56
-Wendy's_Restaurant#68.67
-Five_Guys_Burgers_and_Fries#68.32
-Chik-fil-A#66.16
-McDonald's_Restaurants#64.65
-Burger_King_Restaurants#62.84
-Category_Average#61.67
+region_of_America,Number_of_persons_with_asthma_(in_millions),Mean_prevalence_of_clinical_asthma_(in_)
+North_America,35.5,11.2
+South_America,34.7,9.9
+Central_America,5.2,3.8
+Caribbean,3.4,10.4

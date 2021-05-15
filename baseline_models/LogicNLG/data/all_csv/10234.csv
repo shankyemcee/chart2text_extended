@@ -1,11 +1,4 @@
-State#Number_of_Medicare_beneficiaries
-California#6124095
-Florida#4412700
-Texas#4018970
-New_York#3559173
-Pennsylvania#2683395
-Ohio#2295136
-Illinois#2193624
-Michigan#2024434
-North_Carolina#1931885
-Georgia#1676019
+political_party,Number_of_seats
+Democratic_Party,200
+Vacancies,2
+Republican_Party,233

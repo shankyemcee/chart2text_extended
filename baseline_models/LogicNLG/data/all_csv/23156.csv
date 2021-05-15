@@ -1,4 +1,8 @@
-type#Area_of_land_in_thousand_hectares
-Permanent_meadows_and_pastures#324700
-Arable_land#46048
-Permanent_crops#330
+Medium,2018,2014
+Traditional_television,82,90
+Printed_press,79,88
+Traditional_radio,78,87
+Internet_on_smartphone,74,51
+Internet_on_smartTV,25,10
+Internet_on_tablet,25,21
+Internet_on_console,9,8

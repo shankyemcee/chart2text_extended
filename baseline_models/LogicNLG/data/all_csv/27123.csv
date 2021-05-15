@@ -1,11 +1,5 @@
-bank#Deal_value_in_billion_U.S._dollars
-Rothschild#78.07
-Morgan_Stanley#50.02
-Lazard#45.26
-Credit_Agricole#41.21
-Goldman_Sachs#37.77
-Credit_Suisse#29.61
-BNP_Paribas#24.96
-Bank_of_America_Merrill_Lynch#24.04
-JPMorgan#15.94
-Societe_Generale#14.96
+Country,Number_of_players_abroad
+Brazil,1535
+Argentina,913
+Colombia,457
+Uruguay,358

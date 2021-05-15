@@ -1,6 +1,4 @@
-illicit_drugs#Minimum_price#Maximum_price
-Cannabis_(resin)#5.35#13
-MDMA#3.0#13
-Cocaine#40.0#133
-Amphetamine#5.0#40
-Heroin#40.0#133
+Month,Monthly_revenue_(in_million_U.S._dollars)
+August_2012,4.1
+September_2012,12.2
+October_2012,35.3

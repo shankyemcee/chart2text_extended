@@ -1,10 +1,4 @@
-Year#Number_of_enterprises
-2016#1540
-2015#1563
-2014#1567
-2013#1531
-2012#1508
-2011#1483
-2010#1572
-2009#1759
-2008#1938
+gender,Number_of_cases_in_millions
+Men,19.79
+Women,17.78
+Total,37.57

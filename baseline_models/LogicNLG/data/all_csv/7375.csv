@@ -1,5 +1,9 @@
-Response#Share_of_respondents
-Cash#41
-Debit_card#20
-Credit_card#20
-Through_mobile_phone#19
+Year,Number_of_establishments
+1-4_employees,802
+5-9_employees,429
+10-19_employees,278
+20-49_employees,163
+50-99_employees,52
+100-199_employees,23
+200-499_employees,10
+500+_employees,2

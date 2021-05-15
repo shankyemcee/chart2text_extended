@@ -1,9 +1,6 @@
-Country#Average_annual_growth_rate
-Eastern_Europe_&_Central_Asia#6.8
-North_America#5
-Fast-track_Asia#5
-Latin_America#4.5
-Advanced_Asia#3
-Western_&_Central_Europe#2.8
-Japan#2.8
-MENA#0.8
+Response,Yes,No
+16_to_24_years,27,73
+25_to_34_years,38,62
+35_to_44_years,35,65
+45_to_54_years,30,70
+55_years_and_over,24,76

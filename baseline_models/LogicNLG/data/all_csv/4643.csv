@@ -1,12 +1,4 @@
-Year#GDP_growth_rate_compared_to_previous_year
-2025#1.01
-2024#2.43
-2023#3.74
-2022#5.58
-2021#4.12
-2020#-9.5
-2019#1.87
-2018#1.93
-2017#1.51
-2016#-0.19
-2015#-0.44
+Indicator,Value
+Number_of_informal_workers_(in_millions),38.3
+Monthly_expense_needed_to_avoid_that_informal_workers_fall_below_the_poverty_threshold_(in_billion_Brazilian_reals),9.5
+Monthly_allowance_needed_to_avoid_falling_below_the_poverty_threshold_per_informal_worker_(in_Brazilian_reals),250.0

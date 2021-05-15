@@ -1,11 +1,5 @@
-tablet_PC_vendors#Market_share
-Apple#72.66
-Lenovo#8.38
-Eben#3.63
-Samsung#3.59
-Acer#3.27
-Asustek#1.86
-Teclast#0.98
-Ramos#0.62
-Aigo#0.33
-Motorola_Mobility#0.26
+Response,A_frequent_air_traveler,An_occasional_air_traveler,Never_flown
+Northeast,7,69,23
+Midwest,6,69,25
+South,5,71,24
+West,12,75,13

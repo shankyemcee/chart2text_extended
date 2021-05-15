@@ -1,10 +1,4 @@
-Response#Male#Female
-Facebook#78#80
-TV#37#33
-Instagram#35#28
-Twitter#33#26
-Newspapers#31#25
-Magazines#23#16
-Radio#14#13
-Other#13#11
-None_of_these#5#6
+Type_of_automobile,Number_of_registered_automobiles
+Publicly_owned,52359
+Private_and_commercial_(including_taxicabs),3485821
+Total,3538180

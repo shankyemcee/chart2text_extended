@@ -1,5 +1,12 @@
-type#Consumption_per_capita_in_kilograms
-Poultry#7.66
-Beef_and_veal#2.01
-Pork#1.01
-Sheep#0.43
+Year,Inhabitants_in_millions
+2025,5.25
+2024,5.2
+2023,5.15
+2022,5.11
+2021,5.06
+2020,5.01
+2019,4.95
+2018,4.89
+2017,4.83
+2016,4.77
+2015,4.71

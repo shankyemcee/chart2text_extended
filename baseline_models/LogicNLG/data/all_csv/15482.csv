@@ -1,8 +1,3 @@
-Case_status#Number_of_cases
-Confirmed_cases(incl.active/recovered/deaths)#30017
-Active#3253
-Recovered#26263
-Death#501
-Test_in_progress#48143
-Tested_negative#2795283
-Total_tested#2873443
+Year,Market_share
+2018,12
+2014,12.6

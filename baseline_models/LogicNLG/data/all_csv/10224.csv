@@ -1,9 +1,5 @@
-Year#Value_in_billion_Qatari_Riyal
-2028#199.3
-2018#61.4
-2017#59.6
-2016#58.8
-2015#55.1
-2014#45.0
-2013#36.7
-2012#31.9
+Type,Number_of_MFIs
+Credit_Institutions,5551
+Money_Market_Funds,455
+Other_Financial_Institutions,241
+Central_Bank_(NCBs_/_ECB),28

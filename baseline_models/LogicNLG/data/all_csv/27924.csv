@@ -1,11 +1,4 @@
-Players#Number_of_home_runs
-Carlos_Delgado#1058
-Vernon_Wells#813
-Jose_Bautista#766
-George_Bell#740
-Joe_Carter#736
-Edwin_Encarnacion#679
-Lloyd_Moseby#651
-Tony_Fernandez#613
-Jesse_Barfield#527
-Adam_Lind#519
+outcomes,Number_of_case_outcomes
+Convicted,32
+Justified,64
+Pending,22

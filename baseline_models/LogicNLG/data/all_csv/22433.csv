@@ -1,8 +1,7 @@
-Year#Forecasted_migration_balance_in_millions
-2045-2050#11.69
-2040-2045#11.74
-2035-2040#11.77
-2030-2035#11.69
-2025-2030#11.11
-2020-2025#10.72
-2015-2020#14.01
+Year,Yandex.Market_+_Beru,Ozon,Wildberries,Aliexpress_Russia_(Tmall),Other_online_stores
+2023,25,16,7,14,37
+2022,24,15,7,11,43
+2021,22,13,7,8,49
+2020,20,12,7,5,56
+2019,18,10,7,2,63
+2018,16,9,7,1,67

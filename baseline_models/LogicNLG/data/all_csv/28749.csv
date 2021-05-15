@@ -1,8 +1,7 @@
-Response#Share_of_servings
-Monday#7.8
-Tuesday#18.6
-Wednesday#25.3
-Thursday#13.7
-Friday#12.6
-Saturday#11.8
-Sunday#10.2
+Country,OTC_reading_glasses,Contact_lenses
+United_States,23.8,31.6
+Germany,7.1,8.3
+Italy,4.3,10.7
+Spain,2.2,8.5
+United_Kingdom,2.2,7.2
+France,1.0,5.6

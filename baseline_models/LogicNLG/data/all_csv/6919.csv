@@ -1,7 +1,10 @@
-Year#Consumption_volume_in_kilotons_of_oil_equivalent
-2018#159
-2017#166
-2016#149
-2015#142
-2014#135
-2010#124
+application,Market_share
+Personal_health_and_nursing_assistants,24
+Real-time_monitoring,20
+Robot-assisted_surgery,13
+Administrative_workflow_assistance,11
+Clinical_trials,10
+Precision_medicine,8
+Drug_development_and_discovery,5
+Diagnostic_and_clinical_decision_support,5
+Other,4

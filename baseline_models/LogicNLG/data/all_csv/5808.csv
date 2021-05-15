@@ -1,10 +1,6 @@
-Year#Dependency_ratio
-2020#36.2
-2019#35.7
-2018#35.2
-2017#34.8
-2016#34.3
-2015#33.7
-2014#33.1
-2013#32.7
-2012#32
+Response,Share_of_respondents
+Never,24
+Every_few_hours,43
+Every_hour,10
+Multiple_times_per_hour,13
+Constantly,10

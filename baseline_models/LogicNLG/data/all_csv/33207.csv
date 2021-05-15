@@ -1,9 +1,8 @@
-Country#Share_in_total_export
-United_Kingdom#21.1
-Germany#15.5
-Netherlands#9.9
-Sweden#6.6
-France#6.4
-Belgium#4.8
-Denmark#4.7
-United_States#4.6
+Response,Less_than_once_a_day,1-3_times_per_day,4-7_times_per_day,8-10_times_per_day,More_than_10_times_per_day,Don't_know_/_no_opinion
+Update_social_media,43,27,10,5,6,9
+Make_phone_calls,24,44,17,7,6,4
+Respond_to_text_messages,16,30,19,13,18,4
+Take_photos_or_record_videos,51,27,8,3,4,7
+Listen_to_music_audiobooks_or_podcasts,48,23,8,4,5,12
+Watch_television_movies_or_other_video_content,49,22,9,3,5,11
+Use_GPS_navigation_or_call_a_ride_through_a_ridehailing_app,63,18,3,1,2,12

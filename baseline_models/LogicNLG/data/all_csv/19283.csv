@@ -1,12 +1,3 @@
-Year#Life_expectancy_at_birth_in_years
-2008#73.65
-2009#74.07
-2010#74.51
-2011#74.94
-2012#75.37
-2013#75.78
-2014#76.17
-2015#76.53
-2016#76.86
-2017#77.16
-2018#77.44
+northern_and_southern_parts,Min_estimate,Max_estimate
+Northern_States,110,140
+Southern_States,57,78

@@ -1,9 +1,6 @@
-Year#Ease_of_doing_business_score
-2020#84.0
-2019#84.0
-2018#84.14
-2017#83.92
-2016#84.07
-2015#83.88
-2014#83.4
-2013#83.7
+model_series,Market_share
+Apple_iPhone_7,9
+Apple_iPhone_7_Plus,6
+Samsung_Galaxy_J3,5
+Huawei_P9_Lite,5
+Samsung_Galaxy_S7_Edge,4

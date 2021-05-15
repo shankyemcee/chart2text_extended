@@ -1,7 +1,10 @@
-Response#Non-Hispanic#Hispanic
-Store_website#32#40
-3rd_party_website#23#29
-DIY_videos#18#31
-Mobile_coupons#16#23
-Social_media#15#23
-QR_codes#12#18
+Year,Fatality_rate
+0-9_years,0
+10-19_years,0.2
+20-29_years,0.2
+30-39_years,0.2
+40-49_years,0.4
+50-59_years,1.3
+60-69_years,3.6
+70-79_years,8
+80_years_and_older,14.8

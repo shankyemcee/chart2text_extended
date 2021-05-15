@@ -1,3 +1,13 @@
-Year#Number_of_users_in_millions
-2020#40.0
-2019#33.6
+Response,Leisure_travelers,Business_travelers
+Internet,74,77
+Family_friends_and_colleagues_offline,48,35
+Family_friends_and_colleagues_online,26,27
+Informational_brochures,23,26
+TV,20,28
+Magazines_and_newspapers,18,27
+Books,14,20
+Travel_agents,13,30
+800_or_toll-free_number,10,19
+Travel_groups,7,18
+Radio,7,14
+Other,5,6

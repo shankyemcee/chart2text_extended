@@ -1,11 +1,6 @@
-Country#Revenue_in_million_U.S._dollars
-Europe#19000.7
-Asia_and_Australia#15922.2
-United_States#13277.9
-Middle_East#10107.4
-Canada#5963.0
-Latin_America#3626.0
-South/Central_Africa#2611.8
-North_Africa#1221.8
-Caribbean_Island#145.1
-Arctic_and_Antartic#0.4
+concern_level,North-West,North-East,Center,South,Islands
+Very_concerned,26.7,38.2,28.7,30.7,43.5
+Fairly_concerned,43.4,35.6,44,44.4,32.8
+Little_concerned,22.3,22.3,19.2,18.9,18.1
+Not_at_all_concerned,6.5,2.7,7.5,5.1,4.3
+I_don't_know/No_answer,1.1,1.2,0.6,0.9,1.3

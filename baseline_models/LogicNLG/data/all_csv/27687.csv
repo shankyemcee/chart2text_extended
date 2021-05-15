@@ -1,9 +1,5 @@
-Year#Number_of_prescriptions_in_millions
-2008#31.8
-2007#36.4
-2006#40.7
-2005#49.9
-2004#51.2
-2003#61.3
-2002#93.1
-2001#112.2
+continent,Number_of_power_stations_to_be_closed_down
+Europe,165
+U.S.,71
+Asia,59
+Middle_East/Africa,2

@@ -1,11 +1,5 @@
-Musician#Number_of_streams_in_billions
-Post_Malone#6.7
-Drake#6.35
-Billie_Eilish#4.99
-Ariana_Grande#4.98
-Youngboy_Never_Broke_Again#4.88
-Juice_Wrld#3.91
-XXXTentacion#3.64
-Taylor_Swift#3.54
-Eminem#3.48
-Khalid#3.26
+Response,Very_worried,Quite_worried,Neither/nor,Not_particularly_worried,Not_worried_at_all,Don't_know
+January_2017,7,32,28,27,6,1
+August_2016,8,34,25,26,6,1
+June_2016,8,33,25,28,6,0
+January_2015,5,29,23,34,8,1

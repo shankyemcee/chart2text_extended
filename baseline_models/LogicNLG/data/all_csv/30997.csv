@@ -1,9 +1,8 @@
-Year#Travel_network#Airline_and_hospitality_solutions
-2019#2.88#1.13
-2018#2.81#1.1
-2017#2.55#1.07
-2016#2.37#1.02
-2015#2.1#0.87
-2014#1.85#0.79
-2013#1.82#0.71
-2012#1.8#0.6
+Transportation_mode,Value_in_billion_U.S._dollars
+Truck,16219
+Multiple_modes_and_mail,3393
+Pipeline,1546
+Rail,646
+Water,340
+Air_air_and_truck,324
+Other_and_unknown,0

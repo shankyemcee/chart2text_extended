@@ -1,11 +1,6 @@
-major_political_parties#Number_of_likes_in_thousands
-Labour#1095.61
-Conservatives#730.01
-UKIP#554.74
-SNP#319.6
-Green#313.61
-Sinn_Féin#215.0
-Liberal_Democrats#207.47
-Brexit_Party#159.56
-Plaid_Cymru#37.78
-DUP#20.18
+Year,Paid_by_enrollee,Paid_by_CMS
+2020,25,75
+2019,37,63
+2018,44,56
+2017,51,49
+2016,58,42

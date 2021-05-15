@@ -1,1 +1,0 @@
-Stock price of ABN AMRO at Euronext Amsterdam from August 2019 to January 2021 ( in euros )

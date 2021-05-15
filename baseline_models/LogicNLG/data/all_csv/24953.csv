@@ -1,5 +1,10 @@
-State#Number_of_customer_outages
-Massachusetts#402814
-Rhode_Island#185908
-Connecticut#38052
-New_York#13973
+Response,Percentage_of_patients
+$0.00-$9.99,8
+$10.00-$19.99,12
+$20.00-$29.99,14
+$30.00-$39.99,16
+$40.00-$49.99,21
+$50.00-$74.99,29
+$75.00-$124.99,35
+$125.00-$250.00,52
+$250.01+,69

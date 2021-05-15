@@ -1,8 +1,8 @@
-Type_of_organization#Voluntary_patients#Involuntary,_non-Forensic#Involuntary,_Forensic
-State_and_County_Psychiatric_Hospitals#18#37#46
-Private_Psychiatric_Hospitals#63#32#5
-General_Hospital_with_Separate_Psychiatric_Units#61#37#3
-Veterans_Affairs_Medical_Centers#80#15#5
-RTC_For_Children#81#13#6
-RTC_For_Adults#55#27#18
-Other_facilities_providing_specialized_psychiatric_inpatient_care#66#31#2
+regions_around_the_world,Free,Partially_free,Not_free
+Europe,81,17,2
+Americas,63,28,9
+Asia_and_Pacific,46,33,21
+Global,43,32,25
+Sub-Saharan_Africa,14,49,37
+Middle_East_and_North_Africa,11,22,67
+Eurasia,0,42,58

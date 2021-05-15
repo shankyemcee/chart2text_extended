@@ -1,4 +1,8 @@
-Gender#Number_of_deaths
-Men#5717
-Women#6339
-Total#12056
+Political_Party,Number_of_party_members
+SPD,419340
+CDU,405816
+CSU,139130
+Grüne,96487
+FDP,65479
+The_Left,60862
+AfD,34751

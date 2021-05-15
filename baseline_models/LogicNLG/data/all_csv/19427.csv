@@ -1,10 +1,5 @@
-Company#Number_of_gas_stations
-Total#121
-Shell#69
-Avia#72
-BP#59
-Eni#46
-Esso#46
-Carrefour#10
-Leclerc#12
-Dyneff#8
+Response,Cyber_security,Organisational_change_management,Enterprise_architecture,Technical_architecture,Advanced_analytics,Big_data_/_analytics,Artificial_intelligence,Business_analysis,Development,Project_management,Security_and_resilience
+2017,0,0,34,32,0,42,0,34,25,26,28
+2018,0,0,35,36,0,46,0,31,24,25,35
+2019,39,0,34,0,0,44,39,31,0,0,0
+2020,35,26,22,22,22,0,0,0,0,0,0

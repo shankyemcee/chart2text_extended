@@ -1,3 +1,6 @@
-Type_of_Alcohol#Dollar_sales_in_million_U.S._dollars
-Jägermeister#81
-Fireball#61
+fuel_type,2016,2017,2018
+Petrol,869399,1006163,1191249
+Diesel,1036677,998116,844830
+Electric-petrol_hybrid_non-rechargeable,45836,69691,91815
+Electric,21268,24910,31059
+Electric-petrol_hybrid_rechargeable,7079,11868,14528

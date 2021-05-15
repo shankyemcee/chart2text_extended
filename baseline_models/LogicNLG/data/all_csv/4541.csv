@@ -1,12 +1,5 @@
-Year#Population_growth_compared_to_previous_year
-2019#0.43
-2018#0.5
-2017#0.64
-2016#0.78
-2015#0.71
-2014#0.51
-2013#0.42
-2012#0.38
-2011#0.41
-2010#0.44
-2009#0.54
+Period_of_time,Share_of_spending_taking_place
+12AM_-_6AM,10
+6AM_-_12PM,16
+12PM_-_6PM,30
+6PM_-_12AM,44

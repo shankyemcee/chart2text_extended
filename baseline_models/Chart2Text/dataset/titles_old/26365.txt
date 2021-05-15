@@ -1,1 +1,0 @@
-Regarding DLP tools implementation, how would you describe that deployment?

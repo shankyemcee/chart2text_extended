@@ -1,6 +1,9 @@
-Amount_of_funds_paid_out#Share_of_projects
-Less_than_10000_U.S._dollars#6
-10001_-_25000_U.S._dollars#10
-25001_-_50000_U.S._dollars#16
-50001_-_100000_U.S._dollars#26
-100000_U.S._dollars_and_more#42
+Response,Share_of_respondents
+Less_than_$25,14
+$25_to_$49,13
+$50_to_$99,27
+$100_to_$199,21
+$200_to_$299,11
+$300_to_$499,4
+$500_or_more,6
+Do_not_know/refused,3

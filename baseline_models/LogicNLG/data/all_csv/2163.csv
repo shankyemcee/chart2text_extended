@@ -1,10 +1,7 @@
-Response#Share_of_respondents
-Before_6_am#8
-6_am_to_9_am#46.5
-9_am_to_12_pm#55.9
-12_pm_to_2_pm#56.1
-2_pm_to_5_pm#55.2
-5_pm_to_8_pm#60
-8_pm_to_11_pm#52.2
-11_pm_to_1_am#27
-1_am_to_3_am#13.7
+Response,Percentage_of_respondents
+1:10,16
+1:100,22.1
+1:500,11.1
+1:1000,14.4
+More_than_1:1000,17.7
+Do_not_know,5.5

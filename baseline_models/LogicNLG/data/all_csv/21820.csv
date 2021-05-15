@@ -1,8 +1,7 @@
-Country#Price_in_U.S._dollars
-United_States#6214
-Switzerland#3633
-Spain#3348
-Netherlands#3321
-England#2697
-Canada#1141
-New_Zealand#989
+Response,2013,2014,2015,2016,2017
+At_home,180.02,188.14,192.69,198.08,205.18
+At_work,90.71,97.27,101.13,108.76,109.5
+At_school_or_library,27.58,30.58,32.28,30.91,32.5
+At_another_place,64.52,76.28,87.89,92.87,101.93
+Using_a_cellphone_or_smartphone,130.47,151.06,165.94,179.79,189.97
+Using_WIFI_or_wireless_connection_outside_of_home,67.8,68.88,72.8,72.18,72.1

@@ -1,5 +1,4 @@
-Year#Europe#North_America#Asia_Pacific#Rest_of_the_World
-2019#35.67#56.58#11.51#5.0
-2018#31.97#66.87#8.74#6.23
-2017#32.59#61.58#7.77#2.57
-2016#30.25#67.86#0#4.79
+continent,Revenue_in_million_U.S._dollars
+EMEA,282
+Asia,166
+The_Americas,107

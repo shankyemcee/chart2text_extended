@@ -1,13 +1,4 @@
-Year#Divorce_rate_per_thousand_inhabitants
-2019#3.07
-2018#2.02
-2017#2.0
-2016#2.13
-2015#2.36
-2014#2.61
-2013#2.14
-2012#2.02
-2011#2.35
-2010#2.14
-2009#2.11
-2008#2.0
+type_of_employment,Men,Women
+Self-employed_&_family_workers,367.1,138.3
+Temporary_employees,346.3,419.8
+Permanent_employees,1980.1,1880.1

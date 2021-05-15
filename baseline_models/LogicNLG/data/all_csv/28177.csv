@@ -1,5 +1,4 @@
-Response#October_2013#May_2014
-Yes#11#12
-Unsure#7#14
-Probably_not#30#36
-Definitely_not#52#38
+Response,Malaria,Dengue,Elephantiasis
+Deaths_per_year,483,13,0
+New_cases_per_year,214000,100000,120000
+At-risk_population,3400000,2500000,1200000

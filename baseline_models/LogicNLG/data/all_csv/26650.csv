@@ -1,6 +1,7 @@
-Quarter#Transaction_days_in_thousands
-Q2_2020#12964
-Q1_2020#31564
-Q4_2019#37706
-Q3_2019#41399
-Q2_2019#41173
+Response,Share_of_respondents
+More_than_2_hours_per_day,0
+1_to_2_hours_per_day,7
+30_minutes_to_1_hour_per_day,13
+Less_than_30_minutes_per_day,16
+Several_hours_per_week_but_not_daily,9
+Less_than_1_hour_per_week,54

@@ -1,8 +1,5 @@
-Response#Much_more_than_last_year#Somewhat_more_than_last_year#No_different_than_last_year#Somewhat_less_than_last_year#Much_less_than_last_year#Did_not_purchase_toys_last_year
-2014#5#14#48#23#8#3
-2013#6#14#44#23#10#4
-2012#5#18#43#23#8#2
-2011#3#13#46#27#9#3
-2010#5#11#44#25#12#3
-2009#4#12#41#25#14#3
-2008#2#13#36#26#18#4
+Country,Elementary,Secondary
+City,7,3
+Suburban,5,2
+Town,6,2
+Rural,4,2

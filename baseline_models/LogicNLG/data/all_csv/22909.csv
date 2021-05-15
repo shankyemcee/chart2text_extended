@@ -1,9 +1,7 @@
-Year#Revenues_in_million_euros
-2018#267.63
-2017#214.28
-2016#162.31
-2015#181.03
-2014#184.24
-2013#182.72
-2012#177.24
-2011#157.41
+Race,Male,Female
+Black,1361,87
+White,1286,110
+Hispanic,225,5
+Unknown,148,8
+Asian,21,0
+Other,14,4

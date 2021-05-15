@@ -1,4 +1,5 @@
-type#Number_of_registered_automobiles
-Publicly_owned#1563
-Private_and_commercial_(including_taxicabs)#445444
-Total#447007
+Weapon,Number_of_incidents_where_the_weapon_was_used
+Firearm,18
+Edged_weapon,6
+Assault,1
+Strangulation,1

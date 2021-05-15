@@ -1,11 +1,3 @@
-Company_(Country_of_origin)#Billion_U.S._dollars
-Metro_(Germany)#88.93
-Target_(United_States)#65.79
-Sears_Holdings_(United_States)#43.33
-Migros_(Switzerland)#20.94
-El_Corte_Inglés_(Spain)#17.34
-Marks_&_Spencer_(United_Kingdom)#15.16
-Otto_Group_(Germany)#13.2
-Lotte_Shopping_(South_Korea)#11.49
-S_Group_(Finland)#11.01
-Kesko_(Finland)#10.36
+False_Information_Entity,Fines_in_U.S._dollars
+Individuals_found_guilty_of_knowingly_distributing_false_information,825
+Companies/media_outlets_distributing_false_information,27500

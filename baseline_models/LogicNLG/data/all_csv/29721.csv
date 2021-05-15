@@ -1,9 +1,6 @@
-Response#Percentage_of_respondents
-NIST#57.9
-HITRUST#26.4
-Critical_Security_Controls#24.7
-ISO#18.5
-COBIT#7.3
-Other_(please_specify)#5.1
-No_security_framework_used#16.9
-Do_not_know#8.4
+Year,Consumption_in_grams
+1.5-3_years,184
+4-10_years,270
+11-18_years,441
+19-64_years,1094
+65_years_and_over,1142

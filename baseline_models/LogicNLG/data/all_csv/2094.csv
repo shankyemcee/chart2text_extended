@@ -1,8 +1,4 @@
-Year#Number_of_stores
-2018#465
-2017#498
-2016#499
-2015#557
-2014#556
-2013#558
-2012#512
+music_types,Sales_growth
+Album_sales_of_artist_album_winners,153
+Song_sales_of_songs_performed,384
+Song_streams_of_songs_performed,63

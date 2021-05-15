@@ -1,8 +1,8 @@
-Year#Profit_in_million_GBP
-2019#4357
-2018#3494
-2017#3541
-2016#3230
-2015#1146
-2014#1313
-2013#1879
+Year,Number_of_students
+Less_than_20_years,276621
+20_to_24_years,640323
+25_to_29_years,196863
+30_to_34_years,89475
+35_to_39_years,55245
+40_years_and_over,82698
+Not_reported,126

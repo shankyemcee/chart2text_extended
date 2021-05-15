@@ -1,12 +1,4 @@
-Year#Production_in_thousand_troy_ounces
-2019#2868
-2018#2671
-2017#2738
-2016#2554
-2015#2606
-2014#2660
-2013#2580
-2012#2628
-2011#2704
-2010#2722
-2009#2676
+type,Number_of_registered_automobiles
+Publicly_owned,29994
+Private_and_commercial_(including_taxicabs),1946027
+Total,1976021

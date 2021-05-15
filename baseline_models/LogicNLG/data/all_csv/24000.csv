@@ -1,9 +1,6 @@
-Country#Production_in_thousand_metric_tons
-Brazil#1022
-United_States#297
-Mexico#90
-European_Union#84
-South_Africa#47
-China#46
-Australia#16
-Other#16
+Country,Export_value_in_million_GBP
+United_States,106.87
+Irish_Republic,79.54
+China,68.92
+France,33.31
+Italy,29.35

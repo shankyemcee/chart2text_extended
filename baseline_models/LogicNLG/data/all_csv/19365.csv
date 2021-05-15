@@ -1,7 +1,3 @@
-Year#Number_of_enterprises
-2016#480
-2015#447
-2014#441
-2013#281
-2012#286
-2011#304
+Year,Direct_value,Direct_and_indirect_value
+2014,26,46
+2009,21,37

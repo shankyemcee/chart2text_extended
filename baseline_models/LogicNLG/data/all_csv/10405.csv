@@ -1,10 +1,7 @@
-Year#Revenue_in_million_euros
-2013#358.7
-2012#343.2
-2011#339.1
-2010#343.7
-2009#319.0
-2008#326.0
-2007#321.0
-2006#366.8
-2005#359.6
+Age_Segmentation,Age_segmentation
+34_years_old_and_younger,10
+35_to_44_years_old,22
+45_to_54_years_old,22
+55_to_64_years_old,24
+65_to_74_years_old,19
+75_years_old_and_older,3

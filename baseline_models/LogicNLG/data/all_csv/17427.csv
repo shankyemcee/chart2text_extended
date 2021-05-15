@@ -1,10 +1,4 @@
-Country#Production_in_thousand_metric_tons
-Asia#7696.5
-China#2289.3
-India#1468.8
-Bangladesh#1119.1
-Myanmar#1002.4
-Africa#2567.4
-Americas#543.4
-Europe#386.9
-Oceania#17.0
+ice_cream_category,Price_per_kilogram_in_Canadian_dollars
+Artisanal_ice_cream,10.0
+Impluse_ice_cream_-_single_serve,8.8
+Take-home_and_bulk_ice_cream,7.1

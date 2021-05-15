@@ -1,11 +1,4 @@
-Geothermal_plant#Capacity_in_megawatts
-The_Geysers_(United_States)#1517
-Cerro_Prieto_(Mexico)#820
-Larderello(Italy)#769
-Olkaria(Kenya)#727
-Imperial_Valley(United_States)#403
-Sarulla(Indonesia)#330
-Tiwi(New_Zealand)#330
-Hellisheiði(Iceland)#303
-Coso(United_States)#270
-Darajat(Indonesia)#255
+rural/urban_area,Hillary_Clinton,Donald_Trump
+Urban,59,35
+Suburban,45,50
+Rural,34,62

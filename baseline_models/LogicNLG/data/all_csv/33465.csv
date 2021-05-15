@@ -1,6 +1,11 @@
-Response#Share_of_respondents
-I_avoid_buying_Chinese_food#71
-I_avoid_Chinese_restaurants#71
-I_plan_to_buy_a_face_mask#38
-I_avoid_crowded_places#18
-I_avoid_going_out_when_not_necessary#10
+Year,Expenditure_domestic_tourism,Expenditure_outbound_tourism,Expenditure_inbound_tourism,Other_expenditure
+2010,37094,4723,14900,2799
+2011,38726,5143,15569,2799
+2012,39183,5475,17239,2795
+2013,38772,5512,18986,2768
+2014,39930,5591,21121,2799
+2015,40921,5770,23957,2864
+2016,41512,5862,26568,2901
+2017,42961,6192,30040,2994
+2018,44717,6456,32229,3051
+2019,46618,6619,34740,3180

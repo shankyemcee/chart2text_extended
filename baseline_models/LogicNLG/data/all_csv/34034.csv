@@ -1,5 +1,6 @@
-Response#Share_of_respondents
-Social_environment#23
-Workplace#9
-School_/_Univeristy#2
-Other#30
+Response,Phone_only_gamers,Tablet_only_gamers,Phone/Tablet_gamers
+Desktop/laptop,35,32,22
+Mobile_phone,41,0,24
+Game_console,19,12,19
+Handheld,4,2,6
+Tablet,0,54,30

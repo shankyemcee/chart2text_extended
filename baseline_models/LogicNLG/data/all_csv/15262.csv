@@ -1,7 +1,6 @@
-Year#Brand_value_in_million_U.S._dollars
-2017#124
-2016#148
-2015#101
-2014#113
-2013#135
-2012#130
+race,Number_of_people
+White,494
+Black,258
+Hispanic,172
+Other,38
+Unknown,28

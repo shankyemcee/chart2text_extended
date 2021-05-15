@@ -1,6 +1,10 @@
-Response#Share_of_respondents
-Very_likely#9
-Somewhat_likely#20
-Not_that_likely#21
-Not_likely_at_all#39
-Don't_know/no_opinion#11
+Response,Share_of_respondents
+Omnivore,59
+None_of_these,25
+Vegetarian,6
+Other,5
+Pescetarian,4
+Dairy-free,4
+Flexitarian,1
+Vegan,1
+Reducitarian,1

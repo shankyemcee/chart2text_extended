@@ -1,6 +1,8 @@
-Year#Sales_value_in_million_euros
-2021#43987.3
-2020#43684.3
-2019#43410.8
-2018#43190.5
-2017#43001.3
+Response,Share_of_military_personnel
+Army_National_Guard,366906
+Army_Reserve,284192
+Air_Force_Reserve,110674
+Air_National_Guard,107676
+Navy_Reserve,102349
+Marine_Corps_Reserve,97087
+Coast_Guard_Reserve,9737

@@ -1,6 +1,11 @@
-Response#Share_of_revenue
-Europe#38
-North_America#30
-Asia#19
-South_America#7
-Africa_and_Oceania#6
+Response,Percentage_of_COVID-19_patients
+9_years_and_younger,0.1
+10_to_19_years,0.1
+20_to_29_years,0.1
+30_to_39_years,0.4
+40_to_49_years,1
+50_to_59_years,2.4
+60_to_69_years,6.7
+70_to_79_years,16.6
+80_years_and_older,28.7
+Total,5.4

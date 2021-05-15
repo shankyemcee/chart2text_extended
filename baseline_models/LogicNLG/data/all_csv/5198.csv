@@ -1,10 +1,5 @@
-Year#Subscription_revenue_in_billion_U.S._dollars
-2016#81.0
-2015#87.0
-2013#99.0
-2006#72.0
-2000#36.0
-1995#22.0
-1990#17.0
-1985#10.0
-1980#4.5
+Waste_Type,Production_in_million_metric_tons
+Not_dangerous_mineral_waste,220.23
+Non-mineral_non-hazardous_waste,91.45
+Dangerous_waste,11.01
+Total,322.69

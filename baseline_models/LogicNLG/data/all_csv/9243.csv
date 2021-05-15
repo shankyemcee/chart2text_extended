@@ -1,11 +1,4 @@
-Year#Savings_rate
-2019#14.7
-2018#13.9
-2017#14
-2016#14
-2015#14.5
-2014#14.4
-2013#14.3
-2012#15.1
-2011#15.6
-2010#15.8
+Case_status,Number_of_confirmed_cases
+Travel-related,6814
+Close_contact,14728
+Under_investigation,611006

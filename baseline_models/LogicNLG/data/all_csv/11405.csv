@@ -1,10 +1,7 @@
-political_party#Donations
-SSW#491690.27
-CSU#485000.0
-CDU#475002.0
-FDP#360000.0
-Grüne#335001.0
-SPD#206651.0
-MLPD#110055.0
-Volt_Deutschland#95000.0
-Linke#60000.0
+Response,Share_of_respondents
+Extremely_interested,5
+Very_interested,11
+Somewhat_interested,32
+Not_very_interested,27
+Not_at_all_interested,25
+Don't_know,0.1

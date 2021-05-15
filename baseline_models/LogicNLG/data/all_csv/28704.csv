@@ -1,5 +1,6 @@
-Year#U.S._Pharmaceutical_and_Specialty_Solutions#European_Pharmaceutical_Solutions#Medical-Surgical_Solutions#Other
-2017#155236#24847#6244#12206
-2018#162587#27320#6611#11839
-2019#167763#27242#7618#11696
-2020#183341#27390#8305#12015
+type_of_diabetes,2007,2010,2011-2020
+People_with_prediabetes,27,34,585
+People_with_undiagnosed_diabetes,12,15,253
+People_with_type_1_diabetes,4,5,73
+People_with_type_2_diabetes,110,140,2439
+Total,153,194,3351

@@ -1,5 +1,11 @@
-Year#Retail_sales_value_in_million_US_dollars
-2020#337.8
-2016#328.8
-2015#328.9
-2010#293.6
+Decile_group,Income_tax_in_GBP
+Top,45911
+9th,17619
+8th,8617
+7th,5535
+6th,4761
+5th,3343
+4th,2424
+3rd,1334
+2nd,838
+Bottom,523

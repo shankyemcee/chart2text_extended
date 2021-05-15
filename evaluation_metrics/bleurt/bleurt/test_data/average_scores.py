@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-with open("c2t_data/scores", 'r', encoding='utf-8') as actualfile:
+with open("fi_data/scores", 'r', encoding='utf-8') as actualfile:
             scores = actualfile.readlines()
 
 

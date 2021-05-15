@@ -1,4 +1,9 @@
-Response#Male#Female
-Frequently_(one_or_more_times_per_month)#17#12
-Occasionally_(less_than_once_a_month)#42#39
-Infrequently_(once_a_year_or_less)#41#50
+Response,Share_of_respondents
+Milk_no_sugar,34
+Milk_two_or_more_sugars,16
+Milk_one_sugar,15
+I_don't_drink_tea,14
+Black_no_sugar,8
+Milk_with_sweetener,7
+Other,3
+Black_with_sweetener,2

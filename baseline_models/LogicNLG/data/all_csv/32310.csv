@@ -1,7 +1,8 @@
-Country#Change_for_number_of_website_visits
-Germany#3.8
-Nordics#15.6
-Europe#18.4
-France#20.7
-Spain#25.2
-United_Kingdom#28.7
+Country,Degree_of_urbanization
+Northern_America,82
+Latin_America_and_the_Caribbean,79
+Europe,75
+Oceania,68
+Worldwide,56
+Asia,51
+Africa,43

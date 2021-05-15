@@ -1,7 +1,10 @@
-Year#Number_of_vehicles_(in_millions)
-2017#1.97
-2016#1.9
-2015#1.84
-2014#1.76
-2013#1.71
-2012#1.6
+geographic_region,Number_of_new_HIV_infections_in_thousands
+World,1700
+Eastern_and_Southern_Africa,730
+Western_and_Central_Africa,240
+Asia_and_Pacific,300
+Eastern_Europe_and_Central_Asia,170
+Latin_America,120
+Western/Central_Europe_and_North_America,65
+Middle_East_and_North_Africa,20
+Caribbean,13

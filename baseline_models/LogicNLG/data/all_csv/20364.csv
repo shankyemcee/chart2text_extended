@@ -1,11 +1,6 @@
-Year#Home_ownership_rate
-2017#64.4
-2016#64.9
-2015#64.1
-2014#65
-2013#64.3
-2012#63.7
-2011#63.1
-2010#62
-2009#63
-2008#62.1
+Response,Dec_'16,Nov_'19
+No_answer,1,1
+Not_at_all_confident,6,5
+Only_a_little_confident,9,16
+Somewhat_confident,45,52
+Very_confident,39,26

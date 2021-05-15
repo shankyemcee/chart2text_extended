@@ -1,11 +1,5 @@
-Year#Units_sold
-2019#6925
-2018#7961
-2017#8816
-2016#6156
-2015#6280
-2014#7042
-2013#8682
-2012#7393
-2011#8000
-2010#9040
+metric,Capacity_in_billion_barrels
+Currently_available_storage_capacity_onshore,1.7
+Currently_used_storage_capacity_onshore_and_floating,7.2
+Combined_storage_capacity_of_active_VLCCs,1.8
+Combined_storage_capacity_of_smaller_Suezmax_and_Aframax_vessels,4.6

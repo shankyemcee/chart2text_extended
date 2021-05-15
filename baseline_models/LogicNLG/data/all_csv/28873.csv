@@ -1,11 +1,3 @@
-county#Population_number
-Queens_County_NY#98512
-Kings_County_NJ#28684
-Hudson_County_NJ#26650
-Essex_County_NJ#25169
-Bronx_County_NY#23206
-Westchester_County_NY#22460
-Miami-Dade_County_FL#19832
-Los_Angeles_County_CA#19588
-Cook_County_IL#19450
-Suffolk_County_NY#17638
+Response,Mentions_(in_millions),Accounts_(in_millions),Mentions_per_account
+Tumblr,7.3,1.4,5.2
+Twitter,3.1,1.5,2.0

@@ -1,8 +1,4 @@
-Year#Production_in_thousand_metric_tons
-2017#16851
-2016#15934
-2015#15597
-2014#16426
-2013#17469
-2012#18018
-2011#19443
+type_of_product,Revenue_in_million_U.S._dollars
+Footwear,23305
+Apparel,10953
+Equipment,1280
