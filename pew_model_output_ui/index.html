@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" integrity="sha512-8bHTC73gkZ7rZ7vpqUQThUDhqcNFyYi2xgDgPDHc+GXVGHXq+xPjynxIopALmOPqzo9JZj0k6OqqewdGO3EsrQ==" crossorigin="anonymous" />
+	<style>
+		.chart-img {
+			max-width: 100%;
+			max-height: 500px;
+			background-color: white;
+		}
+	</style>
+	<title>Pew Model Outputs</title>
+</head>
+
+<body>
+	<div class="ui container">
+		<div class="ui hidden divider"></div>
+		<h1>Comparing Model Outputs with Gold Standard</h1>
+		<div>
+			<button class="ui black button" id="random-button"><i class="icon random"></i> Random Chart</button>
+			<div class="ui labeled input">
+				<div class="ui basic label">Chart No.</div>
+				<input type="number" id="chart-num" min="0" value="0">
+			</div>
+		</div>		
+		<div class="ui hidden divider"></div>
+		<div class="ui relaxed stackable grid">
+			<div class="eight wide column">
+				<div>
+					<div class="chart">
+						<h2>Chart</h2>
+						<p><strong>Title:</strong> <span id="chart-title"></span></p>
+						<img class="chart-img" id="chart-img" src="imgs/loading.gif"></img>
+						<h3>Data Table</h3>
+						<div style="overflow-x: scroll;">
+							<table class="ui fluid table" id="data-table"></table>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="eight wide column">
+				<div id="outputs-div">
+					<img src="imgs/loading.gif"></img>
+				</div>
+				<div class="ui hidden divider"></div>
+			</div>
+		</div>
+	</div>
+	<div class="ui hidden divider"></div>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.7.0/d3.min.js" integrity="sha512-cd6CHE+XWDQ33ElJqsi0MdNte3S+bQY819f7p3NUHgwQQLXSKjE4cPZTeGNI+vaxZynk1wVU3hoHmow3m089wA==" crossorigin="anonymous"></script>
+	<script src="js/app.js"></script>
+</body>
+
+</html>
