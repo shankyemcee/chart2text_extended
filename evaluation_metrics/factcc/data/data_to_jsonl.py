@@ -2,11 +2,11 @@
 
 import json
 
-with open("fi_data/testOriginalSummary.txt", 'r', encoding='utf-8') as actualfile:
+with open("pew/c2t_data/testOriginalSummary.txt", 'r', encoding='utf-8') as actualfile:
             actual = actualfile.readlines()
             
 
-with open("fi_data/generated-p80.txt", 'r', encoding='utf-8') as generatedfile:
+with open("pew/c2t_data/generated-p80.txt", 'r', encoding='utf-8') as generatedfile:
             generated = generatedfile.readlines()
     
 output_list = []
@@ -21,7 +21,7 @@ for i,j in zip(actual,generated):
 
 
       
-with open('fi_data/data-dev.jsonl','w', encoding='utf-8') as f:
+with open('pew/c2t_data/data-dev.jsonl','w', encoding='utf-8') as f:
     json.dump(output_list,f)
 
 

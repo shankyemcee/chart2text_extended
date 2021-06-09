@@ -243,12 +243,12 @@ goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
 
-analysisPath = '../results/aug17/analysis-p80.txt'
-generatedPath = '../results/aug17/templateOutput-p80.txt'
-comparisonPath = '../results/aug17/summaryComparison-p80.txt'
-outputPath = '../results/aug17/generated-p80.txt'
-websitePath = '../results/aug17/generated'
-newDataPath = '../results/aug17/data'
+analysisPath = '../results/pew/analysis-p80.txt'
+generatedPath = '../results/pew/templateOutput-p80.txt'
+comparisonPath = '../results/pew/summaryComparison-p80.txt'
+outputPath = '../results/pew/generated-p80.txt'
+websitePath = '../results/pew/generated'
+newDataPath = '../results/pew/data'
 
 nlp = spacy.load('en_core_web_md')
 fb = FitBert()

@@ -140,7 +140,10 @@ def run(tempPath, hypPath, dataPath, titlePath):
             reversedArr = []
             datum = data.split()
             xLabel = datum[0].split('|')[0].split('_')
-            yLabel = datum[1].split('|')[0].split('_')
+            if len(datum)==1:
+               yLabel = 'None'
+            else:
+               yLabel = datum[1].split('|')[0].split('_')
 
             # remove filler words from labels
             cleanXLabel = [xWord for xWord in xLabel if xWord.lower() not in fillers]

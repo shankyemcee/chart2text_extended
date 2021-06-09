@@ -240,7 +240,7 @@ class Dictionary(object):
 
             for item, label in zip(table_items, table_label):
                 fields = item.split('|')
-                assert len(fields) == 4
+                #assert len(fields) == 4
                 entity_id = table_dico.index(fields[0], no_unk=False)
                 type_id = table_dico.index(fields[1], no_unk=False)
                 value_id = table_dico.index(fields[2], no_unk=False)

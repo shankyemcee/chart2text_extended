@@ -106,7 +106,10 @@ def main(params):
             enc_x3_ids.append(torch.LongTensor([source_dico.index(x[2]) for x in record_seq]))
             enc_x4_ids.append(torch.LongTensor([source_dico.index(x[3]) for x in record_seq]))
 
-            xLabel = record_seq[1][0].split('_')
+            if len(record_seq) == 1:
+                xLabel='None'
+            else:
+                xLabel = record_seq[1][0].split('_')
             yLabel = record_seq[0][0].split('_')
             """cleanXLabel = len([item for item in xLabel if item not in fillers])
             cleanYLabel = len([item for item in yLabel if item not in fillers])

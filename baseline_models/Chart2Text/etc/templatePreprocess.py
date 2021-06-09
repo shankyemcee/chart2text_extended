@@ -445,9 +445,10 @@ def getSubject(titleTokens, nerEntities):
 dataFiles = []
 captionFiles = []
 titleFiles = []
+sorted_files=[]
 
 dataset_dir = "../../../../c2t_dataset_pew/"
-mapping_file = dataset_dir + 'train_index_mapping.csv'
+mapping_file = dataset_dir + 'test_index_mapping.csv'
 
 mapping = pd.read_csv(mapping_file)
 
@@ -476,6 +477,8 @@ titleFiles.sort()
 # zipped = list(zip(dataFiles, captionFiles, titleFiles))
 # random.shuffle(zipped)
 # dataFiles, captionFiles, titleFiles = zip(*zipped)
+
+
 
 dataArr = []
 dataLabelArr = []
@@ -509,10 +512,10 @@ negativeTrends = ['decreased', 'decrease', 'decreasing', 'shrank', 'shrinking', 
 simpleChartTypes = []
 complexChartTypes = []
 
-for m in range(len(dataFiles)):
-    dataPath = dataset_dir + 'dataset/data/' + dataFiles[m]
-    captionPath = dataset_dir + 'dataset/captions/' + captionFiles[m]
-    titlePath = dataset_dir + 'dataset/titles/' + titleFiles[m]
+for _file in range(len(dataFiles)):
+    dataPath = dataset_dir + 'dataset/data/' + dataFiles[_file]
+    captionPath = dataset_dir + 'dataset/captions/' + captionFiles[_file]
+    titlePath = dataset_dir + 'dataset/titles/' + titleFiles[_file]
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
@@ -683,7 +686,7 @@ for m in range(len(dataFiles)):
         dataLabelArr.append(dataLabelLine)
         summaryArr.append(newCaption)
         summaryLabelArr.append(summaryLabelLine)
-        titleArr.append(title)
+        titleArr.append(title);sorted_files.append('two_col-'+titleFiles[_file])
 
 def multiColumnTemplater(token, valueArr, words, arrayIndex, axis):
     if axisTypes[axis].lower() == 'ordinal' or axisTypes[axis].lower() == 'numerical':
@@ -827,10 +830,12 @@ captionFiles.sort()
 # titleFiles = os.listdir('../dataset/multiColumn/titles')
 titleFiles.sort()
 
-for m in range(len(dataFiles)):
-    dataPath = dataset_dir + 'dataset/multiColumn/data/' + dataFiles[m]
-    captionPath = dataset_dir + 'dataset/multiColumn/captions/' + captionFiles[m]
-    titlePath = dataset_dir + 'dataset/multiColumn/titles/' + titleFiles[m]
+
+
+for _file in range(len(dataFiles)):
+    dataPath = dataset_dir + 'dataset/multiColumn/data/' + dataFiles[_file]
+    captionPath = dataset_dir + 'dataset/multiColumn/captions/' + captionFiles[_file]
+    titlePath = dataset_dir + 'dataset/multiColumn/titles/' + titleFiles[_file]
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
     df, cols, size, chartType = openMultiColumnData(dataPath)
@@ -979,7 +984,7 @@ for m in range(len(dataFiles)):
     dataMatchCount = sum([sum(column) for column in dataLabels])
     dataRatio = round(dataMatchCount / labelCount, 2)
     captionRatio = round(captionMatchCount / len(captionTokens), 2)
-    if captionMatchCount >= 1 and dataMatchCount >= 1:
+    if captionMatchCount >= 1 and dataMatchCount >= 1 and colData[0] != []:
         for col in colData:
             assert labelCount/len(colData) == len(col)
         dataRatioArr.append(dataRatio)
@@ -993,7 +998,7 @@ for m in range(len(dataFiles)):
         dataLabelArr.append(dataLabelLine)
         summaryArr.append(newCaption)
         summaryLabelArr.append(summaryLabelLine)
-        titleArr.append(title)
+        titleArr.append(title);sorted_files.append('multi_col-'+titleFiles[_file])
 
 
 assert len(dataArr) == len(dataLabelArr)
@@ -1069,6 +1074,9 @@ assert len(titleArr) == len(dataArr)
 
 
 
+
+
+
 if 'train' in mapping_file:
     with open('../data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
         myfile0.writelines("%s\n" % line for line in dataArr)
@@ -1082,7 +1090,8 @@ if 'train' in mapping_file:
         myfile14.writelines("%s" % line for line in titleArr)
     with open('../data/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
         myfile17.writelines("%s" % line for line in oldSummaryArr)
-
+    pd.DataFrame(sorted_files, columns=["sorted_split_mapping"]).to_csv('../data/train/sorted_train_mapping.csv', index=False)
+    
 
 elif 'test' in mapping_file:
     with open('../data/test/testData.txt', mode='wt', encoding='utf8') as myfile2:
@@ -1097,6 +1106,7 @@ elif 'test' in mapping_file:
         myfile15.writelines("%s" % line for line in titleArr)
     with open('../data/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
         myfile18.writelines("%s" % line for line in oldSummaryArr)
+    pd.DataFrame(sorted_files, columns=["sorted_split_mapping"]).to_csv('../data/test/sorted_test_mapping.csv', index=False)
 
 
 
@@ -1114,6 +1124,7 @@ elif 'val' in mapping_file:
         myfile16.writelines("%s" % line for line in titleArr)
     with open('../data/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
         myfile19.writelines("%s" % line for line in oldSummaryArr)
+    pd.DataFrame(sorted_files, columns=["sorted_split_mapping"]).to_csv('../data/valid/sorted_val_mapping.csv', index=False)
 
 
 

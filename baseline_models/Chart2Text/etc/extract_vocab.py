@@ -25,7 +25,7 @@ if __name__ == '__main__':
                 print(item)
                 elements = item.split('|')
                 print(elements)
-                assert len(elements) == 4
+                #assert len(elements) == 4
                 for element in elements:
                     if element not in table_vocab: table_vocab[element] = 1
                     else: table_vocab[element] += 1

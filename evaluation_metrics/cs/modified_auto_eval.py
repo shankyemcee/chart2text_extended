@@ -39,11 +39,11 @@ def calc_dld(predictedRecords, goldRecords):
         return 0
 """
 
-labelPath = 'fi_data/testSummaryLabel.txt'
-goldPath = 'fi_data/testOriginalSummary.txt'
-summaryPath = 'fi_data/testSummary.txt'
+labelPath = 'pew/c2t_data/testSummaryLabel.txt'
+goldPath = 'pew/c2t_data/testOriginalSummary.txt'
+summaryPath = 'pew/c2t_data/testSummary.txt'
 
-generatedPath = 'fi_data/generated-p80.txt'
+generatedPath = 'pew/c2t_data/generated-p80.txt'
 # untemplatedPath = '../results/aug17/generated_untemplated/'
 # baselinePath = '../results/aug17/generated_baseline/'
 
