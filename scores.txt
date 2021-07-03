@@ -6,9 +6,9 @@ CS SCORE: 56.1%
 
 BLEURT: 0.06091426628804442
 
-Mean CIDEr score: 6.667
+Mean CIDEr score: 2.605
 
-Mean CIDErD score: 6.667
+Mean CIDErD score: 1.594
 
 FACTCC
 
@@ -27,9 +27,9 @@ CS SCORE: 42.07%
 
 BLEURT: -0.3221129953020442
 
-Mean CIDEr score: 6.667
+Mean CIDEr score: 1.778
 
-Mean CIDErD score: 6.667
+Mean CIDErD score: 0.474
 
 FACTCC
 
@@ -45,15 +45,15 @@ PEW DATASET:
 
 CHART2TEXT:
 
-BLEU SCORE: 5.46
+BLEU SCORE: 7.11
 
-CS SCORE: 41.2%
+CS SCORE: 20.36%
 
-BLEURT: -0.5296940310478895
+BLEURT: -0.579315263913894
 
-Mean CIDEr score: 6.667
+Mean CIDEr score: 0.580
 
-Mean CIDErD score: 6.667
+Mean CIDErD score: 0.204
 
 FACTCC
 

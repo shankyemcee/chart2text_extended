@@ -1,5 +1,5 @@
 # coding: utf-8
-
+# -*- coding: utf-8 -*-
 # In[1]:
 
 # demo script for running CIDEr

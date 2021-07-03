@@ -1,12 +1,4 @@
-Occupation,Unemployment_rate
-Farming_fishing_and_forestry_occupations,10.4
-Service_occupations,9.8
-Transportation_and_material_moving_occupations,9.3
-Construction_and_extraction_occupations,8
-Production_occupations,6.7
-Total_16_years_and_over,6.4
-Sales_and_related_occupations,6.3
-Office_and_administrative_support_occupations,5.8
-Installation_maintenance_and_repair_occupations,5.6
-Management_business_and_financial_operations_occupations,3.9
-Professional_and_related_occupations,3.5
+Time_slot,2016,2017,2018
+Morning_news,609400,505644,449620
+Evening_news,1205741,1138172,997117
+Late_night_news,597456,555746,476437

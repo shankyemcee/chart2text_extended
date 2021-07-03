@@ -9,8 +9,8 @@ from tokenizers import CharBPETokenizer
 
 # Initialize a tokenizer
 vocab = "../vocab_tokenization/bpe_tokenizer-vocab.json"
-merges = "../vocab_tokenization/bpe_tokenizer-merges.txt"
-tokenizer = CharBPETokenizer(vocab, merges)
+# merges = "../vocab_tokenization/bpe_tokenizer-merges.txt"
+tokenizer = CharBPETokenizer(vocab)
 
 # And then encode:
 # encoded = tokenizer.encode("I can feel the magic, can you?")
@@ -21,6 +21,8 @@ tokenizer = CharBPETokenizer(vocab, merges)
 train_file = "../train_lm.json"
 val_file = "../val_lm.json"
 test_file = "../test_lm.json"
+
+
 
 
 with open(train_file) as f:

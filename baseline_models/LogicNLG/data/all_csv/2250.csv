@@ -1,9 +1,7 @@
-Response,Share_of_respondents
-I_will_take_more_domestic_trips,34
-I_will_explore_the_areas_close_to_where_I_live,24
-I_will_take_cheaper_holidays,17
-I_will_use_promotions_to_book_holidays,17
-I_will_take_less_trips,16
-I_will_not_travel_very_far_(within_a_three-hours_flight),13
-I_will_take_more_low-cost_flights,8
-None_of_these,18
+App,2014,2015,2016,2017,2018
+NPR_News:_Android,2913814.0,3613494.0,5005041.0,8242722.0,6756099.0
+NPR_News:_iPhone,6947956.0,7826679.0,11433558.0,14502478.0,nan
+NPR_News:_iPad,2734069.0,1610358.0,1630880.0,1488862.0,1248160.0
+nan,nan,nan,nan,nan,nan
+NPR_One:_Android,nan,460263.0,1326320.0,2396494.0,2984181.0
+NPR_One:_iPhone,nan,758531.0,2649326.0,4462950.0,4506901.0

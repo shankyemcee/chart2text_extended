@@ -1,7 +1,7 @@
 1. verify C2T_data are correct files
-2. python c2t_to_lnlg_data_gold_set_converter_templatized.py
-3. python vocab_tokenizer.py
-4. python full_vocab_generator.py
+2. python dataset_preprocess.py
+3. cd vocab_tokenization;python vocab_tokenizer.py
+4. cd input_tokenization;python full_vocab_generator.py
 5. python input_encoding.py
 6. run training with the encoded files and make sure train code points to the correct files
 7. python Transformer.py --do_train

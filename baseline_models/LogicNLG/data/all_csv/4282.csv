@@ -1,12 +1,3 @@
-Year,Budget_balance_in_relation_to_GDP
-2025,-0.52
-2024,-1.17
-2023,-1.75
-2022,-2.29
-2021,-3.95
-2020,-9.9
-2019,0.74
-2018,0.2
-2017,-0.7
-2016,-1.57
-2015,-1.05
+Gender,Legal_in_all/most_cases,Illegal_in_all/most_cases
+Women,60%,38%
+Men,61%,38%

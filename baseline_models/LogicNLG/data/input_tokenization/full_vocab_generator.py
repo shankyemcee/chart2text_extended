@@ -87,11 +87,12 @@ for i in range(max_len):
 #     if k < len(full_vocab_list)*.3:
 #         vocab_dict[key]=k
 #     k+=1;
-    
+
+with open('vocab.json', 'w',encoding='utf8') as json_file:
+        json.dump(vocab, json_file)    
+
+vocab["#"+str(i+2)] = len(vocab);
 
 with open('full_vocab.json', 'w',encoding='utf8') as json_file:
         json.dump(vocab, json_file)    
 
-
-with open('vocab.json', 'w',encoding='utf8') as json_file:
-        json.dump(vocab, json_file)    

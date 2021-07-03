@@ -1,3 +1,0 @@
-traindata.txt:
-
-22044- changed second column A to AA

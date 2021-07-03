@@ -1,5 +1,3 @@
-Country,Number_of_internet_users_in_millions
-China,772.0
-India,462.0
-Brazil,149.0
-Russia,109.55
+Party_Identification,Legal_in_all/most_cases,Illegal_in_all/most_cases
+Republican/lean_Rep.,36%,62%
+Democrat/lean_Dem.,82%,17%

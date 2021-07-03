@@ -1,9 +1,5 @@
-city,Inhabitants_in_millions
-Sydney,4.53
-Melbourne,4.35
-Brisbane,2.21
-Perth,1.96
-Adelaide,1.29
-Gold_Coast,0.62
-Newcastle,0.43
-Canberra,0.42
+Year,Born_in_Puerto_Rico,Born_in_U.S._states_and_D.C.
+2000,1295000,2031000
+2010,1400000,3182000
+2015,1543000,3668000
+2017,1643000,3816000

@@ -220,11 +220,14 @@ class Dictionary(object):
         # index table_contents
         table_inf = open(table_path, 'r', encoding='utf-8')
         table_label_inf = open(table_label_path, 'r', encoding='utf-8')
-
+        
         for i, (line, label_line) in enumerate(zip(table_inf, table_label_inf)):
             table_items = line.strip().split()
             table_label = label_line.strip().split()
-            assert len(table_items) == len(table_label)
+            try:
+                assert len(table_items) == len(table_label)
+            except:
+                raise Exception(i)
             # skip empty table_contents
             if len(table_items) == 0:
                 print("Empty sentence in line %i." % i)
@@ -332,7 +335,10 @@ class Dictionary(object):
                 print(i)
             summary_tokens = summary_line.rstrip().split()
             summary_token_labels = label_line.rstrip().split()
-            assert len(summary_tokens) == len(summary_token_labels)
+            try:
+                assert len(summary_tokens) == len(summary_token_labels)
+            except:
+                raise Exception(i)
             # skip empty summaries
             if len(summary_tokens) == 0:
                 print("Empty sentence in line %i." % i)

@@ -24,7 +24,7 @@ tokenizer.train([ "../C2T_data/train/trainOriginalSummary.txt",
 # encoded = tokenizer.encode("I can feel the magic, can you?")
 
 # And finally save it somewhere
-tokenizer.save("./",name="bpe_tokenizer")
+tokenizer.save("./" ,name="bpe_tokenizer")
 
 
 

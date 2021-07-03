@@ -1,5 +1,0 @@
-type_of_business_line,Low_estimate,High_estimate
-1st_tier_supplier,7,17
-Assembly/_packaging,2,12
-Market_buffer,0,30
-Total_inventory_days_(including_2nd_tier_supplier),40,70

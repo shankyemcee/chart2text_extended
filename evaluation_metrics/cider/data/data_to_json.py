@@ -2,11 +2,11 @@
 
 import json
 
-with open("pew/c2t_data/testOriginalSummary.txt", 'r', encoding='utf-8') as actualfile:
+with open("pew/c2t_data/testOriginalSummary.txt", 'r',encoding='utf8') as actualfile:
             actual = actualfile.readlines()
             
 
-with open("pew/c2t_data/generated-p80.txt", 'r', encoding='utf-8') as generatedfile:
+with open("pew/c2t_data/generated-p80.txt", 'r',encoding='utf8') as generatedfile:
             generated = generatedfile.readlines()
     
 output_list_actual = []

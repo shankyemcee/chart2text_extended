@@ -18,25 +18,14 @@ class LoadData():
         path_to_ref_file = os.path.join(self.pathToData, refname)
         path_to_cand_file = os.path.join(self.pathToData, candname)
 
-        with open(path_to_ref_file) as f:
-            ref_list = json.load(f)
-        
-        with open(path_to_cand_file) as f:
-            cand_list = json.load(f)
-
-
-
-        #ref_list = json.loads(open(path_to_ref_file, 'r').read(), encoding='utf-8')
-        #cand_list = json.loads(open(path_to_cand_file, 'r').read(), encoding='utf-8')
+        ref_list = json.loads(open(path_to_ref_file, 'r').read())
+        cand_list = json.loads(open(path_to_cand_file, 'r').read())
 
         gts = defaultdict(list)
         res = []
 
         for l in ref_list:
-            gts[l['image_id']].append({"caption": l['caption'].encode('utf-8')})
-
-        for l in range(len(cand_list)):
-            cand_list[l]['caption'] = cand_list[l]['caption'].encode('utf-8')        
+            gts[l['image_id']].append({"caption": l['caption']})
 
         res = cand_list;
         return gts, res
