@@ -4,10 +4,10 @@ import nltk
 import os
 
 dataset_dir = "../../../../c2t_dataset_pew/dataset/"
-# caption_dir = "captions_old/"
-caption_dir = "multiColumn/captions_old/"
-# new_caption_dir="captions/"
-new_caption_dir="multiColumn/captions/"
+caption_dir = "captions_old/"
+# caption_dir = "multiColumn/captions_old/" #uncomment to refactor captions in multicol folder
+new_caption_dir="captions/"
+# new_caption_dir="multiColumn/captions/" #uncomment to refactor captions in multicol folder
 
 
 

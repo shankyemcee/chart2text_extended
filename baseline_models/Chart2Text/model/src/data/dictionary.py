@@ -336,6 +336,7 @@ class Dictionary(object):
             summary_tokens = summary_line.rstrip().split()
             summary_token_labels = label_line.rstrip().split()
             try:
+                #print(summary_token_labels)
                 assert len(summary_tokens) == len(summary_token_labels)
             except:
                 raise Exception(i)

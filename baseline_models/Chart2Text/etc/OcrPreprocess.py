@@ -11,10 +11,10 @@ output_datalabeldir="../data/test/testDataLabel.txt"
 output_captionlabeldir="../data/test/testSummaryLabel.txt"
 mappingdir="../../../../c2t_dataset_pew/test_index_mapping.csv"
 
-ocrdata_twocol_dir= "../../../../c2t_dataset_pew/dataset/ocr_data/" 
-ocrdata_multicol_dir= "../../../../c2t_dataset_pew/dataset/multiColumn/ocr_data/" 
-data_twocol_dir= "../../../../c2t_dataset_pew/dataset/data/" 
-data_multicol_dir= "../../../../c2t_dataset_pew/dataset/multiColumn/data/" 
+ocrdata_twocol_dir= "../../../../c2t_dataset_pew/dataset/data/" 
+ocrdata_multicol_dir= "../../../../c2t_dataset_pew/dataset/multiColumn/data/" 
+# data_twocol_dir= "../../../../c2t_dataset_pew/dataset/data/" 
+# data_multicol_dir= "../../../../c2t_dataset_pew/dataset/multiColumn/data/" 
 
 
 captions_twocol_dir= "../../../../c2t_dataset_pew/dataset/captions/" 
@@ -46,8 +46,8 @@ mapping = pd.read_csv(mappingdir,encoding='utf8')
 
 ocrdata_twocol=os.listdir(ocrdata_twocol_dir)
 ocrdata_multicol=os.listdir(ocrdata_multicol_dir)
-data_twocol=os.listdir(data_twocol_dir)
-data_multicol=os.listdir(data_multicol_dir)
+# data_twocol=os.listdir(data_twocol_dir)
+# data_multicol=os.listdir(data_multicol_dir)
 
 
 
@@ -81,20 +81,20 @@ def extract_ocrdata(data_text,caption_text):
     return data_string,data_label_string,caption_label_string
 
 
-def extract_data(table,caption_text):
+# def extract_data(table,caption_text):
     
-    data_list=[]
-    multiword_tokens=[]
-    for index,row in table.iterrows():
-        for col_no in range(len(row)):
-            if col_no==0:
-                data_list.append(table.columns[col_no].replace(" ","_").replace("\n","_")+"|"+str(row[col_no]).replace(" ","_").replace("\n","_")+"|x|chart")
-            else:
-                data_list.append(table.columns[col_no].replace(" ","_").replace("\n","_")+"|"+str(row[col_no]).replace(" ","_").replace("\n","_")+"|y|chart")
+#     data_list=[]
+#     multiword_tokens=[]
+#     for index,row in table.iterrows():
+#         for col_no in range(len(row)):
+#             if col_no==0:
+#                 data_list.append(table.columns[col_no].replace(" ","_").replace("\n","_")+"|"+str(row[col_no]).replace(" ","_").replace("\n","_")+"|x|chart")
+#             else:
+#                 data_list.append(table.columns[col_no].replace(" ","_").replace("\n","_")+"|"+str(row[col_no]).replace(" ","_").replace("\n","_")+"|y|chart")
             
-            multiword_tokens.append(row[col_no])
+#             multiword_tokens.append(row[col_no])
             
-    data_string = " ".join(data_list).replace("\n"," ").replace("\xa0","_")
+#     data_string = " ".join(data_list).replace("\n"," ").replace("\xa0","_")
     
     
     
@@ -140,20 +140,20 @@ for index,row in mapping.iterrows():
             captions.append(caption_string)
             titles.append(title_string)
                 
-        elif row[0][8:].replace(".txt",".csv") in data_twocol:
-            with open(captions_twocol_dir+row[0][8:], 'r', encoding='utf-8') as captionfile:
-                caption_string = captionfile.read()
-            with open(titles_twocol_dir+row[0][8:], 'r', encoding='utf-8') as titlefile:
-                title_string = titlefile.read()
+        # elif row[0][8:].replace(".txt",".csv") in data_twocol:
+        #     with open(captions_twocol_dir+row[0][8:], 'r', encoding='utf-8') as captionfile:
+        #         caption_string = captionfile.read()
+        #     with open(titles_twocol_dir+row[0][8:], 'r', encoding='utf-8') as titlefile:
+        #         title_string = titlefile.read()
                 
-            table = pd.read_csv(data_twocol_dir+row[0][8:].replace(".txt",".csv"),encoding='utf-8')
-            processed_data,data_label,caption_label = extract_data(table,caption_string)
+        #     table = pd.read_csv(data_twocol_dir+row[0][8:].replace(".txt",".csv"),encoding='utf-8')
+        #     processed_data,data_label,caption_label = extract_data(table,caption_string)
                  
-            data.append(processed_data)
-            data_labels.append(data_label)
-            caption_labels.append(caption_label)
-            captions.append(caption_string)
-            titles.append(title_string)
+        #     data.append(processed_data)
+        #     data_labels.append(data_label)
+        #     caption_labels.append(caption_label)
+        #     captions.append(caption_string)
+        #     titles.append(title_string)
             
         else:
             raise Exception("could not find file,",row[0])
@@ -175,20 +175,20 @@ for index,row in mapping.iterrows():
             captions.append(caption_string)
             titles.append(title_string)
                 
-        elif row[0][10:].replace(".txt",".csv") in data_multicol:
-            with open(captions_multicol_dir+row[0][10:], 'r', encoding='utf-8') as captionfile:
-                caption_string = captionfile.read()
-            with open(titles_multicol_dir+row[0][10:], 'r', encoding='utf-8') as titlefile:
-                title_string = titlefile.read()
+        # elif row[0][10:].replace(".txt",".csv") in data_multicol:
+        #     with open(captions_multicol_dir+row[0][10:], 'r', encoding='utf-8') as captionfile:
+        #         caption_string = captionfile.read()
+        #     with open(titles_multicol_dir+row[0][10:], 'r', encoding='utf-8') as titlefile:
+        #         title_string = titlefile.read()
                 
-            table = pd.read_csv(data_multicol_dir+row[0][10:].replace(".txt",".csv"),encoding='utf-8')
-            processed_data,data_label,caption_label = extract_data(table,caption_string)
+        #     table = pd.read_csv(data_multicol_dir+row[0][10:].replace(".txt",".csv"),encoding='utf-8')
+        #     processed_data,data_label,caption_label = extract_data(table,caption_string)
                  
-            data.append(processed_data)
-            data_labels.append(data_label)
-            caption_labels.append(caption_label)
-            captions.append(caption_string)
-            titles.append(title_string)
+        #     data.append(processed_data)
+        #     data_labels.append(data_label)
+        #     caption_labels.append(caption_label)
+        #     captions.append(caption_string)
+        #     titles.append(title_string)
                 
         else:
             raise Exception("could not find file,",row[0])

@@ -36,10 +36,10 @@ def addUnderscores(cleanTitle, uppercaseWords):
         return newTitle
 
 dataset_dir = "../../../../c2t_dataset_pew/dataset/"
-# title_dir = "titles_old/"
-title_dir = "multiColumn/titles_old/"
-# new_title_dir="titles/"
-new_title_dir="multiColumn/titles/"
+title_dir = "titles_old/"
+# title_dir = "multiColumn/titles_old/" #uncomment for refactoring titles in multicol folder
+new_title_dir="titles/"
+# new_title_dir="multiColumn/titles/" #uncomment for refactoring titles in multicol folder
 titlePaths = os.listdir(dataset_dir+title_dir)
 titlePaths.sort()
 

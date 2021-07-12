@@ -20,7 +20,7 @@ device = torch.device('cuda')
 
 def parse_opt():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--do_train', default=True, action="store_true", help="whether to train or test the model")
+    parser.add_argument('--do_train', default=False, action="store_true", help="whether to train or test the model")
     parser.add_argument('--do_val', default=False, action="store_true", help="whether to train or test the model")
     parser.add_argument('--do_verify', default=False, action="store_true", help="whether to train or test the model")
     parser.add_argument('--do_test', default=False, action="store_true", help="whether to train or test the model")
@@ -159,7 +159,7 @@ if __name__ == "__main__":
             for idx in range(0, dataset.test_len()):
                 #print("sampling from {}".format(dataset.get_item(idx, 'test')), file=f)
                 table_id = dataset.get_item(idx, 'test')
-                table = pandas.read_csv('data/all_csv/' + table_id, '#')
+                table = pandas.read_csv('data/all_csv/' + table_id)
 
                 results[table_id] = []
 

@@ -18,9 +18,9 @@ tokenizer = CharBPETokenizer(vocab,merges)
 # print(encoded.tokens)
 
 
-train_file = "../train_lm.json"
-val_file = "../val_lm.json"
-test_file = "../test_lm.json"
+train_file = "train_lm.json"
+val_file = "val_lm.json"
+test_file = "test_lm.json"
 
 
 train_bbox_dir = "../C2T_data/train/trainBbox.txt"

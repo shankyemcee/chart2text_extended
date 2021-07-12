@@ -90,7 +90,7 @@ for item in zip(summary,title,templ_summary):
     gold_dict[str(ref_no) + ".csv"].append([str(item[0]),col_list,str(item[1]),templ_string])
     ref_no+=1
     
-with open('./train_lm.json', 'w') as json_file:
+with open('./input_tokenization/train_lm.json', 'w') as json_file:
         json.dump(gold_dict, json_file)    
  
     
@@ -150,7 +150,7 @@ for item in zip(summary,title,templ_summary):
     gold_dict[str(ref_no) + ".csv"].append([str(item[0]),col_list,str(item[1]),templ_string])
     ref_no+=1
     
-with open('./test_lm.json', 'w') as json_file:
+with open('./input_tokenization/test_lm.json', 'w') as json_file:
         json.dump(gold_dict, json_file)    
 
 
@@ -211,7 +211,7 @@ for item in zip(summary,title,templ_summary):
     gold_dict[str(ref_no) + ".csv"].append([str(item[0]),col_list,str(item[1]),templ_string])
     ref_no+=1
     
-with open('./val_lm.json', 'w') as json_file:
+with open('./input_tokenization/val_lm.json', 'w') as json_file:
         json.dump(gold_dict, json_file)    
 
  

@@ -617,9 +617,11 @@ class NormalTableDatabase(Dataloader):
 
     def get_data(self, idx, option='train', debug=False, with_fields=False):
         table_id, entry = self.obtain_idx(idx, option)
-        d = pandas.read_csv('data/all_csv/' + table_id, '#')
+        d = pandas.read_csv('data/all_csv/' + table_id)
         if option=='train':
             bbox = self.train_bbox[int(table_id.replace(".csv",""))]
+        elif option=='test':
+            bbox = self.test_bbox[idx]
             
             
             
@@ -703,7 +705,11 @@ class NormalTableDatabase(Dataloader):
             line_nos.append(line_no)
             
             bbox_data.append(bbox_data_line)
-
+        
+        for i in range(len(seqs_in)):
+            seqs_in[i] = seqs_in[i][:511]
+            seqs_out[i] = seqs_out[i][:511]
+        
         length = max([len(_) for _ in seqs_in]) + 1
         for i in range(len(seqs_in)):
             seqs_out[i] += (length - len(seqs_out[i])) * [self.vocab['<PAD>']]
@@ -740,7 +746,7 @@ class NormalTableDatabase(Dataloader):
 
 
         if with_fields:
-            return seqs_in, seqs_out, table_in, table_scatters, lookups, line_nos, fields, indexes, input_fields
+            return seqs_in, seqs_out, table_in, table_scatters, lookups, line_nos, fields, indexes, bbox_data, input_fields
         else:
             return seqs_in, seqs_out, table_in, table_scatters, lookups, line_nos, fields, indexes, bbox_data
 
