@@ -60,7 +60,7 @@ def extract_ocrdata(data_text,caption_text):
     data_list=[]
     
     for token in tokens:
-        data_list.append("entity|"+token+"|feat|chart")
+        data_list.append("entity|"+token.replace("|","/")+"|feat|chart")
     
     
     data_string = " ".join(data_list)
@@ -197,7 +197,7 @@ for index,row in mapping.iterrows():
 with open(output_datadir, mode='wt', encoding='utf8') as file:
         file.writelines("%s\n" % line for line in data)
 
-
+'''
 with open(output_captiondir, mode='wt', encoding='utf8') as file:
         file.writelines("%s" % line for line in captions)
 
@@ -212,5 +212,5 @@ with open(output_datalabeldir, mode='wt', encoding='utf8') as file:
 with open(output_captionlabeldir, mode='wt', encoding='utf8') as file:
         file.writelines("%s\n" % line for line in caption_labels)
 
-
+'''
 

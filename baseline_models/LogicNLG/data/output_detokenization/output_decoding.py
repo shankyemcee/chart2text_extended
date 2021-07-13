@@ -25,7 +25,7 @@ tokenizer = CharBPETokenizer(vocab, merges)
 # print(encoded.tokens)
 
 
-results_file = "field_infusing.json"
+results_file = "pew/field_infusing.json"
 # val_file = "../val_lm.json"
 # test_file = "../test_lm.json"
 
@@ -124,7 +124,7 @@ for entry in results:
 
 
 
-with open("field_infusing_decoded.json", 'w') as f:
+with open("pew/field_infusing_decoded.json", 'w') as f:
     json.dump(results, f)
 
 
