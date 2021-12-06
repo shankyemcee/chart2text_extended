@@ -1,0 +1,1 @@
+The `ocr_out/` folder can be found [here](https://drive.google.com/drive/folders/1-cRCeRz0YqLX0ecEBU0RnZz8hOtPNoGR?usp=sharing)
