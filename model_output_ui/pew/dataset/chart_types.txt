@@ -1,0 +1,5 @@
+bar        0.726
+line       0.220
+pie        0.034
+area       0.014
+scatter    0.006
